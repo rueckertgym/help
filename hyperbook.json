@@ -1,0 +1,12 @@
+{
+  "name": "hyperbook-gitlab-pages",
+  "version": "0.0.1",
+  "description": "An example for how to deploy hyperbook to gitlab pages.",
+  "author": {
+    "name": "Mike Barkmin",
+    "url": "https://barkmin.eu"
+  },
+  "basePath": "/hyperbook-edugit-pages",
+  "license": "CC-BY-SA",
+  "language": "en"
+}
