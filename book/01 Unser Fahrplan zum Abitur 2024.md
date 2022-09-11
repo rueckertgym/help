@@ -1,3 +1,8 @@
+---
+name: The Name of a Page
+toc: show
+---
+
 # Unser Fahrplan bis zum Abitur 2024
 
 Das Schulministerium in NRW stellt im Bildungsportal für NRW grundlegende Informationen für die Abiturprüfungen bzw. den Unterricht zur Verfügung:
