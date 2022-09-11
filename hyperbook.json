@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "An example for how to deploy hyperbook to gitlab pages.",
   "author": {
-    "name": "Mike Barkmin",
-    "url": "https://barkmin.eu"
+    "name": "Sebastian Horn",
+    "url": "https://hornse.de"
   },
-  "basePath": "/hyperbook-edugit-pages",
+  "basePath": "/hyperbook-homepage",
   "license": "CC-BY-SA",
   "language": "en"
 }
