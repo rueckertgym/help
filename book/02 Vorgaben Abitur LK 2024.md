@@ -1,5 +1,5 @@
 ---
-name: Vorgaben zum Abitur 2024
+name: 02 Vorgaben zum Abitur 2024
 toc: show
 ---
 # Vorgaben Abitur LK 2024 (Thmengebiete und Operatoren)
