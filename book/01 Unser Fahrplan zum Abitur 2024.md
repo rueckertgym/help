@@ -13,13 +13,13 @@ https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-gost/fae
 
 * Materialien im Lehrplannavigator von NRW: Abitur 2018 ff
 insbesondere die Dokumentation für den Grundkurs bzw. Leistungskurs sowie Implementationen von Klassen für das Zentralabitur
- https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/hinweise-und-beispiele.html
+https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/hinweise-und-beispiele.html
 
 * Lehrwerk "Informatik 2"
-* Materialien von Tino Hempel zur Informatik:
-https://tinohempel.de/index.htm
+Materialien von Tino Hempel zur Informatik:
+* https://tinohempel.de/index.htm
 IO-Stick von Tino Hempel für eigenen USB -Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann:
-https://tinohempel.de/info/info/IoStick/index.html
+* https://tinohempel.de/info/info/IoStick/index.html
 * Digitales Lehrbuch: Net-Informatikbuch:
 Lehrwerk mit vertiefenden Aspekten abgestimmt auf Lehrplan in NRW
         ​  https://i2.net-schulbuch.de/
@@ -29,9 +29,9 @@ http://www.inf-schule.de
 
 * Informatikprojekte von Julian Dorn
 https://wi-wissen.de/#projekte
-* * UnterrichtmMaterialien der ETH Zürich
+* UnterrichtmMaterialien der ETH Zürich
 https://educ.ethz.ch/unterrichtsmaterialien/informatik.html
-Materialsammlung Informatik auf den Seiten der Universität Wuppertal  (wird überarbeitet) 
+* Materialsammlung Informatik auf den Seiten der Universität Wuppertal (wird überarbeitet) 
 https://ddi.uni-wuppertal.de/website/index-ddi.html?navi=materialien&main=spioncamp
 
 ## Software und Tools
