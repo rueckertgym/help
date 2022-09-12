@@ -1,12 +1,12 @@
 {
-  "name": "hyperbook-gitlab-pages",
+  "name": "Begleitmaterial Abitur 2024",
   "version": "0.0.1",
-  "description": "An example for how to deploy hyperbook to gitlab pages.",
+  "description": "Begleitmaterial für den LK Informatik Abitur 2024",
   "author": {
     "name": "Sebastian Horn",
     "url": "https://hornse.de"
   },
-  "basePath": "/hyperbook-homepage",
+  "basePath": "/begleitmaterial",
   "license": "CC-BY-SA",
-  "language": "en"
+  "language": "de"
 }
