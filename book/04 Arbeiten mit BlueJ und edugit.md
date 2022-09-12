@@ -30,4 +30,10 @@ In den folgenden Videos beschreibe ich das Arbeiten mit BlueJ in Verbindung mit 
 
 ::youtube[00 Edugit: BlueJ als Entwicklungsumgebung]{#fZZvDSeKejY}
 
+::youtube[01 Edugit: Start mit Edugit]{#c0nPGLuG-vw}
+
+
+
 https://youtu.be/fZZvDSeKejY
+
+https://youtu.be/c0nPGLuG-vw
