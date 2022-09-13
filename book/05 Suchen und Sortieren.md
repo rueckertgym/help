@@ -2,10 +2,8 @@
 name: 05 Suchen und Sortieren
 toc: show
 ---
-Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. ge
-# Suchen 
-In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung eines Arrays auf einen **bestimmten** Inhalt.
-
+Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. gesucht werden kann, wenn ein Suchkriterium vorliegt.
+Das unten stehende UML Diagramm dient als Vorlage.
 ```mermaid
 classDiagram
     
@@ -31,6 +29,18 @@ classDiagram
       -merge_intern(int links, int mitte, int rechts) void
     }
 ```
+# Auschecken im edugt
+Eine Arbeitskopie des Projekts könnt ihr unter https://edugit.org/abitur-2024/01-suchen-und-sortieren-abi-2024.git mit BlueJ auschecken. 
+## Aufgabe(n)
+1. Erstellt eine Arbeitskopie.
+2. Kopiert die Vorlagenklasse unter eurem Namen z.B.: Sortieren_Ulf
+3. commitet, pusht und aktualisiert eure Implementation. Die zu implementierenden Aufgaben findet ihr in den Kommentaren oberhalb der Methoden.
+4. Fangt zum Begin einer Stunde mit einer frischen Arbeitskopie mit der Implementaion an.
+
+# Suchen 
+In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung einer DAtenstruktur (in unserem FAll momentan die Datenstruktur array) auf einen **bestimmten** Inhalt.
+
+
 
 ## lineare Suche
 
@@ -74,15 +84,40 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 
 
 # Einfache Sortieralgorithmen
-
 ## Bubblesort
+### Video
+::youtube[Bubblesort]{#lyZQPjUT5B4}
+
+### Struktorgramm
+### Java Quellcode
 ## optimierter Bubblesort
+
 ## Insertionsort
+### Video
+::youtube[Insertionsort]{#ROalU379l3U}
+### Struktorgramm
+### Java Quellcode
+
 ## Selectionsort
+### Video
+::youtube[Selectionsort]{#Ns4TPTC8whw}
+### Struktorgramm
+### Java Quellcode
 
 # Rekursive Sortieralgorithmen
 
 ## Mergesort
+### Video
+::youtube[Mergesort]{#XaqR3G_NVoo}
+### Struktorgramm
+### Java Quellcode
+
 ## Quicksort
+### Video
+::youtube[Quicksort]{#ywWBy6J5gz8}
+### Struktorgramm
+### Java Quellcode
 
 # Aufwandsabschätzung
+
+https://cryptpad.fr/sheet/#/2/sheet/view/xH9bfbaoI0-4Vb9TtHEUxhpMWZ-P63gabh4H6ZmrGy0/
