@@ -97,7 +97,6 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 :::
 :::tab{title="Python" id="Java Quellcode"}
 ### Java Quellcode
-::::collapsible{title="Quellcode"}
 ```java
    public void bubblesort()
     {   
@@ -116,7 +115,6 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
         }
     }
 ```
-::::
 ::::
 
 ## optimierter Bubblesort
