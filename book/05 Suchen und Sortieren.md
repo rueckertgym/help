@@ -34,11 +34,13 @@ classDiagram
 ```
 # Auschecken im edugit
 Eine Arbeitskopie des Projekts könnt ihr unter https://edugit.org/abitur-2024/01-suchen-und-sortieren-abi-2024.git mit BlueJ auschecken. 
+:::alert{info}
 ## Aufgabe(n)
 1. Erstellt eine Arbeitskopie.
 2. Kopiert die Vorlagenklasse unter eurem Namen z.B.: Sortieren_Ulf
 3. commitet, pusht und aktualisiert eure Implementation. Die zu implementierenden Aufgaben findet ihr in den Kommentaren oberhalb der Methoden.
 4. Fangt zum Begin einer Stunde mit einer frischen Arbeitskopie mit der Implementaion an.
+:::
 
 # Suchen 
 In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung einer DAtenstruktur (in unserem FAll momentan die Datenstruktur array) auf einen **bestimmten** Inhalt.
