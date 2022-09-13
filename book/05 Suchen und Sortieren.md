@@ -91,14 +91,14 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
 
 ### Struktogramm und Java Quellcode
-::::tabs{id="Algorithmen"}
-:::tab{title="Struktogramm" id="Struktogramm"}
+::::tabs{id="Bubblesort"}
+:::tab{title="Struktogramm Bubblesort" id="Struktogramm Bubblesort"}
 ![Bubblesort](./Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
 :download[Herunterladen]{src="./download/Bubblesort_Struktogramm.json"}
 :::
-:::tab{title="Java Quellcode" id="Java Quellcode"}
+:::tab{title="Java Bubblesort" id="Java Bubblesort"}
 ```java
    public void bubblesort()
     {   
@@ -125,8 +125,33 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 ## Insertionsort
 ### Video
 ::youtube[Insertionsort]{#ROalU379l3U}
-### Struktorgramm
-### Java Quellcode
+### Struktorgramm und Java Quellcode
+::::tabs{id="Insertionsort"}
+::Insertionsort:tab{title="Struktogramm Insertionsort" id="Struktogramm Insertionsort"}
+![Insertionsort](./Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm.png "Insertionsortsort")
+
+Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
+:download[Herunterladen]{src="./download/Insertionsort_Struktogramm.json"}
+:::
+:::tab{title="Java Insertionsort" id="Java Insertionsort"}
+```java
+public void insertionsort()
+{
+   for (int i = 1; i < zZahlenarray.length; i++)
+    {
+        int kleinereZahl = zZahlenarray[i];
+        int j = i;
+        while (j >0 && kleinereZahl < zZahlenarray[j-1])
+        {
+            zZahlenarray[j] = zZahlenarray[j - 1];;
+            j--;
+        }
+    zZahlenarray[j] = kleinereZahl;;
+    }
+}
+```
+:::
+::::
 
 ## Selectionsort
 ### Video

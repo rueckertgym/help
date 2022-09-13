@@ -3,16 +3,10 @@ name: 04 Arbeiten mit BlueJ und edugit
 toc: show
 index: 6
 ---
-::::tabs{id="04 Arbeiten mit BlueJ"}
+# Arbeiten mit BlueJ und edugit
 
-:::tab{title="Aufgaben"}
-:::alert{info}
-1. Installiere BlueJ auf eurem Rechner, damit du auch von zu Hause arbeiten kannst.
-2. Registrier dich bei teckids (https://ticdesk.teckids.org/app/paweljong/account/register/start#), damit du edugit nutzen kannst. Deine teckids Zugangsdaten sind auch deine edugit Zugangsdaten.
-3. Schau dir die Videos unter **Videos: Arbeiten mit BlueJ und edugit** an und starte mit dem nächsten Kapitel.
-::::
 
-# (Edu)git
+## (Edu)git
 Ein git-System unterstützt dich beim kollaborativen (gemeinsamen) Arbeiten an Projekten und wird weltweit in der Softwareentwicklung angewendet.
 Vereinfacht gesagt handelt es sich hierbei um eine cloud in der alle benötigten Dateien synchron und up-to-date gehalten werden. 
 Ich habe mich für den Unterricht für https://edugit.org entschieden, da dies ein datensparsamer und kostenfreier Anbieter ist.
@@ -20,40 +14,30 @@ Um edugit nutzen zu können wird ein https://teckids.org Account benötigt, wobe
 
 Ein "Synchronisationsprozeß" gliedert sich in zwei Aktionen: commit und push.
 
-Othe
-
-:::
-# Aufgaben
-:::alert{info}
-1. Installiere BlueJ auf eurem Rechner, damit du auch von zu Hause arbeiten kannst.
-2. Registrier dich bei teckids (https://ticdesk.teckids.org/app/paweljong/account/register/start#), damit du edugit nutzen kannst. Deine teckids Zugangsdaten sind auch deine edugit Zugangsdaten.
-3. Schau dir die Videos unter **Videos: Arbeiten mit BlueJ und edugit** an und starte mit dem nächsten Kapitel.
-:::
-# (Edu)git
-Ein git-System unterstützt dich beim kollaborativen (gemeinsamen) Arbeiten an Projekten und wird weltweit in der Softwareentwicklung angewendet.
-Vereinfacht gesagt handelt es sich hierbei um eine cloud in der alle benötigten Dateien synchron und up-to-date gehalten werden. 
-Ich habe mich für den Unterricht für https://edugit.org entschieden, da dies ein datensparsamer und kostenfreier Anbieter ist.
-Um edugit nutzen zu können wird ein https://teckids.org Account benötigt, wobei teckids der Anbieter hinter edugit ist.
-
-Ein "Synchronisationsprozeß" gliedert sich in zwei Aktionen: commit und push.
-
-## commit
+### commit
 Bei einem commit werden von dir aktualisierte Daten am System für den Upload/Synchronisation bereitgestellt und das git System überprüft, ob Konflikte vorliegen oder ob deine Dateien hochgeladen werden können.
 
 > Als Commit oder Check-In bezeichnet man bei der Verwendung von Versionsverwaltungssystemen den Vorgang des Einspielens von neuem oder geändertem Quelltext und anderer Dateien in das Versionsverwaltungssystem. Dabei wird eine neue Version der Software den anderen an der Softwareentwicklung beteiligten Entwicklern zur Verfügung gestellt.
 Quelle: https://de.wikipedia.org/wiki/Commit
 
-## push
+### push
 Ein push erfolgt nach einem erfolgreichen commit und ist für das Bereitstellen/Upload der Daten zuständig.
 
-## Versionskontrolle/Versionskontrollsystem
+### Versionskontrolle/Versionskontrollsystem
 Ein großer Vorteil solcher git-System ist die Möglichkeit auf ältere Versionen seiner Daten zurückgreifen zu können - es geht nichts verloren
 
 > Eine Versionsverwaltung ist ein System, das zur Erfassung von Änderungen an Dokumenten oder Dateien verwendet wird. Alle Versionen werden in einem Archiv mit Zeitstempel und Benutzerkennung gesichert und können später wiederhergestellt werden. Versionsverwaltungssysteme werden typischerweise in der Softwareentwicklung eingesetzt, um Quelltexte zu verwalten. Versionsverwaltung kommt auch bei Büroanwendungen oder Content-Management-Systemen zum Einsatz.
 Quelle: https://de.wikipedia.org/wiki/Versionsverwaltung
 
-# BlueJ
+## BlueJ
 Als Entwicklungsumgebung (IDE) kommt bei uns im Unterricht BlueJ https://blueJ.org zum Einsatz.
+
+## Aufgaben
+:::alert{info}
+1. Installiere BlueJ auf eurem Rechner, damit du auch von zu Hause arbeiten kannst.
+2. Registrier dich bei teckids (https://ticdesk.teckids.org/app/paweljong/account/register/start#), damit du edugit nutzen kannst. Deine teckids Zugangsdaten sind auch deine edugit Zugangsdaten.
+3. Schau dir die Videos unter **Videos: Arbeiten mit BlueJ und edugit** an und starte mit dem nächsten Kapitel.
+:::
 
 ## Videos: Arbeiten mit BlueJ und edugit
 
