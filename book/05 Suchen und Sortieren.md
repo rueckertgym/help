@@ -91,8 +91,8 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ### Struktorgramm
 ![Bubblesort](/Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
 
-
 ### Java Quellcode
+::::collapsible{title="Quellcode"}
 ```java
    public void bubblesort()
     {   
@@ -111,6 +111,7 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
         }
     }
 ```
+::::
 ## optimierter Bubblesort
 
 ## Insertionsort
