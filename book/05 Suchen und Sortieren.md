@@ -89,7 +89,8 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
 
 ### Struktorgramm
-![Bubblesort](Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
+![Bubblesort](/Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
+
 
 ### Java Quellcode
 ```java
