@@ -2,7 +2,9 @@
 name: 05 Suchen und Sortieren
 toc: show
 ---
+# Suchen und Sortieren auf der linearen Datenstruktur Array
 Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. gesucht werden kann, wenn ein Suchkriterium vorliegt.
+## UML Diagramm zum Projekt
 Das unten stehende UML Diagramm dient als Vorlage.
 ```mermaid
 classDiagram
@@ -29,7 +31,7 @@ classDiagram
       -merge_intern(int links, int mitte, int rechts) void
     }
 ```
-# Auschecken im edugt
+# Auschecken im edugit
 Eine Arbeitskopie des Projekts könnt ihr unter https://edugit.org/abitur-2024/01-suchen-und-sortieren-abi-2024.git mit BlueJ auschecken. 
 ## Aufgabe(n)
 1. Erstellt eine Arbeitskopie.
@@ -39,8 +41,6 @@ Eine Arbeitskopie des Projekts könnt ihr unter https://edugit.org/abitur-2024/0
 
 # Suchen 
 In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung einer DAtenstruktur (in unserem FAll momentan die Datenstruktur array) auf einen **bestimmten** Inhalt.
-
-
 
 ## lineare Suche
 
@@ -89,7 +89,27 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
 
 ### Struktorgramm
+![Bubblesort](Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
+
 ### Java Quellcode
+```java
+   public void bubblesort()
+    {   
+        int hilfe = 0;
+        for (int i = 0; i < zZahlenarray.length; i++)
+        {
+            for (int x = 0; x < zZahlenarray.length -1; x++)
+            {
+                if (zZahlenarray [x] > zZahlenarray [+1])
+                {
+                    hilfe= zZahlenarray[x+1];
+                    zZahlenarray [x] = zZahlenarray[x+1];
+                    zZahlenarray [x] = hilfe;
+                }
+            }
+        }
+    }
+```
 ## optimierter Bubblesort
 
 ## Insertionsort
