@@ -15,7 +15,20 @@ classDiagram
       +Sortieren()
       +Sortieren(int pGroesse)
       +Sortieren(int pGroesse, int pMaxZahl)
-      +bfmsZufall()
+      +bfms() void
+      +bfmsZufall() void
+      +bfmsZufallFlex(int pMaxZahl) void
+      +bubblesort() void
+      +insertionsort() void
+      +selectionsort() void
+      +lineareSuche(int pZahl) boolean
+      +binaereScuhe(int pGesuchteZahl)
+      -binaereSuche_intern(int pZahl, int pBeginn, int pEnde) boolean
+      +quicksort() void
+      -quicksort_intern(int pL, int pRechts) void
+      +mergeSort() void
+      -mergesort(int pLo, int pHi) void
+      -merge_intern(int links, int mitte, int rechts) void
     }
 ```
 
