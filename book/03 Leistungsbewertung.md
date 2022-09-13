@@ -1,6 +1,7 @@
 ---
 name: 03 Leistungsbewertung
 toc: show
+index: 5
 ---
 
 # Hinweise zur Leistungsbewertung

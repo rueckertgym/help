@@ -1,6 +1,7 @@
 ---
 name: 04 Arbeiten mit BlueJ und edugit
 toc: show
+index: 6
 ---
 
 # (Edu)git

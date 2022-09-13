@@ -1,6 +1,7 @@
 ---
 name: Start
 toc: show
+index: 1
 ---
 
 # Begleitmaterial
