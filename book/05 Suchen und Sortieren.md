@@ -6,6 +6,19 @@ Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren vo
 # Suchen 
 In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung eines Arrays auf einen **bestimmten** Inhalt.
 
+:::mermaid
+classDiagram
+    
+    class Sortieren {
+      -int [] zZahen
+      - Random zZufallsgenerator
+      +Sortieren()
+      +Sortieren(int pGroesse)
+      +Sortieren(int pGroesse, int pMaxZahl)
+      +bfmsZufall() int
+    }
+:::
+
 ## lineare Suche
 
 ### Erklärung:
@@ -15,26 +28,29 @@ Der Suchaufwand wächst linear mit der Anzahl der Elemente. Wenn die Daten zufal
 
 Wenn die Anzahl der Elemente in einer Liste klein ist, dann ist es oft auch das effizienteste Verfahren.
 ### Beispiel Anwendung:
-| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | Gesuchte Zahl |
-| - | - | - | - | - | - | - | - | - | - | :-: |
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
 | **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 
 Als Beispiel wird die Zahl **9** gesucht. angefangen wird zunächst an der Stelle 0 im Array. An dieser Stelle befindet sich die Zahl **16**, da diese nicht die gesuchte Zahl ist gehen wir ein Fach im Array weiter.
 
-| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | Gesuchte Zahl |
-| - | - | - | - | - | - | - | - | - | - | :-: |
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
 | **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 | ~~16~~ | **78** | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 
 Nach der **16** kommt die **78** die ist ebenfalls noch nicht die gesuchte Zahl somit wird sich weiter bewegt.
 
-| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | Gesuchte Zahl |
-| - | - | - | - | - | - | - | - | - | - | :-: |
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
 | **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 | ~~16~~ | **78** | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 | ~~16~~ | ~~78~~ | **11** | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 
 Nach der **78** kommt die gesuchte Zahl **11** und die Suche ist mit der Wiedergabe der gefundenen Informationen beendet.
+
+### Struktorgramm
+### Java Quellcode
 ## binäre Suche
 
 ### Erklärung:
