@@ -29,38 +29,35 @@ Als Entwicklungsumgebung (IDE) kommt bei uns im Unterricht BlueJ https://blueJ.o
 In den folgenden Videos beschreibe ich das Arbeiten mit BlueJ in Verbindung mit Edugit:
 
 ::::tabs{id="Videos"}
-:::tab{title="00 Edugit: BlueJ als Entwicklungumgebung" id="00 Edugit: BlueJ als Entwicklungumgebung"}
+:::tab{title="00 BlueJ" id="00 Edugit: BlueJ als Entwicklungumgebung"}
 ### 1. 00 Edugit: BlueJ als Entwicklungumgebung 
-::youtube[00 Edugit: BlueJ als Entwicklungsumgebung]{#fZZvDSeKejY}
+::youtube[00 Edugit: BlueJ als Entwicklungumgebung]{#fZZvDSeKejY}
 :::
-:::tab{title="01 Edugit: Start mit Edugit" id="01 Edugit: Start mit Edugit"}
+:::tab{title="01 Edugit" id="01 Edugit: Start mit Edugit"}
 ### 2. 01 Edugit: Start mit Edugit
 ::youtube[01 Edugit: Start mit Edugit]{#c0nPGLuG-vw}
 :::
-:::tab{title="01a Edugit: Abeitskopie erstellen" id="01a Edugit: Abeitskopie erstellen"}
+:::tab{title="01a Edugit" id="01a Edugit: Abeitskopie erstellen"}
 ### 3. 01a Edugit: Arbeitskopie erstellen
 ::youtube[01a Edugit: Abeitskopie erstellen]{#GP5NVpPgr40}
 :::
-:::tab{title="02 Edugit: Einchecken in Edugit" id="02 Edugit: Einchecken in Edugit"}
+:::tab{title="02 Einchecken" id="02 Edugit: Einchecken in Edugit"}
 ### 4. 02 Edugit: Einchecken in Edugit
 ::youtube[02 Edugit: Einchecken in Edugit]{#d_6e4MiDbek}
 :::
-:::tab{title="03 Edugit: Personal Access Token für Edugit anlegen" id="03 Edugit: Personal Access Token für Edugit anlegen"}
+:::tab{title="03 Personal Access Token" id="03 Edugit: Personal Access Token für Edugit anlegen"}
 ### 5. 03 Edugit: Personal Access Token für Edugit anlegen
 ::youtube[03 Edugit: Personal Access Token für Edugit anlegen]{#jdFHeuC4HLg}
 :::
-:::tab{title="04 Edugit: Access Token in BlueJ nutzen" id="04 Edugit: Access Token in BlueJ nutzen"}
+:::tab{title="04 Access Token" id="04 Edugit: Access Token in BlueJ nutzen"}
 ### 6. 04 Edugit: Access Token in BlueJ nutzen
 ::youtube[04 Edugit: Access Token in BlueJ nutzen]{#OVRGPYyLWtc}
 :::
-:::tab{title="05 Edugit: Access Token in BlueJ nutzen" id="05 Edugit: Access Token in BlueJ nutzen"}
+:::tab{title="05 Markdown" id="05 Edugit: Access Token in BlueJ nutzen"}
 ### 7. 05 Edugit: Arbeiten mit Markdown
-::youtube[05 Edugit: Access Token in BlueJ nutzen]{#Dzjb2FZveaE}
+::youtube[05 Edugit:  Arbeiten mit Markdown]{#Dzjb2FZveaE}
 :::
 ::::
-
-
-
 
 
 
