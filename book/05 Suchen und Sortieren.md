@@ -91,6 +91,9 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ### Struktorgramm
 ![Bubblesort](/Bubblesort_Struktogramm.png "Bubblesort")
 
+Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
+:download[Herunterladen]{src="/download/Bubblesort_Struktogramm.json"}
+
 ### Java Quellcode
 ::::collapsible{title="Quellcode"}
 ```java
