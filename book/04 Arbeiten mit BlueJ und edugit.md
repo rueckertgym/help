@@ -3,9 +3,28 @@ name: 04 Arbeiten mit BlueJ und edugit
 toc: show
 index: 6
 ---
+::::tabs{id="04 Arbeiten mit BlueJ"}
 
+:::tab{title="Aufgaben"}
 :::alert{info}
-## Aufgaben
+1. Installiere BlueJ auf eurem Rechner, damit du auch von zu Hause arbeiten kannst.
+2. Registrier dich bei teckids (https://ticdesk.teckids.org/app/paweljong/account/register/start#), damit du edugit nutzen kannst. Deine teckids Zugangsdaten sind auch deine edugit Zugangsdaten.
+3. Schau dir die Videos unter **Videos: Arbeiten mit BlueJ und edugit** an und starte mit dem nächsten Kapitel.
+::::
+
+# (Edu)git
+Ein git-System unterstützt dich beim kollaborativen (gemeinsamen) Arbeiten an Projekten und wird weltweit in der Softwareentwicklung angewendet.
+Vereinfacht gesagt handelt es sich hierbei um eine cloud in der alle benötigten Dateien synchron und up-to-date gehalten werden. 
+Ich habe mich für den Unterricht für https://edugit.org entschieden, da dies ein datensparsamer und kostenfreier Anbieter ist.
+Um edugit nutzen zu können wird ein https://teckids.org Account benötigt, wobei teckids der Anbieter hinter edugit ist.
+
+Ein "Synchronisationsprozeß" gliedert sich in zwei Aktionen: commit und push.
+
+Othe
+
+:::
+# Aufgaben
+:::alert{info}
 1. Installiere BlueJ auf eurem Rechner, damit du auch von zu Hause arbeiten kannst.
 2. Registrier dich bei teckids (https://ticdesk.teckids.org/app/paweljong/account/register/start#), damit du edugit nutzen kannst. Deine teckids Zugangsdaten sind auch deine edugit Zugangsdaten.
 3. Schau dir die Videos unter **Videos: Arbeiten mit BlueJ und edugit** an und starte mit dem nächsten Kapitel.
@@ -73,11 +92,11 @@ In den folgenden Videos beschreibe ich das Arbeiten mit BlueJ in Verbindung mit 
 
 
 :::alert{success}
-In diesem Abschnitt hast du **gelesen**, dass ...
-- das BlueJ unsere Entwicklungsumgebung ist.
-- was ein git System ist.
-- wann wir es einsetzten.
-- wie es eingestzt wird.
+In diesem Abschnitt hast du **gelesen, gesehen und erfahren**, ...
+- ... dass BlueJ unsere Entwicklungsumgebung ist.
+- ... dass wir mit einem git System arbeiten.
+- ... wann wir dieses git System einsetzten.
+- ... wie wir dieses git System einsetzen werden.
 
 Im nächsten Kapitel wird es dann auch endlich praktisch angewendet ;-). 
 :::
