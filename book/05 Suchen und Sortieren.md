@@ -87,16 +87,15 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ### Video
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
 
+### Struktogramm und Java Quellcode
 ::::tabs{id="Algorithmen"}
 :::tab{title="Struktogramm" id="Struktogramm"}
-### Struktorgramm
 ![Bubblesort](/Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
 :download[Herunterladen]{src="/download/Bubblesort_Struktogramm.json"}
 :::
 :::tab{title="Java Quellcode" id="Java Quellcode"}
-### Java Quellcode
 ```java
    public void bubblesort()
     {   
