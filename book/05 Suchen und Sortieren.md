@@ -82,14 +82,13 @@ Eine binäre Suche ist eine schnelle und effiziente Methode, um einen bestimmten
 Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im Vergleich zu einer linearen Suche hätte die Suche vom ersten Wert an begonnen und sich nach oben bewegt, wobei das Ziel mit acht Werten verglichen werden musste. Eine binäre Suche ist nur mit einem geordneten Datensatz möglich; Wenn die Daten zufällig angeordnet sind, liefert eine lineare Suche die ganze Zeit über Ergebnisse, während eine binäre Suche wahrscheinlich in einer Endlosschleife stecken bleibt.
 ### Beispiel Anwendung:
 
-
 # Einfache Sortieralgorithmen
 ## Bubblesort
 ### Video
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
 
 ### Struktorgramm
-![Bubblesort](/Bubblesort_Struktogramm.png "Bubblesort")
+![Bubblesort](/Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
 :download[Herunterladen]{src="/download/Bubblesort_Struktogramm.json"}
