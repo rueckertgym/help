@@ -28,12 +28,26 @@ Als Entwicklungsumgebung (IDE) kommt bei uns im Unterricht BlueJ https://blueJ.o
 
 In den folgenden Videos beschreibe ich das Arbeiten mit BlueJ in Verbindung mit Edugit:
 
+1. 00 Edugit: BlueJ als Entwicklungumgebung 
 ::youtube[00 Edugit: BlueJ als Entwicklungsumgebung]{#fZZvDSeKejY}
 
+2. 01 Edugit: Start mit Edugit
 ::youtube[01 Edugit: Start mit Edugit]{#c0nPGLuG-vw}
 
+3. 01a Edugit: Arbeitskopie erstellen
+::youtube[01a Edugit: Abeitskopie erstellen]{#GP5NVpPgr40}
+
+4. 02 Edugit: Einchecken in Edugit
+::youtube[02 Edugit: Einchecken in Edugit]{#d_6e4MiDbek}
+
+5. 03 Edugit: Personal Access Token für Edugit anlegen
+::youtube[03 Edugit: Personal Access Token für Edugit anlegen]{#jdFHeuC4HLg}
+
+6. 04 Edugit: Access Token in BlueJ nutzen
+::youtube[04 Edugit: Access Token in BlueJ nutzen]{#OVRGPYyLWtc}
+
+7. 04 Edugit: Arbeiten mit Markdown
+::youtube[04 Edugit: Access Token in BlueJ nutzen]{#Dzjb2FZveaE}
 
 
-https://youtu.be/fZZvDSeKejY
 
-https://youtu.be/c0nPGLuG-vw
