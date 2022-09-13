@@ -6,7 +6,7 @@ Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren vo
 # Suchen 
 In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung eines Arrays auf einen **bestimmten** Inhalt.
 
-:::mermaid
+```mermaid
 classDiagram
     
     class Sortieren {
@@ -17,7 +17,7 @@ classDiagram
       +Sortieren(int pGroesse, int pMaxZahl)
       +bfmsZufall()
     }
-:::
+```
 
 ## lineare Suche
 
