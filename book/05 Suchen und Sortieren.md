@@ -10,12 +10,12 @@ In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung e
 classDiagram
     
     class Sortieren {
-      -int [] zZahen
+      -int [] zZahlen
       - Random zZufallsgenerator
       +Sortieren()
       +Sortieren(int pGroesse)
       +Sortieren(int pGroesse, int pMaxZahl)
-      +bfmsZufall() int
+      +bfmsZufall()
     }
 :::
 
