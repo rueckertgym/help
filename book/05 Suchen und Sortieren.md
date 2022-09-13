@@ -10,7 +10,7 @@ Das unten stehende UML Diagramm dient als Vorlage.
 classDiagram
     
     class Sortieren {
-      -int [] zZahlen
+      -int [] zZahlenarray
       - Random zZufallsgenerator
       +Sortieren()
       +Sortieren(int pGroesse)
@@ -22,7 +22,7 @@ classDiagram
       +insertionsort() void
       +selectionsort() void
       +lineareSuche(int pZahl) boolean
-      +binaereScuhe(int pGesuchteZahl)
+      +binaereSuche(int pGesuchteZahl)
       -binaereSuche_intern(int pZahl, int pBeginn, int pEnde) boolean
       +quicksort() void
       -quicksort_intern(int pL, int pRechts) void
@@ -87,12 +87,15 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 ### Video
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
 
+::::tabs{id="Algorithmen"}
+:::tab{title="Java" id="Struktogramm"}
 ### Struktorgramm
 ![Bubblesort](/Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
 :download[Herunterladen]{src="/download/Bubblesort_Struktogramm.json"}
-
+:::
+:::tab{title="Python" id="Java Quellcode"}
 ### Java Quellcode
 ::::collapsible{title="Quellcode"}
 ```java
@@ -114,6 +117,8 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
     }
 ```
 ::::
+::::
+
 ## optimierter Bubblesort
 
 ## Insertionsort
