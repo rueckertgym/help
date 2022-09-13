@@ -11,7 +11,7 @@ In diesem begleitenden "workbook" werden wir unsere Ergebnisse zum Unterricht fe
 
 Im Rahmen des Unterrichts werden wir mit der Entwicklungsumgebung BlueJ für die objektorientierte Programmiersprache Java arbeiten.
 
-Gerne könnt auch mit alternative Entwicklungsumgebungen (IDE) wie z.B. VSCode, Netbeans usw. arbeiten, wobei ich meine Materialien, die ich euch zur Verfügung stelle auf BlueJ abgestimmt habe.
+Gerne könnt auch mit alternative Entwicklungsumgebungen (IDE = **I**ntegrated**D**evelopment**E**nvironment) wie z.B. VSCode, Netbeans usw. arbeiten, wobei ich meine Materialien, die ich euch zur Verfügung stelle auf BlueJ abgestimmt habe.
 
 Im Rahmen des Unterrichts werden wir mit einem git-System (https://edugit.org) arbeiten. Was genau ein git-System ist und wie das Zusammenspiel zwischen BlueJ und git funktioniert, erkläre ich in meinen Videos auf die ich später verlinke.
 
@@ -20,17 +20,14 @@ Im Rahmen des Unterrichts werden wir mit einem git-System (https://edugit.org) a
 
 Materialien: Klausurbögen kariert, Stifte, Geodreieck, essen und trinken. Alle Klausurbögen - außer dem Mantelbogen - werden nummeriert und mit eurem Namen beschriftet. Formale Fehler (Rechtschreibung, Zeichensetzung, fehlende Fachsprache, Ausdrucksfehler usw.) können zur Absenkung der Note um bis zu 3 Oberstufenpunkten führen
 
-Klausur 1 
+:::alert{warn}
+**Klausur 1** 
 
-        Datum: 22.09.2022
+...Datum: 22.09.2022
+...Uhrzeit: 08:00 Uhr
+...Raum: 
+...Länge: 180 Minuten
 
-        Uhrzeit: 08:00 Uhr
-
-        Raum: 
-
-        Länge: 180 Minuten
-
-
-
-Themenbereiche: Grundbegriffe der objektorientierung Programmierung, Arrays, Suchen und Sortieren
+**Themenbereiche: Grundbegriffe der objektorientierung Programmierung, Arrays, Suchen und Sortieren**
+:::
 
