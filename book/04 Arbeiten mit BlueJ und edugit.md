@@ -18,7 +18,7 @@ Ein "Synchronisationsprozeß" gliedert sich in zwei Aktionen: commit und push.
 Bei einem commit werden von dir aktualisierte Daten am System für den Upload/Synchronisation bereitgestellt und das git System überprüft, ob Konflikte vorliegen oder ob deine Dateien hochgeladen werden können.
 
 > Als Commit oder Check-In bezeichnet man bei der Verwendung von Versionsverwaltungssystemen den Vorgang des Einspielens von neuem oder geändertem Quelltext und anderer Dateien in das Versionsverwaltungssystem. Dabei wird eine neue Version der Software den anderen an der Softwareentwicklung beteiligten Entwicklern zur Verfügung gestellt.
-Quelle: https://de.wikipedia.org/wiki/Commit
+>> Quelle: https://de.wikipedia.org/wiki/Commit
 
 ### push
 Ein push erfolgt nach einem erfolgreichen commit und ist für das Bereitstellen/Upload der Daten zuständig.
@@ -27,7 +27,7 @@ Ein push erfolgt nach einem erfolgreichen commit und ist für das Bereitstellen/
 Ein großer Vorteil solcher git-System ist die Möglichkeit auf ältere Versionen seiner Daten zurückgreifen zu können - es geht nichts verloren
 
 > Eine Versionsverwaltung ist ein System, das zur Erfassung von Änderungen an Dokumenten oder Dateien verwendet wird. Alle Versionen werden in einem Archiv mit Zeitstempel und Benutzerkennung gesichert und können später wiederhergestellt werden. Versionsverwaltungssysteme werden typischerweise in der Softwareentwicklung eingesetzt, um Quelltexte zu verwalten. Versionsverwaltung kommt auch bei Büroanwendungen oder Content-Management-Systemen zum Einsatz.
-Quelle: https://de.wikipedia.org/wiki/Versionsverwaltung
+>> Quelle: https://de.wikipedia.org/wiki/Versionsverwaltung
 
 ## BlueJ
 Als Entwicklungsumgebung (IDE) kommt bei uns im Unterricht BlueJ https://blueJ.org zum Einsatz.

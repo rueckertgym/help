@@ -32,18 +32,24 @@ classDiagram
       -merge_intern(int links, int mitte, int rechts) void
     }
 ```
-# Auschecken im edugit
-Eine Arbeitskopie des Projekts könnt ihr unter https://edugit.org/abitur-2024/01-suchen-und-sortieren-abi-2024.git mit BlueJ auschecken. 
+
 :::alert{info}
 ## Aufgabe(n)
-1. Erstellt eine Arbeitskopie.
-2. Kopiert die Vorlagenklasse unter eurem Namen z.B.: Sortieren_Ulf
-3. commitet, pusht und aktualisiert eure Implementation. Die zu implementierenden Aufgaben findet ihr in den Kommentaren oberhalb der Methoden.
-4. Fangt zum Begin einer Stunde mit einer frischen Arbeitskopie mit der Implementaion an.
+1. Erstelle eine Arbeitskopie des Projekts. Eine Arbeitskopie des Projekts kannst du unter https://edugit.org/abitur-2024/01-suchen-und-sortieren-abi-2024.git mit BlueJ auschecken. 
+2. Kopiere die Vorlagenklasse unter deinem Namen z.B.: Sortieren_Ulf in dasselbe Projekt.
+3. Implementiere zuerst die Methoden, die **kein** Sortier- oder Suchalgorithmus sind. Was die einzelnen Methoden leisten sollen, steht in den Methodenkommentaren!
+4. Teste deine Implementationen, indem du die erzeugten Objekte inspiziert. Ist das Array immer den Anforderungen entsprechend gefüllt?
+5. Commitet, pusht und aktualisiere deine Implementation. 
+6. Fertigt mit dem Struktogrameditor der Uni Dresden Struktogramme zu den einfachen Sortieralgorithmen: Bubble-, Insertion- und Selectionsort an und speichere sowohl eine Bilddatei als auch eine .json Datei deines Struktograms.
+7. Nutze den Quellcodeexport und **teste** deine Exporte in **deiner** Klasse. Sollte etwas nicht funktionieren, verbessere es und passe auch deine Struktogramme dementsprechend an.
+8. Commitet, pusht und aktualisiere deine Implementation. 
+9. Fahre nach demselben Vorgehen (6-8) mit den beiden Suchmethoden (lineare Suche und binäre Suche) fort. Hilfestellungen findest du wieder in den Methodendokumentationen.
+10. Fahre nach demselben Vorgehen (6-8) mit den beiden rekursiven Sortiermethoden (Quicksort und Mergesort) fort. Hilfestellungen findest du wieder in den Methodendokumentationen.
+9. Beginne zum Beginn einer Stunde mit einer frischen Arbeitskopie deiner Implementation.
 :::
 
 # Suchen 
-In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung einer DAtenstruktur (in unserem FAll momentan die Datenstruktur array) auf einen **bestimmten** Inhalt.
+In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung einer Datenstruktur (in unserem Fall momentan die Datenstruktur array) auf einen **bestimmten** Inhalt.
 
 ## lineare Suche
 
