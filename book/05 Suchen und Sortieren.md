@@ -133,7 +133,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 ::youtube[Insertionsort]{#ROalU379l3U}
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Insertionsort"}
-:::Insertionsort:tab{title="Struktogramm Insertionsort" id="Struktogramm Insertionsort"}
+:::tab{title="Struktogramm Insertionsort" id="Struktogramm Insertionsort"}
 ![Insertionsort](./Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm.png "Insertionsortsort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
@@ -166,7 +166,7 @@ public void insertionsort()
 }
 ```
 :::
-:::Insertionsort:tab{title="Struktogramm Insertionsort optimiert" id="Struktogramm Insertionsort optimiert"}
+:::tab{title="Struktogramm Insertionsort optimiert" id="Struktogramm Insertionsort optimiert"}
 ![Insertionsort optimiert](./Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm_optimiert.png "Insertionsortsort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
@@ -191,7 +191,6 @@ public void insertionsort()
 ```
 :::
 ::::
-
 ## Selectionsort
 ### Video
 ::youtube[Selectionsort]{#Ns4TPTC8whw}
