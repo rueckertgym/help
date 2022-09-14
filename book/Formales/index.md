@@ -1,7 +1,6 @@
 ---
 name: 00 Willkommen im Informatik LK
 toc: show
-index: 2
 ---
 
 # Informatik LK Abitur 2024
