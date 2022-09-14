@@ -134,7 +134,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Insertionsort"}
 :::tab{title="Struktogramm Insertionsort" id="Struktogramm Insertionsort"}
-![Insertionsort](./Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm.png "Insertionsortsort")
+![Insertionsort](./Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm.png "Insertionsort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
 :download[Herunterladen]{src="./download/Insertionsort_Struktogramm.json"}
