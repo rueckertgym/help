@@ -85,23 +85,40 @@ Nach der **78** kommt die gesuchte Zahl **11** und die Suche ist mit der Wiederg
 ::::tabs{id="Lineare Suche"}
 :::tab{title="Lineare Suche" id="Struktog. lineare"}
 :::
-:::tab{title="Lineare Suche optimiert" id="Struktog. lineare"}
-:::
 :::tab{title="Java lineare Suche" id="Java lineare Suche"}
 ```java
-   public boolean lineareSuche(int pZahl)
+    public boolean lineareSuche(int pZahl)
     {      
-       boolean f = false;
-       int i = zZahlenarray.length-1;
-       do
-       {
-           if ( zZahlenarray[i] == pZahl ){
-               f = true;
-               i++;
-           }
+        boolean gefunden = false;
+        for (int i = 0 ; i < zZahlenarray.length ; i++)
+        {
+            if ( zZahlenarray[i] == pZahl ) 
+            {
+                gefunden = true;
+            }
         }
-       while (f == false);
-       return f;
+        return false;
+    }
+```
+:::
+:::tab{title="Lineare Suche optimiert" id="Struktog. lineare optimiert"}
+:::
+:::tab{title="Java lineare Suche optimiert" id="Java lineare Suche optimiert"}
+```java
+    public boolean lineareSuche(int pZahl)
+    {      
+        boolean gefunden = false;
+        int i = zZahlenarray.length-1;
+        do
+        {
+            if ( zZahlenarray[i] == pZahl )
+            {
+                gefunden = true;
+                i++;
+            }
+        }
+        while (gefunden == false);
+        return gefunden;
     }
 ```
 :::
@@ -109,15 +126,41 @@ Nach der **78** kommt die gesuchte Zahl **11** und die Suche ist mit der Wiederg
 ## binäre Suche
 
 ### Erklärung:
-Eine binäre Suche ist eine schnelle und effiziente Methode, um einen bestimmten Zielwert aus einer Reihe von bestellten Artikeln zu ermitteln. Indem Sie in der Mitte der sortierten Liste beginnen, können Sie den Suchraum effektiv halbieren, indem Sie anhand des Medianwerts im Vergleich zum Zielwert festlegen, ob die Liste auf- oder absteigend sein soll.
+Eine binäre Suche ist eine schnelle und effiziente Methode, um einen bestimmten Zielwert aus einer Reihe von bestellten Artikeln zu ermitteln. Indem Sie in der Mitte der zu sortierten Datenstruktur (in unserem Fall ein array) beginnen, können Sie den Suchraum effektiv halbieren, indem Sie anhand des Medianwerts im Vergleich zum Zielwert festlegen, ob die Liste auf- oder absteigend sein soll.
 
 Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im Vergleich zu einer linearen Suche hätte die Suche vom ersten Wert an begonnen und sich nach oben bewegt, wobei das Ziel mit acht Werten verglichen werden musste. Eine binäre Suche ist nur mit einem geordneten Datensatz möglich; Wenn die Daten zufällig angeordnet sind, liefert eine lineare Suche die ganze Zeit über Ergebnisse, während eine binäre Suche wahrscheinlich in einer Endlosschleife stecken bleibt.
-### Beispiel Anwendung:
+### Beispiel Anwendung
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
+| **0** | 8 | 9 | 11 | 16 | 17 | 45 | 78 | 90 | 109 | 777 |
+
+### Struktorgramm und Java Quellcode
+::::tabs{id="Binäre Suche"}
+:::tab{title="Binäre Suche" id="Struktog. binäre"}
+:::
+:::tab{title="Java binäre Suche" id="Java binäre Suche"}
+```java
+    
+```
+:::
+:::tab{title="Binäre Suche optimiert" id="Struktog. binäre optimiert"}
+:::
+:::tab{title="Java binäre Suche optimiert" id="Java binäre Suche optimiert"}
+```java
+    
+```
+:::
+::::
 
 # Einfache Sortieralgorithmen
-## Bubblesort
+## Bubblesort und optimierter Bubblesort
 ### Video
 ::youtube[Bubblesort]{#lyZQPjUT5B4}
+### Erklärung
+### Beispiel Anwendung:
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
+| **16** | **78** | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | 11 |
 
 ### Struktogramm und Java Quellcode
 ::::tabs{id="Bubblesort"}
@@ -149,11 +192,14 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 :::
 ::::
 
-## optimierter Bubblesort
-
 ## Insertionsort
 ### Video
 ::youtube[Insertionsort]{#ROalU379l3U}
+### Erklärung
+### Beispiel Anwendung:
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
+| **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Insertionsort"}
 :::tab{title="Struktogramm Insertionsort" id="Struktogramm Insertionsort"}
@@ -164,29 +210,28 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 :::
 :::tab{title="Java Insertionsort" id="Java Insertionsort"}
 ```java
-public void insertionsort()
-{
-    int hilfe = 0;
-    for (int i = 0;i<zZahlenarray.length; i++)
+    public void insertionsort()
     {
-        if (zZahlenarray [i] > zZahlenarray [i+1])
-        {
-            hilfe = zZahlenarray[i];;
-            zZahlenarray[i] = zZahlenarray[i+1];;
-            zZahlenarray[i+1]= hilfe;;
-            for (int j = i;j>0;j--)
-            {
-                if (zZahlenarray [i] < zZahlenarray [i-1])
-                {
-                    hilfe = zZahlenarray[i];;
-                    zZahlenarray[i] = zZahlenarray[i-1];
-                    zZahlenarray[i-1]= hilfe;;
-                }
-            }
-        }
+        int hilfe = 0;
+        for (int i = 0;i<zZahlenarray.length; i++)
+        {
+            if (zZahlenarray [i] > zZahlenarray [i+1])
+            {
+                hilfe = zZahlenarray[i];;
+                zZahlenarray[i] = zZahlenarray[i+1];;
+                zZahlenarray[i+1]= hilfe;;
+                for (int j = i;j>0;j--)
+                {
+                    if (zZahlenarray [i] < zZahlenarray [i-1])
+                    {
+                        hilfe = zZahlenarray[i];;
+                        zZahlenarray[i] = zZahlenarray[i-1];
+                        zZahlenarray[i-1]= hilfe;;
+                    }
+                }
+            }
+        }
     }
-
-}
 ```
 :::
 :::tab{title="Struktogramm Insertionsort optimiert" id="Struktogramm Insertionsort optimiert"}
@@ -197,43 +242,102 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 :::
 :::tab{title="Java Insertionsort optimiert" id="Java Insertionsort optimiert"}
 ```java
-public void insertionsort()
-{
-   for (int i = 1; i < zZahlenarray.length; i++)
+    public void insertionsort()
     {
-        int kleinereZahl = zZahlenarray[i];
-        int j = i;
-        while (j >0 && kleinereZahl < zZahlenarray[j-1])
+    for (int i = 1; i < zZahlenarray.length; i++)
         {
-            zZahlenarray[j] = zZahlenarray[j - 1];;
-            j--;
+            int kleinereZahl = zZahlenarray[i];
+            int j = i;
+            while (j >0 && kleinereZahl < zZahlenarray[j-1])
+            {
+                zZahlenarray[j] = zZahlenarray[j - 1];;
+                j--;
+            }
+        zZahlenarray[j] = kleinereZahl;;
         }
-    zZahlenarray[j] = kleinereZahl;;
     }
-}
 ```
 :::
 ::::
 ## Selectionsort
 ### Video
 ::youtube[Selectionsort]{#Ns4TPTC8whw}
-### Struktorgramm
-### Java Quellcode
+### Erklärung
+### Beispiel Anwendung:
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
+| **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
+### Struktorgramm und Java Quellcode
+::::tabs{id="Selectionsort"}
+:::tab{title="Selectionsort" id="Struktog. Selectionsort"}
+:::
+:::tab{title="Java Selectionsort" id="Java Selectionsort"}
+```java
+    
+```
+:::
+:::tab{title="Selectionsort optimiert" id="Struktog. Selectionsort optimiert"}
+:::
+:::tab{title="Java Selectionsort optimiert" id="Java Selectionsort optimiert"}
+```java
+    
+```
+:::
+::::
 
 # Rekursive Sortieralgorithmen
 
 ## Mergesort
 ### Video
 ::youtube[Mergesort]{#XaqR3G_NVoo}
-### Struktorgramm
-### Java Quellcode
+### Erklärung
+### Beispiel Anwendung:
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
+| **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
+### Struktorgramm und Java Quellcode
+::::tabs{id="Mergesort"}
+:::tab{title="Mergesort" id="Struktog. Mergesort"}
+:::
+:::tab{title="Java Mergesort" id="Java Mergesort"}
+```java
+    
+```
+:::
+:::tab{title="Mergesort optimiert" id="Struktog. Mergesort optimiert"}
+:::
+:::tab{title="Java Mergesort optimiert" id="Java Mergesort optimiert"}
+```java
+    
+```
+:::
+::::
 
 ## Quicksort
 ### Video
 ::youtube[Quicksort]{#ywWBy6J5gz8}
-### Struktorgramm
-### Java Quellcode
-
+### Erklärung
+### Beispiel Anwendung:
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
+| **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
+### Struktorgramm und Java Quellcode
+::::tabs{id="Quicksort"}
+:::tab{title="Quicksort" id="Struktog. Quicksort"}
+:::
+:::tab{title="Java Quicksort" id="Java Quicksort"}
+```java
+    
+```
+:::
+:::tab{title="Quicksort optimiert" id="Struktog. Quicksort optimiert"}
+:::
+:::tab{title="Java Quicksort optimiert" id="Java Quicksort optimiert"}
+```java
+    
+```
+:::
+::::
 # Aufwandsabschätzung
 
 https://cryptpad.fr/sheet/#/2/sheet/view/xH9bfbaoI0-4Vb9TtHEUxhpMWZ-P63gabh4H6ZmrGy0/
