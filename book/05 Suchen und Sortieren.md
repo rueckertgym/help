@@ -81,8 +81,31 @@ Nach der **16** kommt die **78** die ist ebenfalls noch nicht die gesuchte Zahl 
 
 Nach der **78** kommt die gesuchte Zahl **11** und die Suche ist mit der Wiedergabe der gefundenen Informationen beendet.
 
-### Struktorgramm
-### Java Quellcode
+### Struktorgramm und Java Quellcode
+::::tabs{id="Lineare Suche"}
+:::tab{title="Lineare Suche" id="Struktog. lineare"}
+:::
+:::tab{title="Lineare Suche optimiert" id="Struktog. lineare"}
+:::
+:::tab{title="Java lineare Suche" id="Java lineare Suche"}
+```java
+   public boolean lineareSuche(int pZahl)
+    {      
+       boolean f = false;
+       int i = zZahlenarray.length-1;
+       do
+       {
+           if ( zZahlenarray[i] == pZahl ){
+               f = true;
+               i++;
+           }
+        }
+       while (f == false);
+       return f;
+    }
+```
+:::
+::::
 ## binäre Suche
 
 ### Erklärung:
