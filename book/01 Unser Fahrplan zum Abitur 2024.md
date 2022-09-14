@@ -41,24 +41,22 @@ https://ddi.uni-wuppertal.de/website/index-ddi.html?navi=materialien&main=spionc
 * https://flaci.com/home/ (Theoretische Informatik)
 * https://visualgo.net/de (Visualisierung von Algorithmen)
 * https://ticdesk.teckids.org/account/register (Wird als Zugang zu edugit benötigt)
-* https://edugit.org/users/sign_in (Bereitstellung von Implemenatione und Aufgaben; zur Nutzung wird ein Zugang von https://schul-frei.dev/pages/services.html benötigt)
+* https://edugit.org/users/sign_in  (Bereitstellung von Implemenatione und Aufgaben; zur Nutzung wird ein Zugang von https://schul-frei.dev/pages/services.html  benötigt)
 * https://draw.io (Zeichnen von Diagrammen)
-* https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html?o=0 (Struktogrammeditor mit Java Quellcode Anzeige)
+* https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html?o=0   (Struktogrammeditor mit Java Quellcode Anzeige)
 ## Videos
+Ihr findet Videos für das Arbeiten mit edugit in Verbindung mit BlueJ in Kapitel 04.
 
-* https://youtu.be/Nda22dhwXqc (Arbeiten mit einem git-System)
-
-
-Sebastian Horn
 
 # Vorgaben Abitur LK 2024
+Die Vorgaben zum Zentralabitur 2024 findet ihr auf der Seite der 
+[Standardsicherung](https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-gost/faecher/getfile.php?file=5438 "Standardsicherung")
 
 
-
-​​​​​​​
 
 # Operatoren
-
+Die Operatoren können auch auf der Seite der Standardsicherung oder hier heruntergeladen werden.
+:download[Herunterladen]{src="./download/Formales/IF_Operatoren.pdf"}
 
 
 
