@@ -19,7 +19,7 @@ https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale
 * Lehrwerk "Informatik 2"
 Materialien von Tino Hempel zur Informatik:
 * https://tinohempel.de/index.htm
-IO-Stick von Tino Hempel für eigenen USB -Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann:
+IO-Stick von Tino Hempel für den eigenen USB -Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann (nur windows):
 * https://tinohempel.de/info/info/IoStick/index.html
 * Digitales Lehrbuch: Net-Informatikbuch:
 Lehrwerk mit vertiefenden Aspekten abgestimmt auf Lehrplan in NRW
