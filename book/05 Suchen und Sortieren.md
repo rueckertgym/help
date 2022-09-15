@@ -54,9 +54,9 @@ In der Informatik versteht man unter **Suchen** ein Verfahren zur Untersuchung e
 ## lineare Suche
 
 ### Erklärung:
-Die **lineare Suche** ist der einfachste Suchalgorithmus überhaupt. Es wird ein Element in einer Liste oder einem Array mit **n** Elementen gesucht. Dabei ist irrelevant, ob der Array bereits sortiert ist oder nicht.
+Die **lineare Suche** ist allgemein der einfachste Suchalgorithmus. Dabei wird ein Element in einem Array gesucht und es ist irrelevant, onb der Array sortiert ist oder nicht den die lineare Suche beginnt am Anfang des Arrays und durchläuft ihn ohne hin.
 
-Der Suchaufwand wächst linear mit der Anzahl der Elemente. Wenn die Daten zufallsverteilt sind, dann werden im Schnitt **n/2** Vergleichsoperationen benötigt. Im besten Fall ist gleich das erste Element der Liste dasjenige, das man sucht, im schlechtesten ist es das letzte.
+Sozusagen wächst die Suche linear mit der Anzahl an Elementen und sucht solange bis er das gesuchte Element gefunden hat, also im bestcase ist es das erste Element im worstcase das letzte.
 
 Wenn die Anzahl der Elemente in einer Liste klein ist, dann ist es oft auch das effizienteste Verfahren.
 ### Beispiel Anwendung:
