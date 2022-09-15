@@ -1,5 +1,5 @@
 ---
-name: 00 Willkommen im Informatik LK
+name: Willkommen im Informatik LK
 toc: show
 index: 1
 ---

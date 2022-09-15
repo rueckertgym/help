@@ -1,5 +1,5 @@
 ---
-name: 03 Leistungsbewertung
+name: Leistungsbewertung
 toc: show
 index: 5
 ---

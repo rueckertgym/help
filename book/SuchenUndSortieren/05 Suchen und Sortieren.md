@@ -1,7 +1,7 @@
 ---
-name: 05 Suchen und Sortieren
+name: Suchen und Sortieren
 toc: show
-index: 7
+index: 1
 ---
 # Suchen und Sortieren auf der linearen Datenstruktur Array
 Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. gesucht werden kann, wenn ein Suchkriterium vorliegt.

@@ -1,5 +1,5 @@
 ---
-name: 01 Unser Fahrplan zum Abitur 2024
+name: Unser Fahrplan zum Abitur 2024
 toc: show
 index: 3
 ---

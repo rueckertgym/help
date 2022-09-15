@@ -1,5 +1,5 @@
 ---
-name: 02 Vorgaben zum Abitur 2024
+name: Vorgaben zum Abitur 2024
 toc: show
 index: 4
 ---
