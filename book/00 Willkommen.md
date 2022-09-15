@@ -15,7 +15,6 @@ Gerne könnt auch mit alternative Entwicklungsumgebungen (IDE = **I**ntegrated**
 
 Im Rahmen des Unterrichts werden wir mit einem git-System (https://edugit.org) arbeiten. Was genau ein git-System ist und wie das Zusammenspiel zwischen BlueJ und git funktioniert, erkläre ich in meinen Videos auf die ich später verlinke.
 
-
 # Klausurtermine und Allgemeines
 
 Materialien: Klausurbögen kariert, Stifte, Geodreieck, essen und trinken. Alle Klausurbögen - außer dem Mantelbogen - werden nummeriert und mit eurem Namen beschriftet. Formale Fehler (Rechtschreibung, Zeichensetzung, fehlende Fachsprache, Ausdrucksfehler usw.) können zur Absenkung der Note um bis zu 3 Oberstufenpunkten führen
