@@ -75,7 +75,7 @@ In den folgenden Videos beschreibe ich das Arbeiten mit BlueJ in Verbindung mit 
 ::::
 
 # Markdown
-Die Kapitel dieses Buches sind in Markdown einer Textbeschreibungsprache verfasst. Zusätzlich hat der Softwareentwickler des Hyperbooks weiter Möglichkeiten zur visuellen Darstellung geschaffen. Eine vollständige Übersicht findest du hier: https://hyperbook.openpatch.org/markdown-reference und im Video "05 Edugit: Arbeiten mit Markdown".
+Die Kapitel dieses Buches sind in Markdown einer Textbeschreibungsprache verfasst. Zusätzlich hat der Softwareentwickler des Hyperbooks weiter Möglichkeiten zur visuellen Darstellung geschaffen. Eine vollständige Übersicht/Dokumentaion findest du :t[hier]{#hyperbook} und im Video "05 Edugit: Arbeiten mit Markdown".
 
 # Check
 :::alert{success}
