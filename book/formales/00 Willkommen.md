@@ -26,6 +26,6 @@ Materialien: Klausurbögen kariert, Stifte, Geodreieck, essen und trinken. Alle 
     Uhrzeit: 08:00 Uhr
     Raum: 
     Länge: 180 Minuten
-    **Themenbereiche: Grundbegriffe der objektorientierung Programmierung, Arrays, Suchen und Sortieren**
+    Themenbereiche: Grundbegriffe der objektorientierung Programmierung, Arrays, Suchen und Sortieren
 :::
 
