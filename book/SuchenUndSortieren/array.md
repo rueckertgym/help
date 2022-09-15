@@ -13,6 +13,7 @@ Quelle: http://www.problem-hilfe.de/linux/images/chest_of_drawers_array.gif
 ### Array-Variablen deklarieren
 Durch `int [] zahlenspeicher` wird eine Array-Variable deklariert. Das syntaktische Erkennungsmerkmal bei der Deklaration einer Array-Variablen sind eckige Klammern als Teil des Typnamens: `int[]`. 
 Dies besagt, dass die Variable `zahlenspeicher` vom Typ Array (Feld) von Ganzzahlen ist. Man sagt, dass `int` der Basistyp dieses speziellen Feldes (Arrays) ist. Die Deklaration einer Array-Variablen sollte nicht mit der sehr ähnlich aussehenden Deklaration einer einfachen Variablen verwechselt werden:
+
 `int zahl;`
 
 `int[] zahlenspeicher;`
@@ -32,6 +33,7 @@ Die Zahl 24 in den eckigen Klammern bei der Erzeugung des Array-Objekts hat also
 Wir hatten gesehen, dass man die Deklaration von Objekten und die Erzeugung in einer Zeile machen kann; dies funktioniert auch bei Arrays:
 
 `TWuerfel meinWuerfel = new TWuerfel();`
+
 `char[] schueler = new char[25];`
 
 Die zweite Zeile erzeugt ein Array-Objekt zur Speicherung von 25 Zeichen und deklariert die Array-Variable `schueler` für dieses Array.
@@ -45,8 +47,7 @@ Auf die einzelnen Elemente eines Arrays wird über den Index zugegriffen. Der In
 ein schreibender Zugriff auf den Speicher erfolgt.
 
 Der **Vorteil** von Arrays ist die komfortable Art Daten zu speichern. So kann man sie zum Beispiel sehr bequem im Zusammenhang mit Schleifen nutzen:
-```
-java
+```java
 int[] a = new int[100];
 for (int i = 0; i < 100; i ++)
 {
