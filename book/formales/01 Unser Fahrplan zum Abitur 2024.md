@@ -45,18 +45,16 @@ https://ddi.uni-wuppertal.de/website/index-ddi.html?navi=materialien&main=spionc
 * https://draw.io (Zeichnen von Diagrammen)
 * https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html?o=0   (Struktogrammeditor mit Java Quellcode Anzeige)
 ## Videos
-Ihr findet Videos für das Arbeiten mit edugit in Verbindung mit BlueJ in Kapitel 04.
-
+Im Abschnit [Hard- und Software](hard-software/04 Arbeiten mit BlueJ und edugit.md)habe ich für den Unterricht relevante Videos hinterlegt.
 
 # Vorgaben Abitur LK 2024
 Die Vorgaben zum Zentralabitur 2024 findet ihr auf der Seite der 
 [Standardsicherung](https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-gost/faecher/getfile.php?file=5438 "Standardsicherung")
 
 
-
 # Operatoren
 Die Operatoren können auch auf der Seite der Standardsicherung oder hier heruntergeladen werden.
-:download[Herunterladen]{src="./download/Formales/IF_Operatoren.pdf"}
+:download[Herunterladen]{src="./download/formales/IF_Operatoren.pdf"}
 
 
 
