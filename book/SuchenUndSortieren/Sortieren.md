@@ -93,10 +93,12 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 ### Video
 ::youtube[Insertionsort]{#ROalU379l3U}
 ### Erklärung
+Der Insertion Sort ist ein stabiler Sortieralgorhitmus. Übersetzen lässt sich Insertion Sort mit den englischen Wörtern Insertion = Einfügen und Sort = Sortieren, so mit herrscht Sortieren durch Einfügen. Es gibt einen sortierten- und unsortierten Bereich in Insertion Sort. Die erste Zahl (im Array Fach 0) gehört von Anfang an zum sortierten Bereich, daraufhin wird die nächste Zahl im unsortierten Bereich mit den Zahlen im sortierten Bereich verglichen und an die richtige Position gebracht. Dies bedeutet das der Algorhithmus in-place (weiterer Speicherplatz wird außerhalb des Arrays **nicht** benötigt) arbeitet.
 ### Beispiel Anwendung:
-| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
-| **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | **11** |
+| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | 
+| **16** | 78 | 11 | 9 | 0 | 777 | 45 | 109 | 8 | 90 | 
+
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Insertionsort"}
 :::tab{title="Struktogramm Insertionsort" id="Struktogramm Insertionsort"}
