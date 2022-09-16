@@ -1,5 +1,5 @@
 ---
-name: Suchen und Sortieren
+name: Sortieren
 toc: show
 index: 2
 ---
