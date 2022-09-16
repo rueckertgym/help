@@ -93,7 +93,7 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 | 0     | 1     | **2** | 3   | 4     | ~~5~~ | ~~6~~ | ~~7~~ | ~~8~~ | ~~9~~ | 4         |
 | ~~0~~ | ~~1~~ | ~~2~~ | 3   | **4** | ~~5~~ | ~~6~~ | ~~7~~ | ~~8~~ | ~~9~~ | 4         |
 
-Die **Fettgedruckte** ist die Mitte des Arrays. 
+Die **Fettgedruckte** ist die Mitte des Arrays. Sobald die Mitte gefunden ist wird die gesuchte Zahl mit der Mitte verglichen und die Hälfte des Arrays kann ausgeschlossen werden.
 
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Binäre Suche"}
