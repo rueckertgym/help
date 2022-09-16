@@ -85,9 +85,15 @@ Eine binäre Suche ist eine schnelle und effiziente Methode, um einen bestimmten
 
 Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im Vergleich zu einer linearen Suche hätte die Suche vom ersten Wert an begonnen und sich nach oben bewegt, wobei das Ziel mit acht Werten verglichen werden musste. Eine binäre Suche ist nur mit einem geordneten Datensatz möglich; Wenn die Daten zufällig angeordnet sind, liefert eine lineare Suche die ganze Zeit über Ergebnisse, während eine binäre Suche wahrscheinlich in einer Endlosschleife stecken bleibt.
 ### Beispiel Anwendung
-| [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] | ges. Zahl |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:| :-: | :-: |
-| **0** | 8 | 9 | 11 | 16 | 17 | 45 | 78 | 90 | 109 | 777 |
+| [0]   | [1]   | [2]   | [3] | [4]   | [5]   | [6]   | [7]   | [8]   | [9]   | ges. Zahl |
+|-------|-------|-------|-----|-------|-------|-------|-------|-------|-------|-----------|
+|       |       |       |     |       |       |       |       |       |       | 4         |
+| 0     | 1     | 2     | 3   | 4     | 5     | 6     | 7     | 8     | 9     | 4         |
+| 0     | 1     | 2     | 3   | 4     | **5** | 6     | 7     | 8     | 9     | 4         |
+| 0     | 1     | **2** | 3   | 4     | ~~5~~ | ~~6~~ | ~~7~~ | ~~8~~ | ~~9~~ | 4         |
+| ~~0~~ | ~~1~~ | ~~2~~ | 3   | **4** | ~~5~~ | ~~6~~ | ~~7~~ | ~~8~~ | ~~9~~ | 4         |
+
+Die **Fettgedruckte** ist die Mitte des Arrays. 
 
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Binäre Suche"}
