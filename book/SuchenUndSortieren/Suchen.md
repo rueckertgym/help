@@ -95,7 +95,17 @@ Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im
 :::
 :::tab{title="Java binäre Suche" id="Java binäre Suche"}
 ```java
-    
+    private boolean binaereSuche_intern(int number, int start, int end) {
+        if (end >= start) {
+            int mid = start + (end - start) / 2;
+            if (zZahlenarray[mid] == number)
+                return true;
+            if (zZahlenarray[mid] > number)
+                return binaereSuche_intern(number, start, mid - 1);
+            return binaereSuche_intern(number, mid + 1, end);
+        }
+        return false;
+    }
 ```
 :::
 :::tab{title="Binäre Suche optimiert" id="Struktog. binäre optimiert"}
