@@ -258,11 +258,13 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 ### Video
 ::youtube[Quicksort]{#ywWBy6J5gz8}
 ### Erklärung
-### Beispiel Anwendung:
+Das Array wird um ein frei zu wählendes Pivotelement sortiert. Anschließend wird dasselbe Prinzip auf die kleineren "Teilarrays" angewand, bis das Problem trivial ist, also nuur noch ein Elemnt sortiert werden muss.
+### Beispiel Anwendung
+### Aufruf Gesamtarray
 | [0] | [1] | [2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |:-:  | :-: |
 | 16  | 78  | 11  | 0   | 9   | 777 | 45  | 109 | 8   | 90  |
-|  L  |     |     |     |P|     |     |     |     |  R  |
+|  L  |     |     |     |P    |     |     |     |     |  R  |
 | 16  | 78  | 11  | 0   | 9   | 777 | 45  | 109 | 8   | 90  |
 |  L  |     |     |     | P   |     |     |     |  R  |     |
 | 8   | 78  | 11  | 0   | 9   | 777 | 45  | 109 | 16  | 90  |
@@ -286,16 +288,17 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 | 8   |  0  | 9   | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
 |     |     | L P |    R|     |     |     |     |     |     |
 | 8   |  0  | 9   | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
-|     |     |L P |     |     |     |     |     |     |     |
+|     |     |L P  |     |     |     |     |     |     |     |
 
 
-
+### Teilung und rekursiver Aufruf
 | [0] | [1] |    |[2] |    |[3] | [4] | [5] | [6] | [7] | [8] | [9] |
 | :-: | :-: |:-: |:-: |:-: |:-: | :-: | :-: | :-: | :-: |:-:  | :-: |
 | 8   |  0  |    |9   |    |11  | 78  | 777 | 45  | 109 | 16  | 90  |
 | L   | P R |    |    |    |    |     |     |     |     |     |     |
 
 
+### Tauschen
 | [0] | [1] |    |[2] |    |[3] | [4] | [5] | [6] | [7] | [8] | [9] |
 | :-: | :-: |:-: |:-: |:-: |:-: | :-: | :-: | :-: | :-: |:-:  | :-: |
 | 0   |  8  |    |9   |    |11  | 78  | 777 | 45  | 109 | 16  | 90  |
@@ -304,12 +307,14 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 | L P R|    |    |    |    |    |     |     |     |     |     |     |
 
 
+### Teilung
 | [0] |   | [1] |    |[2] |    |[3]  | [4] | [5] | [6] | [7] | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-: | :-: | :-: | :-: |:-:  | :-: |
 | 0   |   |   8 |    | 9  |    | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
 |L P R|   |     |    |    |    |     |     |     |     |     |     |     |
 
 
+### Rekursiver Aufruf
 | [0] |   | [1] |    |[2] |    |[3]  | [4] | [5] | [6] | [7] | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-: | :-: | :-: | :-: |:-:  | :-: |
 | 0   |   |   8 |    | 9  |    | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
@@ -330,6 +335,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 |     |   |     |    |    |    |     |     | L P |   R |     |     |     |
 
 
+### Teilung und rekursiver Aufruf
 | [0] |   | [1] |    |[2] |    |[3]  | [4] |    |[5] | [6] | [7] | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-: |:-: |:-: | :-: | :-: |:-:  | :-: |
 | 0   |   |   8 |    | 9  |    | 11  | 16  |    |45  | 777 | 109 | 78  | 90  |
@@ -338,12 +344,15 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 |     |   |     |    |    |    |L P R|     |    |    |     |     |     |     |
 
 
+### Teilung
 | [0] |   | [1] |    |[2] |    |[3]  |    |[4] |    |[5] | [6] | [7] | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-:|:-: |:-: |:-: | :-: | :-: |:-:  | :-: |
 | 0   |   |   8 |    | 9  |    | 11  |    | 16 |    | 45 | 777 | 109 | 78  | 90  |
 |     |   |     |    |    |    |L P R|    |    |    |    |     |     |     |     |
 
 
+
+### Rekursiver Aufruf
 | [0] |   | [1] |    |[2] |    |[3]  |    |[4] |    |[5] | [6] | [7] | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-:|:-: |:-: |:-: | :-: | :-: |:-:  | :-: |
 | 0   |   |   8 |    | 9  |    | 11  |    | 16 |    | 45 | 777 | 109 | 78  | 90  |
@@ -363,6 +372,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 |     |   |     |    |    |    |     |    |    |    |    |L P R|     |     |     |
 
 
+### Teilung und rekursiver Aufruf
 | [0] |   | [1] |    |[2] |    |[3]  |    |[4] |    |[5] |   | [6] |    |[7] | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-:|:-: |:-: |:-: |:-:| :-: |:-: |:-: |:-:  | :-: |
 | 0   |   |   8 |    | 9  |    | 11  |    | 16 |    | 45 |   |109  |    |777 | 78  | 90  |
@@ -377,6 +387,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 |     |   |     |    |    |    |     |    |    |    |    |   |     |    |L P R|    |     |
 
 
+### Teilung und rekursiver Aufruf
 | [0] |   | [1] |    |[2] |    |[3]  |    |[4] |    |[5] |   | [6] |    | [7] |   | [8] | [9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-:|:-: |:-: |:-: |:-:| :-: |:-: | :-: |:-:| :-: | :-: |
 | 0   |   |   8 |    | 9  |    | 11  |    | 16 |    | 45 |   |109  |    | 78  |   | 777 | 90  |
@@ -387,6 +398,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 |     |   |     |    |    |    |     |    |    |    |    |   |     |    |     |   |L P R|     |
 
 
+### Fertig
 | [0] |   | [1] |    |[2] |    |[3]  |    |[4] |    |[5] |   | [6] |    | [7] |   | [8] |    |[9] |
 | :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-:|:-: |:-: |:-: |:-:| :-: |:-: | :-: |:-:| :-: | :-:|:-: |
 | 0   |   |   8 |    | 9  |    | 11  |    | 16 |    | 45 |   |109  |    | 78  |   | 90  |    |777 |
@@ -403,19 +415,50 @@ Rechts: R
 
 
 ### Struktorgramm und Java Quellcode
-::::tabs{id="Quicksort"}
+::::tabs{id="Quicksort Struktogr."}
 :::tab{title="Quicksort" id="Struktog. Quicksort"}
 :::
 :::tab{title="Java Quicksort" id="Java Quicksort"}
 ```java
-    
+    public void quickSort()
+    {
+        System.out.println("--------------------------------------------------------------------");
+        System.out.println("Beginne neuen Sortiervorgang mit Quicksort");
+        quicksort_intern(0, zZahlenarray.length-1);        
+    }     
 ```
 :::
-:::tab{title="Quicksort optimiert" id="Struktog. Quicksort optimiert"}
+:::tab{title="Quicksort intern" id="Struktog. Quicksort intern"}
 :::
-:::tab{title="Java Quicksort optimiert" id="Java Quicksort optimiert"}
+:::tab{title="Java Quicksort intern" id="Java Quicksort intern"}
 ```java
-    
+    private void quicksort_intern(int pL, int pR)
+    {
+        int hLinks = pL;  // Hilfszeiger fÜr links
+        int hRechts = pR; // Hilfszeiger fÜr rechts
+        int hPivot = (int) (zZahlenarray[(pL+pR)/2]);// Stelle des Pivot
+        while (hLinks <= hRechts) {
+            while (zZahlenarray[hLinks] < hPivot) {
+                hLinks++;
+            }
+            while (zZahlenarray[hRechts] > hPivot) {
+                hRechts--;
+            }
+            if (hLinks <= hRechts) {
+                int hilfe = zZahlenarray[hLinks];
+                zZahlenarray[hLinks] = zZahlenarray[hRechts];
+                zZahlenarray[hRechts] = hilfe;
+                hLinks++;
+                hRechts--;
+            }
+        }
+        if (pL < hRechts){
+            quicksort_intern(pL, hRechts);
+        }
+        if (hLinks < pR){
+            quicksort_intern(pR, hLinks);
+        }
+    }   
 ```
 :::
 ::::
