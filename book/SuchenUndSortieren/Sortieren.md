@@ -6,13 +6,41 @@ index: 2
 # Suchen und Sortieren auf der linearen Datenstruktur Array
 Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. gesucht werden kann, wenn ein Suchkriterium vorliegt.
 ## UML Diagramm zum Projekt
-Das unten stehende UML Diagramm dient als Vorlage.
+Das unten stehende UML Diagramm dient als Vorlage. Das dargestellte Diagramm ist ein Implementaionsdiagram, da programmiersprachenspezifische Elemente (hier Java) enthalten sind.
+
+Ein Entwurfsdiagramm ist programmiersprachenunabhängig und kann als Vorlage für unterschiedlichte Programmiersprachen genutzt werden.
+Da Konstruktoren, get- und set-Methoden pragrammiersprachenspezifisch sind werden diese nicht mit dargestellt.
+
+### Entwurfsdiagramm
+```mermaid
+classDiagram
+    
+    class Sortieren {
+      -Datensammlung <Zahlen> zZahlenarray
+      - Random zZufallsgenerator
+      +bfms()
+      +bfmsZufall()
+      +bfmsZufallFlex(int pMaxZahl)
+      +bubblesort()
+      +insertionsort()
+      +selectionsort()
+      +lineareSuche(int pZahl) Wahrheitswert
+      +binaereSuche(int pGesuchteZahl)
+      -binaereSuche_intern(int pZahl, int pBeginn, int pEnde) Wahrheitswert
+      +quicksort() 
+      -quicksort_intern(int pL, int pRechts) 
+      +mergeSort() 
+      -mergesort(int pLo, int pHi) 
+      -merge_intern(int links, int mitte, int rechts) 
+    }
+```
+### Implementationsdiagramm
 ```mermaid
 classDiagram
     
     class Sortieren {
       -int [] zZahlenarray
-      - Random zZufallsgenerator
+      -Random zZufallsgenerator
       +Sortieren()
       +Sortieren(int pGroesse)
       +Sortieren(int pGroesse, int pMaxZahl)
@@ -261,18 +289,28 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 |     |     |L &#9989; |     |     |     |     |     |     |     |
 
 
-|[2]. |
-| :-: |
-| 9   |
 
-| [0] | [1] | |[2] | [3] | [4] | [5] | [6] | [7] | [8] | [9] |
-| :-: | :-: | |:-: | :-: | :-: | :-: | :-: | :-: |:-:  | :-: |
-| 8   |  0  | |9   | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
-| L   | P R | |   |     |     |     |     |     |     |     |
+| [0] | [1] |    |[2] |    |[3] | [4] | [5] | [6] | [7] | [8] | [9] |
+| :-: | :-: |:-: |:-: |:-: |:-: | :-: | :-: | :-: | :-: |:-:  | :-: |
+| 8   |  0  |    |9   |    |11  | 78  | 777 | 45  | 109 | 16  | 90  |
+| L   | P R |    |    |    |    |     |     |     |     |     |     |
 
 
+| [0] | [1] |    |[2] |    |[3] | [4] | [5] | [6] | [7] | [8] | [9] |
+| :-: | :-: |:-: |:-: |:-: |:-: | :-: | :-: | :-: | :-: |:-:  | :-: |
+| 0   |  8  |    |9   |    |11  | 78  | 777 | 45  | 109 | 16  | 90  |
+| L P |   R |    |    |    |    |     |     |     |     |     |     |
+| 0   |  8  |    |9   |    |11  | 78  | 777 | 45  | 109 | 16  | 90  |
+| L P R|    |    |    |    |    |     |     |     |     |     |     |
 
-Legende:
+
+| [0] |   | [1] |    |[2] |    |[3]  | [4] | [5] | [6] | [7] | [8] | [9] |
+| :-: |:-:| :-: | :-:|:-: |:-: | :-: | :-: | :-: | :-: | :-: |:-:  | :-: |
+| 0   |   |   8 |    | 9  |    | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
+|L P R|   |     |    |    |    | 11  | 78  | 777 | 45  | 109 | 16  | 90  |
+
+
+**Legende:**
 
 Links: L
 
