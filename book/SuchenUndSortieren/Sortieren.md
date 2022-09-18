@@ -265,9 +265,11 @@ Legende:
 
 Links: &#128994;
 
-Pivot: &#9989; &#9989;
+Pivot: &#9989;
 
 Rechts: &#128999;
+
+blauer Punkt: &#128309;
 
 
 ### Struktorgramm und Java Quellcode
