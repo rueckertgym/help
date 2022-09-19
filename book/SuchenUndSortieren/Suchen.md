@@ -86,14 +86,18 @@ Eine binäre Suche ist eine schnelle und effiziente Methode, um einen bestimmten
 Bei der binären Suche musste das Ziel nur mit drei Werten verglichen werden. Im Vergleich zu einer linearen Suche hätte die Suche vom ersten Wert an begonnen und sich nach oben bewegt, wobei das Ziel mit acht Werten verglichen werden musste. Eine binäre Suche ist nur mit einem geordneten Datensatz möglich; Wenn die Daten zufällig angeordnet sind, liefert eine lineare Suche die ganze Zeit über Ergebnisse, während eine binäre Suche wahrscheinlich in einer Endlosschleife stecken bleibt.
 ### Beispiel Anwendung
 | [0]   | [1]   | [2]   | [3] | [4]   | [5]   | [6]   | [7]   | [8]   | [9]   | ges. Zahl |
-|-------|-------|-------|-----|-------|-------|-------|-------|-------|-------|-----------|
-|       |       |       |     |       |       |       |       |       |       | 4         |
+|:-:    |:-:    |:-:    |:-:  |:-:    |:-:    |:-:    |:-:    |:-:    |:-:    |:-:        |
 | 0     | 1     | 2     | 3   | 4     | 5     | 6     | 7     | 8     | 9     | 4         |
 | 0     | 1     | 2     | 3   | 4     | **5** | 6     | 7     | 8     | 9     | 4         |
 | 0     | 1     | **2** | 3   | 4     | ~~5~~ | ~~6~~ | ~~7~~ | ~~8~~ | ~~9~~ | 4         |
 | ~~0~~ | ~~1~~ | ~~2~~ | 3   | **4** | ~~5~~ | ~~6~~ | ~~7~~ | ~~8~~ | ~~9~~ | 4         |
 
-Die **Fettgedruckte** ist die Mitte des Arrays. Sobald die Mitte gefunden ist wird die gesuchte Zahl mit der Mitte verglichen und die Hälfte des Arrays kann ausgeschlossen werden.
+Die **Fettgedruckte** ist die Mitte des Arrays. Sobald die Mitte gefunden ist, 
+1. wird die gesuchte Zahl mit der Mitte verglichen.
+2. **Wenn** die gesuchte Zahl mit der Mitte übereinstimmt, **dann** wird die Suche abgebrochen.
+3. **Sonst**  wird die gesuchte Zahl wie folgt weitergesucht. 
+4. **Wenn** die gesuchte Zahl > als die Mitte ist, **dann** wird in der Hälfte mit größeren Werten weitergesucht (gehe zu 1. = rekursiver Aufruf) und die andere Hälfte des Arrays kann ausgeschlossen werden.
+5. **Sonst** suche die Zahl in der anderen Hälfte (gehe zu 1. = rekursiver Aufruf).
 
 ### Struktorgramm und Java Quellcode
 ::::tabs{id="Binäre Suche"}
