@@ -14,15 +14,17 @@ https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-gost/fae
 
 * Materialien im Lehrplannavigator von NRW: Abitur 2018 ff
 insbesondere die Dokumentation für den Grundkurs bzw. Leistungskurs sowie Implementationen von Klassen für das Zentralabitur
-https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/hinweise-und-beispiele.html
+* * https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/hinweise-und-beispiele.html
 
 * Lehrwerk "Informatik 2"
+
 Materialien von Tino Hempel zur Informatik:
 * https://tinohempel.de/index.htm
+
 IO-Stick von Tino Hempel für den eigenen USB -Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann (nur windows):
 * https://tinohempel.de/info/info/IoStick/index.html
 * Digitales Lehrbuch: Net-Informatikbuch:
-Lehrwerk mit vertiefenden Aspekten abgestimmt auf Lehrplan in NRW
+* * Lehrwerk mit vertiefenden Aspekten abgestimmt auf Lehrplan in NRW
         ​  https://i2.net-schulbuch.de/
 
 * Inf-Schule: Umfangreiches Web-Angebot aus Rheinland-Pfalz, das sich als "elektronisches Schulbuch" versteht
@@ -45,7 +47,7 @@ https://ddi.uni-wuppertal.de/website/index-ddi.html?navi=materialien&main=spionc
 * https://draw.io (Zeichnen von Diagrammen)
 * https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html?o=0   (Struktogrammeditor mit Java Quellcode Anzeige)
 ## Videos
-Im Abschnit [Hard- und Software](hard-software/04 Arbeiten mit BlueJ und edugit.md)habe ich für den Unterricht relevante Videos hinterlegt.
+Im Abschnit [Hard- und Software](/hard-software/04 Arbeiten mit BlueJ und edugit.md) habe ich für den Unterricht relevante Videos hinterlegt.
 
 # Vorgaben Abitur LK 2024
 Die Vorgaben zum Zentralabitur 2024 findet ihr auf der Seite der 
@@ -54,7 +56,7 @@ Die Vorgaben zum Zentralabitur 2024 findet ihr auf der Seite der
 
 # Operatoren
 Die Operatoren können auch auf der Seite der Standardsicherung oder hier heruntergeladen werden.
-:download[Herunterladen]{src="./download/formales/IF_Operatoren.pdf"}
+:download[Herunterladen]{src="/download/formales/IF_Operatoren.pdf"}
 
 
 
