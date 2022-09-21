@@ -1,5 +1,7 @@
 ---
-name: Hyperbook
+name: Glossar
+index: 1
+toc: show
 ---
 
 # Glossar

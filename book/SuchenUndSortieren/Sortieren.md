@@ -90,10 +90,10 @@ classDiagram
 ### Struktogramm und Java Quellcode
 ::::tabs{id="Bubblesort"}
 :::tab{title="Struktogramm Bubblesort" id="Struktogramm Bubblesort"}
-![Bubblesort](./Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
+![Bubblesort](/Bilder/01_SuchenUndSortieren/Bubblesort_Struktogramm.png "Bubblesort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
-:download[Herunterladen]{src="./download/Bubblesort_Struktogramm.json"}
+:download[Herunterladen]{src="/download/Bubblesort_Struktogramm.json"}
 :::
 :::tab{title="Java Bubblesort" id="Java Bubblesort"}
 ```java
