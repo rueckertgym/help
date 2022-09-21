@@ -1,6 +1,6 @@
 ---
 name: Glossar
-index: 1
+index: 2
 toc: show
 ---
 
