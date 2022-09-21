@@ -4,7 +4,7 @@ toc: show
 index: 2
 ---
 # Suchen und Sortieren auf der linearen Datenstruktur Array
-Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. gesucht werden kann, wenn ein Suchkriterium vorliegt.
+Im Rahmen dieser Einheiten beschäftigen wir uns mit dem Suchen und Sortieren von Objekten. Der Einfachheit halber werden wir uns am Anfang auf das Sortieren von Zahlen beschränken, wobei jedes Objekt sortiert bzw. gesucht werden kann, wenn ein Suchkriterium vorliegt. In unserem Fall arbeiten wir auf der Datenstruktur Array :t[Arrays]{#array.md}
 ## UML Diagramm zum Projekt
 Das unten stehende UML Diagramm dient als Vorlage. Das dargestellte Diagramm ist ein Implementaionsdiagram, da programmiersprachenspezifische Elemente (hier Java) enthalten sind.
 
