@@ -176,7 +176,7 @@ Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann d
 ```
 :::
 :::tab{title="Struktogramm Insertionsort optimiert" id="Struktogramm Insertionsort optimiert"}
-![Insertionsort optimiert](./Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm_optimiert.png "Insertionsortsort")
+![Insertionsort optimiert](/Bilder/01_SuchenUndSortieren/Insertionsort_Struktogramm_optimiert.png "Insertionsortsort")
 
 Du kannst dir das Struktorgramm auch als json Datei herunterladen. Dieses kann dann im Struktogramm Editor der  [Uni Dresden](https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html) eingebunden und weiterverwendet werden
 :download[Herunterladen]{src="/download/Insertionsort_Struktogramm_optimiert.json"}
