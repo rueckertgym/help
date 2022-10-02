@@ -13,7 +13,7 @@ In den meisten Kapiteln sind Aufgaben und/oder Verweise auf Programmiervorlagen,
 Das workbuch ist in mehrer Abschnitte aufgeteilt und in einigen Fällen verdeutlichen sinnvollen Videos den Inhaltlich
 
 ## 1. [Formales](/formales/00_Willkommen)
-## 2. [Einführung BlueJ und edugit](/hard-software/04 Arbeiten mit BlueJ und edugit)
+## 2. [Einführung BlueJ und edugit](/hard-software/04_Arbeiten_mit_BlueJ_und_edugit)
 ## 2. [Suchen und Sortieren](../SuchenUndSortieren/Suchen)
 ## 3. [Kryptologie](/kryptologie/Caesar)
 
