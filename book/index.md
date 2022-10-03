@@ -16,9 +16,8 @@ Das workbuch ist in mehrer Abschnitte aufgeteilt und in einigen Fällen verdeutl
 
 ## 1. [Formales](/formales/00_Willkommen)
 ## 2. [Einführung BlueJ und edugit](/hard-software/BlueJUndEdugit)
-## 4  [Einführung BlueJ und edugit](/hard-software/index)
-## 2. [Suchen und Sortieren](../SuchenUndSortieren/Suchen)
-## 3. [Kryptologie](/kryptologie/Caesar)
+## 3. [Suchen und Sortieren](../SuchenUndSortieren/Suchen)
+## 4. [Kryptologie](/kryptologie/Caesar)
 
 
 Viel Spaß
