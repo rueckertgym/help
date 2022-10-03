@@ -23,8 +23,9 @@ Materialien von Tino Hempel zur Informatik:
 
 IO-Stick von Tino Hempel für den eigenen USB -Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann (nur windows):
 * https://tinohempel.de/info/info/IoStick/index.html
-* Digitales Lehrbuch: Net-Informatikbuch:
-* * Lehrwerk mit vertiefenden Aspekten abgestimmt auf Lehrplan in NRW
+
+Digitales Angebote/Lehrwerk
+* Lehrwerk mit vertiefenden Aspekten abgestimmt auf Lehrplan in NRW
         ​  https://i2.net-schulbuch.de/
 
 * Inf-Schule: Umfangreiches Web-Angebot aus Rheinland-Pfalz, das sich als "elektronisches Schulbuch" versteht
@@ -32,22 +33,22 @@ http://www.inf-schule.de
 
 * Informatikprojekte von Julian Dorn
 https://wi-wissen.de/#projekte
-* UnterrichtmMaterialien der ETH Zürich
+* Unterrichtsmaterialien der ETH Zürich
 https://educ.ethz.ch/unterrichtsmaterialien/informatik.html
 * Materialsammlung Informatik auf den Seiten der Universität Wuppertal (wird überarbeitet) 
 https://ddi.uni-wuppertal.de/website/index-ddi.html?navi=materialien&main=spioncamp
 
 ## Software und Tools
 
-* https://www.bluej.org/ (BlueJ als Entwicklungsumgebung)
+* https://www.bluej.org/   (BlueJ als Entwicklungsumgebung)
 * https://flaci.com/home/ (Theoretische Informatik)
-* https://visualgo.net/de (Visualisierung von Algorithmen)
+* https://visualgo.net/de   (Visualisierung von Algorithmen)
 * https://ticdesk.teckids.org/account/register (Wird als Zugang zu edugit benötigt)
 * https://edugit.org/users/sign_in  (Bereitstellung von Implemenatione und Aufgaben; zur Nutzung wird ein Zugang von https://schul-frei.dev/pages/services.html  benötigt)
 * https://draw.io (Zeichnen von Diagrammen)
 * https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html?o=0   (Struktogrammeditor mit Java Quellcode Anzeige)
 ## Videos
-Im Abschnit [Hard- und Software](/hard-software/04 Arbeiten mit BlueJ und edugit.md) habe ich für den Unterricht relevante Videos hinterlegt.
+Im Abschnit [Hard- und Software](/hard-software/BlueJUndEdugit.md) habe ich für den Unterricht relevante Videos hinterlegt.
 
 # Vorgaben Abitur LK 2024
 Die Vorgaben zum Zentralabitur 2024 findet ihr auf der Seite der 
