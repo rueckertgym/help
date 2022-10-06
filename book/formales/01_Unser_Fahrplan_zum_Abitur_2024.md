@@ -14,14 +14,14 @@ https://www.standardsicherung.schulministerium.nrw.de/cms/zentralabitur-gost/fae
 
 * Materialien im Lehrplannavigator von NRW: Abitur 2018 ff
 insbesondere die Dokumentation für den Grundkurs bzw. Leistungskurs sowie Implementationen von Klassen für das Zentralabitur
-* * https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/hinweise-und-beispiele.html
+* https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/informatik/hinweise-und-beispiele/hinweise-und-beispiele.html
 
 * Lehrwerk "Informatik 2"
 
 Materialien von Tino Hempel zur Informatik:
 * https://tinohempel.de/index.htm
 
-IO-Stick von Tino Hempel für den eigenen USB -Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann (nur windows):
+IO-Stick von Tino Hempel für den eigenen USB-Stick, der für Einsatz bei schulischen Laptops mitgeführt werden kann (nur windows):
 * https://tinohempel.de/info/info/IoStick/index.html
 
 Digitales Angebote/Lehrwerk
@@ -43,7 +43,7 @@ https://ddi.uni-wuppertal.de/website/index-ddi.html?navi=materialien&main=spionc
 * https://www.bluej.org/   (BlueJ als Entwicklungsumgebung)
 * https://flaci.com/home/ (Theoretische Informatik)
 * https://visualgo.net/de   (Visualisierung von Algorithmen)
-* https://ticdesk.teckids.org/account/register (Wird als Zugang zu edugit benötigt)
+* https://ticdesk.teckids.org/account/register   (Wird als Zugang zu edugit benötigt)
 * https://edugit.org/users/sign_in  (Bereitstellung von Implemenatione und Aufgaben; zur Nutzung wird ein Zugang von https://schul-frei.dev/pages/services.html  benötigt)
 * https://draw.io (Zeichnen von Diagrammen)
 * https://dditools.inf.tu-dresden.de/ovk/Informatik/Programmierung/Grundlagen/Struktogramme.html?o=0   (Struktogrammeditor mit Java Quellcode Anzeige)
