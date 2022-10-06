@@ -18,7 +18,7 @@ Ein "Synchronisationsprozeß" gliedert sich in zwei Aktionen: commit und push.
 Bei einem commit werden von dir aktualisierte Daten am System für den Upload/Synchronisation bereitgestellt und das git System überprüft, ob Konflikte vorliegen oder ob deine Dateien hochgeladen werden können.
 
 > Als Commit oder Check-In bezeichnet man bei der Verwendung von Versionsverwaltungssystemen den Vorgang des Einspielens von neuem oder geändertem Quelltext und anderer Dateien in das Versionsverwaltungssystem. Dabei wird eine neue Version der Software den anderen an der Softwareentwicklung beteiligten Entwicklern zur Verfügung gestellt.
->> Quelle: https://de.wikipedia.org/wiki/Commit
+Quelle: https://de.wikipedia.org/wiki/Commit
 
 ### push
 Ein push erfolgt nach einem erfolgreichen commit und ist für das Bereitstellen/Upload der Daten zuständig.
