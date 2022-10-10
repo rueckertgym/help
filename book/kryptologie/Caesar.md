@@ -4,9 +4,9 @@ index: 0
 toc: show
 ---
 
-# Caesarverschlüsselung [^1]
+# Caesarverschlüsselung [1]
 
-[^1] Nach: Albrecht Beutelspacher: Geheimsprachen (C:H. Beck), teilweise verändert
+[1] Nach: Albrecht Beutelspacher: Geheimsprachen (C:H. Beck), teilweise verändert
 
 Obwohl der Caesar-Code zu den unsichersten Verschlüsselungsverfahren der Weltgeschichte gehört, kann man behaupten, dass mit diesem Code die Kryptographie begonnen hat. Der Name leitet sich von seinem „Erfinder“ C. J. Caesar (100 – 44 v. Chr.) ab.
 

@@ -10,6 +10,7 @@
   "license": "CC-BY-SA",
   "language": "de",
   "colors.brand": "#ffc300",
+  "logo": "/logo/hornseLogo.png"
   "elements": {
     "bookmarks": true
   }
