@@ -8,5 +8,9 @@
   },
   "basePath": "/begleitmaterial",
   "license": "CC-BY-SA",
-  "language": "de"
+  "language": "de",
+  "colors.brand": "#ffc300",
+  "elements": {
+    "bookmarks": true
+  }
 }
