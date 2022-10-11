@@ -9,7 +9,9 @@
   "basePath": "/begleitmaterial",
   "license": "CC-BY-SA",
   "language": "de",
-  "colors.brand": "#ffc300",
+  "colors": {
+    "brand": "#ffc300"
+  },
   "logo": "/logo/hornseLogo2.png",
   "elements": {
     "bookmarks": true
