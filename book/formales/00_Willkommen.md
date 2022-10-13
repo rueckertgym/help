@@ -1,31 +1,30 @@
 ---
-name: Willkommen im Informatik LK
+name: Willkommen auf den Hilfeseiten des FRGs
 toc: show
 index: 1
 ---
 
-# Informatik LK Abitur 2024
+# Informatiksysteme am FRG
 
-Ich heiße euch herzlich in unserem Kurs Informatik LK am FRG (Abitur 2024) willkommen.
-In diesem begleitenden "workbook" werden wir unsere Ergebnisse zum Unterricht festhalten und ihr werdet im Laufe der Zeit eigene Kapitel zu unterschiedlichen Themen für die anderen und zur Vorbereitung des Abiturs festhalten.
+Auf dieser Seite halte ich zuküntig einfache Hilfestellungen für unterschiedliche PRoblemstellungen am FRG fest.
+Diese werden in den meisten Fällen als Bedienungsanleitungen gestaltet werden.
 
-Im Rahmen des Unterrichts werden wir mit der Entwicklungsumgebung BlueJ für die objektorientierte Programmiersprache Java arbeiten.
+Hierzu gehören z.B. Anleitungen/Ideen/Anregungen für
 
-Gerne könnt auch mit alternative Entwicklungsumgebungen (IDE = **I**ntegrated**D**evelopment**E**nvironment) wie z.B. VSCode, Netbeans usw. arbeiten, wobei ich meine Materialien, die ich euch zur Verfügung stelle auf BlueJ abgestimmt habe.
+* unseren  Vertretungsplan Online: webuntis
+* unser Lernmanagementsystem: wwschool
 
-Im Rahmen des Unterrichts werden wir mit einem git-System (https://edugit.org) arbeiten. Was genau ein git-System ist und wie das Zusammenspiel zwischen BlueJ und git funktioniert, erkläre ich in meinen Videos auf die ich später verlinke.
+Arbeiten und Umgang mit unseren Informatiksystemen:
+* iPads
+* Laptops
+* Server (Laptops)
+* Streaminglösung AirServer Connect 2
 
-# Klausurtermine und Allgemeines
 
-Materialien: Klausurbögen kariert, Stifte, Geodreieck, essen und trinken. Alle Klausurbögen - außer dem Mantelbogen - werden nummeriert und mit eurem Namen beschriftet. Formale Fehler (Rechtschreibung, Zeichensetzung, fehlende Fachsprache, Ausdrucksfehler usw.) können zur Absenkung der Note um bis zu 3 Oberstufenpunkten führen
 
 :::alert{warn}
-**Klausur 1** 
+GGf. wird diese Seite zukünftig weiter von unseren Pacemakerkindern gepflegt. 
 
-    Datum: 22.09.2022
-    Uhrzeit: 08:00 Uhr
-    Raum: 
-    Länge: 180 Minuten
-    Themenbereiche: Grundbegriffe der objektorientierung Programmierung, Arrays, Suchen und Sortieren
+   
 :::
 

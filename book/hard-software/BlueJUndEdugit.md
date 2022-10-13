@@ -1,11 +1,14 @@
 ---
-name: Arbeiten mit BlueJ und edugit
+name: Informatiksysteme am FRG
 toc: show
 index: 2
 ---
-# Arbeiten mit BlueJ und edugit
+# Informatiksysteme am FRG
 
-
+## iPad
+## Laptops
+# Schulsystem am FRG
+## webuntis
 ## (Edu)git
 Ein git-System unterstützt dich beim kollaborativen (gemeinsamen) Arbeiten an Projekten und wird weltweit in der Softwareentwicklung angewendet.
 Vereinfacht gesagt handelt es sich hierbei um eine cloud in der alle benötigten Dateien synchron und up-to-date gehalten werden. 

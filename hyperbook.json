@@ -1,12 +1,12 @@
 {
-  "name": "Begleitmaterial Abitur 2024",
+  "name": "Anleitungen und Hilfestellungen am FRG",
   "version": "0.0.1",
-  "description": "Begleitmaterial für den LK Informatik Abitur 2024",
+  "description": "Hilfeseiten für die Systeme am FRG",
   "author": {
     "name": "Sebastian Horn",
     "url": "https://hornse.de"
   },
-  "basePath": "/begleitmaterial",
+  "basePath": "/anleitungen",
   "license": "CC-BY-SA",
   "language": "de",
   "colors": {
