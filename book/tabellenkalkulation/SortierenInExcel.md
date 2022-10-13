@@ -8,7 +8,7 @@ Nach einem Export der Daten liegen diese in Tabellenform (als csv (comma seperat
 Um diese Daten nach einem Kriterium zu Filtern bieten Tabellenkalkulationprogramme die Möglichkeit diese Daten als Tabellen zu visualisieren und "sortierbar" zu machen.
 Hier ist es aus meiner Sicht sinnvoll auf eine gute Visualisierungmöglichkeit zu achten z.B. Sind die Zellen/Zeilen/Spalten gut ablesbar usw?
 1. Als Tabelle formatieren
-![Als Tabelle formatierenn](/Bilder/tabellenkalkulation/alsTabelleFormatieren.png "Als Tabelle formatieren")
+![Als Tabelle formatieren](/Bilder/tabellenkalkulation/alsTabelleFormatieren.png "Als Tabelle formatieren")
 2. Den Bereich auswählen bis wohin die Tabelle dargestellt werden soll
 ![Bereich auswählen](/Bilder/tabellenkalkulation/bereichAuswaehlen.png "Bereich auswählen")
 3. Fenster fixieren

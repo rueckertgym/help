@@ -6,20 +6,6 @@ toc: show
 
 # Glossar
 
-# lineare Datenstrukturen
-
-## Arrays (dt. Feld)
-Weitere Informatioten zu Arrays findest du :t[hier]{#array.md}.
-
-## List (dt. Liste)
-
-## Queue (dt. Wsarteschlange)
-
-## Stack (dt. Keller oder Stapel)
-
-# hierarische Datenstrukturen
-
-# Graphen
 
 # Werkzeuge
 

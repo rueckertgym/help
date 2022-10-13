@@ -15,10 +15,10 @@ Viel Erfolg
 # Inhaltlich 
 Das workbuch ist in mehrer Abschnitte aufgeteilt und in einigen Fällen verdeutlichen sinnvollen Videos den Inhaltlich
 
-## 1. [Willkommen](/formales/Willkommen)
-## 2. [Informatiksysteme am FRG](/hard-software/InformatiksystemeAmFRG)
-## 3. [Unser LMS wwschool](../lms/Suchen)
-## 4. [Webuntis](/webuntis/ArbeitenMitWebuntis)
+## 1. [Willkommen](/formales/willkommen)
+## 2. [Informatiksysteme am FRG](/hard-software/informatiksystemeAmFRG)
+## 3. [wwschool](../lms/wwschool)
+## 4. [Webuntis](/webuntis/arbeitenMitWebuntis)
 
 
 Viel Spaß
