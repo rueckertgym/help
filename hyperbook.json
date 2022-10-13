@@ -10,9 +10,9 @@
   "license": "CC-BY-SA",
   "language": "de",
   "colors": {
-    "brand": "#00b4d8"
+    "brand": "#457B9D"
   },
-  "logo": "logo/hornseLogoEinhornOrange.png",
+  "logo": "logo/hornseLogoEinhornGruenTransparent.png",
   "elements": {
     "bookmarks": true
   }
