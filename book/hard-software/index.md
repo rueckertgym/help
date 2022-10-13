@@ -1,4 +1,4 @@
 ---
-name: Hard-und Software
+name: Informatiksysteme am FRG
 index: 1
 ---
