@@ -1,5 +1,5 @@
 ---
-name: Informatiksysteme am FRG
+name: iPads und Laptops
 toc: show
 index: 2
 ---
@@ -7,8 +7,8 @@ index: 2
 
 ## iPad
 ## Laptops
-# Schulsystem am FRG
-## webuntis
+
+
 
 
 

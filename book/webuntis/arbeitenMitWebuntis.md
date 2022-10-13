@@ -1,5 +1,5 @@
 ---
-name: webuntis
+name: Einrichten 
 index: 0
 toc: show
 ---
@@ -17,7 +17,7 @@ Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in.
 Solltet ihr eure Zugangsdaten "vergessen" haben, wendet euch bitte an sebastian.horn(a)schule.duesseldorf.de 
 
 ## Vertretungsplan Online
-Generell besteht die möglichkeit sich die Vertretungen im Browser oder über die app anzuschauen, wobei die Appvariante für Schüler:innen komfortabler ist.
+Generell besteht die Möglichkeit sich seine Vertretungen/Stundenplanänderungen im Browser oder über die App anzuschauen, wobei die Appvariante für Schüler:innen komfortabler ist.
 
 Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wird z.B. auf der login-Seite verwiesen.
 
@@ -26,20 +26,23 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
 
 
 2. Schulauswahl
-Unsere Schule ist mit dem Namen "F.-Rueckert-Gymnasium" hinterlegt.
 
-**Vorsicht** es existieren mehrer Friedrich Rückert Gymnasien, die webuntis nutzen. Achtet also bitte auch auf die korrekte Anschrift bei der Erstauswahl:
+   Unsere Schule ist mit dem Namen "F.-Rueckert-Gymnasium" hinterlegt.
 
-F.-Rückert-Gymnasium
-Rückertstr. 6
-40470 Düsseldorf
+   **Vorsicht** es existieren mehrer Friedrich Rückert Gymnasien, die webuntis nutzen. Achtet also bitte auch auf die korrekte Anschrift bei der Erstauswahl:
+
+   F.-Rückert-Gymnasium
+   Rückertstr. 6
+   40470 Düsseldorf
 
 ![Schulauswahl](/Bilder/webuntis/auswahlSchule.png "Schulauswahl")
 
 3. Loginseite
-Gebt hier eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
+
+   Gebt hier eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
 ![Loginseite](/Bilder/webuntis/loginSeite.png "Loginseite")
 
 4. Fragen
-Sollten Fragen bestehen, könnt ihr euch gerne an sebastian.horn(a)schule.duesseldorf.de oder das Vertretungsplanteam wenden.
-Die Einrichtung und nutzung der App ist identisch.
+
+   Sollten Fragen bestehen, könnt ihr euch gerne an sebastian.horn(a)schule.duesseldorf.de oder das Vertretungsplanteam wenden.
+   Die Einrichtung und Nutzung der App ist identisch.
