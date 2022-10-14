@@ -22,7 +22,7 @@ Jede:r Schüler:in hat eigene Zugangsdaten für die Schullaptops. Diese Zugangsd
 Alle Laptops sind per WLAN in das Schulnetz eingebunden sind.
 
 Somit stehen allen Personen auf dem Server und Laufwerk (H:) Speicherplatz zur Verfügung, auf den sie nach Anmeldung an den Laptop sofort Zugriff haben. 
-   **Es ist also egal, welchen Laptop ich nutze um meine Dateien zu bearbeiten. Solange darauf geachtet wird auf dem Laufwerk H: zu speichern, sind die Dagespeicherten Daten von jedem Laptop erreichbar.**
+   **Es ist also egal, welchen Laptop ich nutze um meine Dateien zu bearbeiten. Solange darauf geachtet wird auf dem Laufwerk H: zu speichern, sind die Daten von jedem Laptop erreichbar.**
 
 Über https://frgwolke.hornse.de kann über eine nextcoud-Instanz auf diesen Speicherplatz mit seinen Anmeldedaten auch von außerhalb der Schule zugrgriffen werden.
 
