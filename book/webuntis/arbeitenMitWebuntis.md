@@ -47,7 +47,11 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
    Sollten Fragen bestehen, könnt ihr euch gerne an sebastian.horn(a)schule.duesseldorf.de oder das Vertretungsplanteam wenden.
    Die Einrichtung und Nutzung der App ist identisch.
 
-Ein entsprechendes Kurzvideo findest du hier ::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
+Ein entsprechendes Kurzvideo findest du hier 
+::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
+::youtube[Costa Rica]{#LXb3EKWsInQ}
 
+
+kzCw_1qEBpg
 
 
