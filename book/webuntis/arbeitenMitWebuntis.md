@@ -9,7 +9,6 @@ Wir werden zukünftig webuntis für die Darstellung des Vertretungsplan nutzen. 
 
 Das System soll und wird weiter ausgebaut werden und wird aller voraussicht nach auch das klasische Klassen- und Kursbuch ablösen und uns bei der Kurswahl und Kommunikation unterstützen.
 
-[1] https://webuntis.com
 
 ## Zugangsdaten
 Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in. In euerem eigenen Interesse solltet ihr eure Zugangsdaten nicht untereinander austauschen, da es sich wie oben beschrieben um personalisierte Zugänge handelt.
@@ -39,7 +38,7 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
 
 3. Loginseite
 
-   Gebt hier eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
+   Gebt [hier](https://webuntis.com)eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
 ![Loginseite](/Bilder/webuntis/loginSeite.png "Loginseite")
 
 4. Fragen
@@ -51,4 +50,4 @@ Ein entsprechendes Kurzvideo findest du hier
 ::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
 
 
-
+[1] https://webuntis.com
