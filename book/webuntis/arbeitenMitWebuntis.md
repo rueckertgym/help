@@ -48,7 +48,6 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
    Die Einrichtung und Nutzung der App ist identisch.
 
 Ein entsprechendes Kurzvideo findest du hier ::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
-:::
-:::tab{title="01 webuntis" id="01 webuntis: Erstanmeldung"}
+
 
 
