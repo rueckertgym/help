@@ -28,3 +28,7 @@ Es werden nun alle Klassen angezeigt nach denen sortiert werden kann
 Mit Klick auf „(Alles auswählen)“ werden alle Klassen aus- oder abgewählt. In unserem Fall werden alle abgewählt, da bereits alle Klassen ausgewählt waren (grüner Haken). Setzt man anschließend den Haken bei „05A“ werden in der Tabelle nur die Daten der 5a angezeigt und alle anderen ausgeblendet (nicht gelöscht!)
 
 ![Kriterium Auswählen](/Bilder/tabellenkalkulation/einesAuswaehlen.png "Kriterium auswählen")
+
+# 4. Kurzvideo
+::youtube[01 Tabellenkalkulation: Tabelle erstellen und filtern]{#KpoWaUWJN8g}
+
