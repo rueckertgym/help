@@ -48,6 +48,89 @@ index: 4
  https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
 
  :::
+ und hier:
+ 
+ :::collapsible{title="Allgemein" }
+
+ + pages
+ + keynote 
+ + numbers
+ + classroom
+ + documents
+ + webweaver (wwschool)
+ + google meet
+
+ :::
+
+ ### Gestaltungs- und Präsentations-Apps
+ + adobe Paket spark page, spark Video
+ + Biparcours
+
+ ### Mathe Apps
+ + Geogebra 3D Rechner
+ + Geogebra classic
+ + Geogebra Grafikrechner
+ + TI-Nspire CAS
+ + Visual Math 4D
+
+ ### Informatik Apps
+ + Biber app
+ + EV3 Programmer
+ + Calliope Mini
+ + Local Lite
+ + micro-Bit
+ + Swift Playgrounds
+ + Tinkercad
+
+ ### NW Apps
+
+ + Cassy
+ + 3D Anatomy Learning
+ + Mendeleev.me
+ + Merck Periodensystem
+ + phyphox
+ + Spectrometry
+
+ ### Musik Apps
+ + Garage Band
+
+ VR Apps
+
+ + Google Cardboard
+ + AR Makr
+ + AR Skeleton Anatomy
+ + Expeditions
+ + Google Arts & Culture
+ + Within VR
+ + ZDF VR
+
+ Sprachen Apps
+
+ + BDnF - la fabrique à BD
+ + phase 6 Vokabeltrainer
+ + Quizzlet
+
+ Sport Apps
+
+ + Bundesjugendspiele
+ + Knoten 3D
+ + Turnlehrer
+ + Viana Videoanalyse
+ + Video Delay Instant Replay
+
+ Zeichen Apps
+
+ + Sketchbook
+ + Tayasui Sketches Pro
+
+ Sonstige
+
+ + Google Earth
+ + Inovations Map (Mindmaps)
+ + Notability
+ + Good Notes
+ + Seterra Erdkunde
+ + Stop Motion <studio
 
  Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und  ich installiere alles (siehe Formular).
 
