@@ -37,38 +37,41 @@ index: 4
 
 ::::collapsible{title="Gibt es eine Liste der installierten Programme? " }
 
- Antwort: Eine Liste der installierbaren Apps findet ihr im Formular :::protect{password="4711" description="Passwort bitte bei Sebastian Horn erfragen."}
+ **Antwort:** Eine Liste der installierbaren Apps findet ihr im Formular 
+ 
+ :::protect{password="4711" description="Passwort bitte bei Sebastian Horn erfragen."}
 
  https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
 
 :::
- **Antwort:** Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und  ich installiere alles (siehe Formular).
+
+ Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und  ich installiere alles (siehe Formular).
 
 ::::
 
 ## Lehrer:innen Dienst bzw. ArbeitsiPad
+
 :::collapsible{title="Wie ist das Lehrer-iPad ausgestattet?" }
 
  **Antwort:** Das Lehrer-iPad wird mit Case und integrierter Tastatur ausgeliefert. Wenn ein Stift (Logitech Crayon) mit gewünscht war, ist dieser ebenso enthalten.
 
 :::
 
-:::collapsible{title="Wie installiere ich Apps auf dem Dienstgerät?
-" }
+:::collapsible{title="Wie installiere ich Apps auf dem Dienstgerät?" }
 
  **Antwort:** Füllt das Formular aus oder sprecht mich an, damit wir gemeinsam die Apps installieren können. https://docs.google.com/forms/d/1X7yGBCXYA1wD66ARobZkG2j10bvRyGUSugpLZ_P0s28/edit
 
 
 :::
 
-:::collapsible{title="Muss ich persönlich oder mein iPad bei der Installation von apps auf dem Dienstgerät vor Ort sein?
-" }
+:::collapsible{title="Muss ich persönlich oder mein iPad bei der Installation von apps auf dem Dienstgerät vor Ort sein?" }
 
  **Antwort:** Nein, ich entnehme eure Wünsche aus dem Formular. Alle anderen Apps werde ich bis auf die Basisapps löschen, da der Speicherplatz der Geräte zu gering ist!
 
 :::
 
 ## Zuständigkeiten
+
 :::collapsible{title="Wie sehen die Zuständigkeiten im digitalen Bereich aus?" }
 
  **Antwort:** Hierzu zählen neben Passwörter setzen auch die Aufgaben zu Beginn eines neuen Schuljahrs.
