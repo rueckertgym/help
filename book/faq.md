@@ -5,33 +5,37 @@ index: 4
 ---
 # FAQ zu digitalen Dingen
 
+## iPad Allgemein
+
 :::collapsible{title="Können wir im neuen Gebäude noch mit den eigenen Rechnern ins Netz bzw. Airplay und den Beamer nutzen?"}
 
-**Antwort:** Jein, das Internet der Schule kann nicht mehr genutzt werden. AirPlay über die Beamer kann mit privaten Geräten genutzt werden, wobei das Streamen von Videoinhalten prinzipiell im AirPlay Modus (Vollbildmodus) ruckelfrei funktionieren sollte.
+ **Antwort:** Jein, das Internet der Schule kann nicht mehr genutzt werden. AirPlay über die Beamer kann mit privaten Geräten genutzt werden, wobei das Streamen von Videoinhalten prinzipiell im AirPlay Modus (Vollbildmodus) ruckelfrei funktionieren sollte.
 
 :::
 
+## Lehrer/-innen Dienst- bzw. Arbeits-iPad
+
 :::collapsible{title="Wenn nicht: Kann man über das Lehrer-iPad auf seine Cloud zugreifen?"}
 
-**Antwort:** Jein, da bei den Lehrer-iPads keine Apple Id hinterlegt werden kann, erfolgt der Zugriff auf die Apple Cloud über einen Webbrowser. Ist eine 2 Faktoren Authentifizierung hinterlegt, benötigt man für den Zugriff auf die Cloud ein weiteres Apple Gerät auf dem die Apple ID hinterlegt ist.
+ **Antwort:** Jein, da bei den Lehrer-iPads keine Apple Id hinterlegt werden kann, erfolgt der Zugriff auf die Apple Cloud über einen Webbrowser. Ist eine 2 Faktoren Authentifizierung hinterlegt, benötigt man für den Zugriff auf die Cloud ein weiteres Apple Gerät auf dem die Apple ID hinterlegt ist.
 
 :::
 
 :::collapsible{title="Kann ich mir dann „fertige“ Dokumente, also PDF, PowerPoint dann via Airdrop schicken?" }
 
-**Antwort:** Ja, Airdrop ist in alle Richtungen und Kombinationen möglich.
+ **Antwort:** Ja, Airdrop ist in alle Richtungen und Kombinationen möglich.
 
 :::
 
 :::collapsible{title="Gibt es irgendeine Möglichkeit, Dokumente, an denen man fortlaufend arbeitet, z.B. OneNote, parallel auf dem Lehrergerät und dem eigenen Laptop zu bearbeiten?" }
 
-**Antwort:** Ja, es ist allerdings absehbar, dass Microsoft Produkte nicht mehr genutzt werden dürfen. Padlet darf definitiv an Schulen in NRW inzwischen nicht mehr genutzt werden. Momentan überlegen wir das wwschool Paket um eine online Office Variante (Only-Office) mit der kollaborativ gearbeitet werden kann zu erweitern. Definitiv kann cryptpad.fr genutzt werden.
+ **Antwort:** Ja, es ist allerdings absehbar, dass Microsoft Produkte nicht mehr genutzt werden dürfen. Padlet darf definitiv an Schulen in NRW inzwischen nicht mehr genutzt werden. Momentan überlegen wir das wwschool Paket um eine online Office Variante (Only-Office) mit der kollaborativ gearbeitet werden kann zu erweitern. Definitiv kann cryptpad.fr genutzt werden.
 
 :::
 
 :::collapsible{title="Sind die Windows-Programme auf dem iPad installiert?" }
 
-**Antwort:** Das Microsoft Office Paket kann vom Systemadministrator auf den iPads installiert werden. Es ist aber absehbar, dass z.B. Teams und ggf. weitere Programmpakete (OneNote, Word, Excel usw.) aus datenschutztechnischen Gründen auch nicht mehr installiert werden dürfen. Weitere Informationen hierzu sind im Punkt Datenschutz aufgeführt!
+ **Antwort:** Das Microsoft Office Paket kann vom Systemadministrator auf den iPads installiert werden. Es ist aber absehbar, dass z.B. Teams und ggf. weitere Programmpakete (OneNote, Word, Excel usw.) aus datenschutztechnischen Gründen auch nicht mehr installiert werden dürfen. Weitere Informationen hierzu sind im Punkt Datenschutz aufgeführt!
 
 :::
 
@@ -43,13 +47,12 @@ index: 4
 
  https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
 
-:::
+ :::
 
  Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und  ich installiere alles (siehe Formular).
 
 ::::
 
-## Lehrer:innen Dienst bzw. ArbeitsiPad
 
 :::collapsible{title="Wie ist das Lehrer-iPad ausgestattet?" }
 
@@ -70,6 +73,9 @@ index: 4
 
 :::
 
+## Laptops
+
+
 ## Zuständigkeiten
 
 :::collapsible{title="Wie sehen die Zuständigkeiten im digitalen Bereich aus?" }
@@ -77,6 +83,7 @@ index: 4
  **Antwort:** Hierzu zählen neben Passwörter setzen auch die Aufgaben zu Beginn eines neuen Schuljahrs.
  
  + wwschool
+
     Jahrgangsstufe 5-6: Kirsten Elfers
 
     Jahrgangsstufe 7-10: Tim von Berswordt-Wallrabe
@@ -121,6 +128,7 @@ index: 4
 
 :::
 
+## Allgemeines
 :::collapsible{title="Wo erfahre ich etwas über Datenschutz?"}
 
  **Antwort:** Hierfür empfehle ich die z.B. folgende Seite https://datenschutz-schule.info/category/microsoft/
