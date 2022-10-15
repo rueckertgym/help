@@ -194,13 +194,20 @@ index: 4
  
  + wwschool
 
-    Jahrgangsstufe 5-6: Kirsten Elfers
+   | Jahrgangsstufe  | Person  | Email  |
+   |:-:|:-:|:-:|
+   | 5 - 6  | Kirsten Elfers  | kirsten.elfers@frg.wwschool.de  |
+   | 7 - 10  | Tim von Berswordt-Wallrabe  |   |
+   | Oberstufe  | Michael Billowie  | michael.billowie@frg.wwschool.de  |
+   | Mr. Wolf  | Sebastian Horn  | sebastian.horn@schule.duesseldorf.de  |
+
+    Jahrgangsstufe 5-6: Kirsten Elfers (kirsten.elfers@frg.wwschool.de)
 
     Jahrgangsstufe 7-10: Tim von Berswordt-Wallrabe
 
-    Oberstufe: Michael Billowie
+    Oberstufe: Michael Billowie (michael.billowie@frg.wwschool.de)
 
-    Besonderheiten: (noch) Sebastian Horn
+    Besonderheiten: (noch) Sebastian Horn (sebastian.horn@schule.duesseldorf.de)
 
  + google (Videokonferenztool)
 
@@ -234,20 +241,20 @@ index: 4
 
 :::collapsible{title="Wo melde ich Probleme mit den Beamer und dem Wlan?"}
 
- **Antwort:** Bitte meldet alle Fehler über die Fehlertabelle: https://docs.google.com/spreadsheets/d/10c1h-1tL5ilD9vHyzH3iRk4ghmwGuKr_nSXukGtoDo8/edit?usp=sharing Diese Tabelle kann von eschool eingesehen werden und wird sofort bearbeitet.
+ Bitte meldet alle Fehler über die Fehlertabelle: https://docs.google.com/spreadsheets/d/10c1h-1tL5ilD9vHyzH3iRk4ghmwGuKr_nSXukGtoDo8/edit?usp=sharing Diese Tabelle kann von eschool eingesehen werden und wird sofort bearbeitet.
 
 :::
 
 ## Allgemeines
 :::collapsible{title="Wo erfahre ich etwas über Datenschutz?"}
 
- **Antwort:** Hierfür empfehle ich die z.B. folgende Seite https://datenschutz-schule.info/category/microsoft/
+  Hierfür empfehle ich die z.B. folgende Seite https://datenschutz-schule.info/category/microsoft/
 
 :::
 
 :::collapsible{title="Wie bediene ich die neuen Beamer?"}
 
- **Antwort:** Anleitungen für die Bedienung befinden sich unten.
+ Anleitungen für die Bedienung befinden sich unten.
  
  :download[Anleitung iPad]{src="/download/faq/2022_08_02_AirServer_Anleitung_iPad_v1.0.0.pdf"}
 
@@ -257,7 +264,7 @@ index: 4
 
 :::collapsible{title="Gibt es einen online Vertretungsplan?"}
 
- **Antwort:** Ja, weitere Informationen im Abschnitt webuntis zusammengefasst.
+  Ja, weitere Informationen im Abschnitt webuntis zusammengefasst.
 
  Zukünftig wird die Nutzung von webuntis noch erweiteret werden (digitales Klassenbuch usw.) Hierzu werden noch weitere  Informationen folgen!
 
