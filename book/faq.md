@@ -76,69 +76,78 @@ index: 4
 
  **Antwort:** Hierzu zählen neben Passwörter setzen auch die Aufgaben zu Beginn eines neuen Schuljahrs.
  
- wwschool
+ + wwschool
  
- Jahrgangsstufe 5-6: Kirsten Elfers
- Jahrgangsstufe 7-10: Tim von Berswordt-Wallrabe
- Oberstufe: Michael Billowie
- Besonderheiten: (noch) Sebastian Horn
+  Jahrgangsstufe 5-6: Kirsten Elfers
+  Jahrgangsstufe 7-10: Tim von Berswordt-Wallrabe
+  Oberstufe: Michael Billowie
+  Besonderheiten: (noch) Sebastian Horn
 
- google
+ + google (Videokonferenztool)
 
- (Videokonferenztool): Sebastian Horn
+ Sebastian Horn
 
- Apple
+ + Apple
 
- Installation von Apps auf LuL und SuS Geräten: Sebastian Horn
- Ausleihe (inkl. Verträge): Bärbel Schürmann
- Pflege iPads (zurücksetzen usw.): Bärbel Schürmann und Sebastian Horn
+  Installation von Apps auf LuL und SuS Geräten: Sebastian Horn
+  Ausleihe (inkl. Verträge): Bärbel Schürmann
+  Pflege iPads (zurücksetzen usw.): Bärbel Schürmann und Sebastian Horn
 
- Laptops
+ + Laptops
 
- Passwörter: Bärbel Schürmann und Sebastian Horn (bzw. jede Lehrkraft mit einem Zugang!)
- Installation und Verteilung von Programme: Sebastian Horn
- Rechnerpflege: Bärbel Schürmann und Sebastian Horn
- Ausleihe: Bärbel Schürmann
+  Passwörter: Bärbel Schürmann und Sebastian Horn (bzw. jede Lehrkraft mit einem Zugang!)
+  Installation und Verteilung von Programme: Sebastian Horn
+  Rechnerpflege: Bärbel Schürmann und Sebastian Horn
+  Ausleihe: Bärbel Schürmann
 
- Adobe o.ä.
+ + Adobe o.ä.
 
- Passwörter: Sebastian Horn
- Zuweisung von Rechten: Sebastian Horn
- Einholung von Einverständniserklärungen: Betroffene Lehrkraft
+  Passwörter: Sebastian Horn
+  Zuweisung von Rechten: Sebastian Horn
+  Einholung von Einverständniserklärungen: Betroffene Lehrkraft
 
- webuntis
+ + webuntis
 
- Passwörter: Herr Reinhold und Sebastian Horn
- Pflege: Herr Reinhold und Sebastian Horn
+  Passwörter: Herr Reinhold und Sebastian Horn
+  Pflege: Herr Reinhold und Sebastian Horn
+
+:::
+
+:::collapsible{title="Wo melde ich Probleme mit den Beamer und dem Wlan?"}
+
+ **Antwort:** Bitte meldet alle Fehler über die Fehlertabelle: https://docs.google.com/spreadsheets/d/10c1h-1tL5ilD9vHyzH3iRk4ghmwGuKr_nSXukGtoDo8/edit?usp=sharing Diese Tabelle kann von eschool eingesehen werden und wird sofort bearbeitet.
+
+:::
+
+:::collapsible{title="Wo erfahre ich etwas über Datenschutz?"}
+
+ **Antwort:** Hierfür empfehle ich die z.B. folgende Seite https://datenschutz-schule.info/category/microsoft/
+
+:::
+
+:::collapsible{title="Wie bediene ich die neuen Beamer?"}
+
+ **Antwort:** Anleitungen für die Bedienung befinden sich unten.
+ 
+ :download[Anleitung iPad]{src="/download/faq/2022_08_02_AirServer_Anleitung_iPad_v1.0.0.pdf"}
+
+ :download[Anleitung windows]{src="/download/faq/2022_08_01_AirServer_Anleitung_Windows_v1.0.0.pdf"}
+
+:::
+
+:::collapsible{title="Gibt es einen online Vertretungsplan?"}
+
+ **Antwort:** Ja, weitere Informationen im Abschnitt webuntis zusammengefasst.
+
+ Zukünftig wird die Nutzung von webuntis noch erweiteret werden (digitales Klassenbuch usw.) Hierzu werden noch weitere  Informationen folgen!
 
 :::
 
 
 
 
-8. Wo melde ich Probleme mit den Beamer und dem Wlan?
-
- Antwort: Bitte meldet alle Fehler über die Fehlertabelle: https://docs.google.com/spreadsheets/d/10c1h-1tL5ilD9vHyzH3iRk4ghmwGuKr_nSXukGtoDo8/edit?usp=sharing Diese Tabelle kann von eschool eingesehen werden und wird sofort bearbeitet.
-
-9. Wo erfahre ich etwas über Datenschutz?
-
- Antwort: Hierfür empfehle ich die z.B. folgende Seite https://datenschutz-schule.info/category/microsoft/
 
 
-
-11. Wie bediene ich die neuen Beamer?
-
- Antwort: eine Anleitung für die Bedienung finden Sie/ihr im Anhang.
-
- :download[Anleitung iPad]{src="/download/faq/2022_08_02_AirServer_Anleitung_iPad_v1.0.0.pdf"}
-
- :download[Anleitung windows]{src="/download/faq/2022_08_01_AirServer_Anleitung_Windows_v1.0.0.pdf"}
-
-
-12. Gibt es einen online Vertretungsplan?
- **Antwort:** Ja, weitere Informationen im Abschnitt webuntis zusammengefasst
-
- Zukünftig wird der Vertretungsplan über webuntis veröffentlich. Hierzu werden noch weitere  Informationen folgen!
 
 
 
