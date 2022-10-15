@@ -77,21 +77,23 @@ index: 4
  **Antwort:** Hierzu zählen neben Passwörter setzen auch die Aufgaben zu Beginn eines neuen Schuljahrs.
  
  + wwschool
- 
-  Jahrgangsstufe 5-6: Kirsten Elfers
-  Jahrgangsstufe 7-10: Tim von Berswordt-Wallrabe
-  Oberstufe: Michael Billowie
-  Besonderheiten: (noch) Sebastian Horn
+    Jahrgangsstufe 5-6: Kirsten Elfers
+
+    Jahrgangsstufe 7-10: Tim von Berswordt-Wallrabe
+
+    Oberstufe: Michael Billowie
+
+    Besonderheiten: (noch) Sebastian Horn
 
  + google (Videokonferenztool)
 
- Sebastian Horn
+    Sebastian Horn
 
  + Apple
 
-  Installation von Apps auf LuL und SuS Geräten: Sebastian Horn
-  Ausleihe (inkl. Verträge): Bärbel Schürmann
-  Pflege iPads (zurücksetzen usw.): Bärbel Schürmann und Sebastian Horn
+    Installation von Apps auf LuL und SuS Geräten: Sebastian Horn
+    Ausleihe (inkl. Verträge): Bärbel Schürmann
+    Pflege iPads (zurücksetzen usw.): Bärbel Schürmann und Sebastian Horn
 
  + Laptops
 
