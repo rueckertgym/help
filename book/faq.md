@@ -9,7 +9,7 @@ index: 4
 
 :::collapsible{title="Können wir im neuen Gebäude noch mit den eigenen Rechnern ins Netz bzw. Airplay und den Beamer nutzen?"}
 
- **Antwort:** Jein, das Internet der Schule kann nicht mehr genutzt werden. AirPlay über die Beamer kann mit privaten Geräten genutzt werden, wobei das Streamen von Videoinhalten prinzipiell im AirPlay Modus (Vollbildmodus) ruckelfrei funktionieren sollte.
+ Jein, das Internet der Schule kann nicht mehr genutzt werden. AirPlay über die Beamer kann mit privaten Geräten genutzt werden, wobei das Streamen von Videoinhalten prinzipiell im AirPlay Modus (Vollbildmodus) ruckelfrei funktionieren sollte.
 
 :::
 
@@ -17,33 +17,33 @@ index: 4
 
 :::collapsible{title="Wenn nicht: Kann man über das Lehrer-iPad auf seine Cloud zugreifen?"}
 
- **Antwort:** Jein, da bei den Lehrer-iPads keine Apple Id hinterlegt werden kann, erfolgt der Zugriff auf die Apple Cloud über einen Webbrowser. Ist eine 2 Faktoren Authentifizierung hinterlegt, benötigt man für den Zugriff auf die Cloud ein weiteres Apple Gerät auf dem die Apple ID hinterlegt ist.
+ Jein, da bei den Lehrer-iPads keine Apple Id hinterlegt werden kann, erfolgt der Zugriff auf die Apple Cloud über einen Webbrowser. Ist eine 2 Faktoren Authentifizierung hinterlegt, benötigt man für den Zugriff auf die Cloud ein weiteres Apple Gerät auf dem die Apple ID hinterlegt ist.
 
 :::
 
 :::collapsible{title="Kann ich mir dann „fertige“ Dokumente, also PDF, PowerPoint dann via Airdrop schicken?" }
 
- **Antwort:** Ja, Airdrop ist in alle Richtungen und Kombinationen möglich.
+ Ja, Airdrop ist in alle Richtungen und Kombinationen möglich.
 
 :::
 
 :::collapsible{title="Gibt es irgendeine Möglichkeit, Dokumente, an denen man fortlaufend arbeitet, z.B. OneNote, parallel auf dem Lehrergerät und dem eigenen Laptop zu bearbeiten?" }
 
- **Antwort:** Ja, es ist allerdings absehbar, dass Microsoft Produkte nicht mehr genutzt werden dürfen. Padlet darf definitiv an Schulen in NRW inzwischen nicht mehr genutzt werden. Momentan überlegen wir das wwschool Paket um eine online Office Variante (Only-Office) mit der kollaborativ gearbeitet werden kann zu erweitern. Definitiv kann cryptpad.fr genutzt werden.
+ Ja, es ist allerdings absehbar, dass Microsoft Produkte nicht mehr genutzt werden dürfen. Padlet darf definitiv an Schulen in NRW inzwischen nicht mehr genutzt werden. Momentan überlegen wir das wwschool Paket um eine online Office Variante (Only-Office) mit der kollaborativ gearbeitet werden kann zu erweitern. Definitiv kann cryptpad.fr genutzt werden.
 
 :::
 
 :::collapsible{title="Sind die Windows-Programme auf dem iPad installiert?" }
 
- **Antwort:** Das Microsoft Office Paket kann vom Systemadministrator auf den iPads installiert werden. Es ist aber absehbar, dass z.B. Teams und ggf. weitere Programmpakete (OneNote, Word, Excel usw.) aus datenschutztechnischen Gründen auch nicht mehr installiert werden dürfen. Weitere Informationen hierzu sind im Punkt Datenschutz aufgeführt!
+ Das Microsoft Office Paket kann vom Systemadministrator auf den iPads installiert werden. Es ist aber absehbar, dass z.B. Teams und ggf. weitere Programmpakete (OneNote, Word, Excel usw.) aus datenschutztechnischen Gründen auch nicht mehr installiert werden dürfen. Weitere Informationen hierzu sind im Punkt Datenschutz aufgeführt!
 
 :::
 
 ::::collapsible{title="Gibt es eine Liste der installierten Programme? " }
 
- **Antwort:** Eine Liste der installierbaren Apps findet ihr im Formular unten und hier:
+ Eine Liste der installierbaren Apps findet ihr im Formular unten und hier:
  
- :::collapsible{title="Allgemein" }
+ :::collapsible{title="Standardapps auf allen Lehrer:innen iPads" }
 
  + pages
  + keynote 
@@ -55,18 +55,25 @@ index: 4
 
  :::
 
- ### Gestaltungs- und Präsentations-Apps
+ :::collapsible{title="Gestaltungs- und Präsentations Apps"}
+
  + adobe Paket spark page, spark Video
  + Biparcours
 
- ### Mathe Apps
+ :::
+
+ :::collapsible{title="Mathe Apps"}
+ 
  + Geogebra 3D Rechner
  + Geogebra classic
  + Geogebra Grafikrechner
  + TI-Nspire CAS
  + Visual Math 4D
 
- ### Informatik Apps
+ ::: 
+
+ :::collapsible{title="Informatik Apps"}
+ 
  + Biber app
  + EV3 Programmer
  + Calliope Mini
@@ -75,7 +82,9 @@ index: 4
  + Swift Playgrounds
  + Tinkercad
 
- ### NW Apps
+ :::
+ 
+ :::collapsible{title="NW Apps"}
 
  + Cassy
  + 3D Anatomy Learning
@@ -84,10 +93,15 @@ index: 4
  + phyphox
  + Spectrometry
 
- ### Musik Apps
+ :::
+
+ :::collapsible{title="Musik Apps"}
+ 
  + Garage Band
 
- VR Apps
+ :::
+
+ :::collapsible{title="VR Apps"}
 
  + Google Cardboard
  + AR Makr
@@ -97,13 +111,16 @@ index: 4
  + Within VR
  + ZDF VR
 
- Sprachen Apps
+ :::
+ :::collapsible{title="Sprachen Apps"}
 
  + BDnF - la fabrique à BD
  + phase 6 Vokabeltrainer
  + Quizzlet
 
- Sport Apps
+ :::
+
+ :::collapsible{title="Sport Apps"}
 
  + Bundesjugendspiele
  + Knoten 3D
@@ -111,23 +128,29 @@ index: 4
  + Viana Videoanalyse
  + Video Delay Instant Replay
 
- Zeichen Apps
+ :::
+
+ :::collapsible{title="Zeichen Apps"}
 
  + Sketchbook
  + Tayasui Sketches Pro
 
- Sonstige
+ :::
+ 
+ :::collapsible{title="Sonstige"}
 
  + Google Earth
  + Inovations Map (Mindmaps)
  + Notability
  + Good Notes
  + Seterra Erdkunde
- + Stop Motion <studio
+ + Stop Motion Studio
+
+ :::
 
  Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und   ich installiere alles (siehe Formular).
 
- :::protect{password="4711" description="Passwort zum formular bitte bei Sebastian Horn erfragen."}
+ :::protect{password="4711" description="Passwort für das Formular bitte bei Sebastian Horn erfragen."}
 
  https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
 
@@ -142,12 +165,17 @@ index: 4
 
 :::
 
-:::collapsible{title="Wie installiere ich Apps auf dem Dienstgerät?" }
+::::collapsible{title="Wie installiere ich Apps auf dem Dienstgerät?" }
 
- **Antwort:** Füllt das Formular aus oder sprecht mich an, damit wir gemeinsam die Apps installieren können. https://docs.google.com/forms/d/1X7yGBCXYA1wD66ARobZkG2j10bvRyGUSugpLZ_P0s28/edit
+ **Antwort:** Füllt das Formular aus oder sprecht mich an, damit wir gemeinsam die Apps installieren können.
 
+ :::protect{password="4711" description="Passwort für das Formular bitte bei Sebastian Horn erfragen."}
 
-:::
+ https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
+
+ :::
+
+::::
 
 :::collapsible{title="Muss ich persönlich oder mein iPad bei der Installation von apps auf dem Dienstgerät vor Ort sein?" }
 
@@ -162,7 +190,7 @@ index: 4
 
 :::collapsible{title="Wie sehen die Zuständigkeiten im digitalen Bereich aus?" }
 
- **Antwort:** Hierzu zählen neben Passwörter setzen auch die Aufgaben zu Beginn eines neuen Schuljahrs.
+ Die unten stehende Übersicht kann entnommen werden, wer für welche Bereiche zuständig ist
  
  + wwschool
 
@@ -186,21 +214,21 @@ index: 4
 
  + Laptops
 
-  Passwörter: Bärbel Schürmann und Sebastian Horn (bzw. jede Lehrkraft mit einem Zugang!)
-  Installation und Verteilung von Programme: Sebastian Horn
-  Rechnerpflege: Bärbel Schürmann und Sebastian Horn
-  Ausleihe: Bärbel Schürmann
+    Passwörter: Bärbel Schürmann und Sebastian Horn (bzw. jede Lehrkraft mit einem Zugang!)
+    Installation und Verteilung von Programme: Sebastian Horn
+    Rechnerpflege: Bärbel Schürmann und Sebastian Horn
+    Ausleihe: Bärbel Schürmann
 
  + Adobe o.ä.
 
-  Passwörter: Sebastian Horn
-  Zuweisung von Rechten: Sebastian Horn
-  Einholung von Einverständniserklärungen: Betroffene Lehrkraft
+    Passwörter: Sebastian Horn
+    Zuweisung von Rechten: Sebastian Horn
+    Einholung von Einverständniserklärungen: Betroffene Lehrkraft
 
  + webuntis
 
-  Passwörter: Herr Reinhold und Sebastian Horn
-  Pflege: Herr Reinhold und Sebastian Horn
+    Passwörter: Herr Reinhold und Sebastian Horn
+    Pflege: Herr Reinhold und Sebastian Horn
 
 :::
 
