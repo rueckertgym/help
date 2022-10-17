@@ -7,7 +7,7 @@ toc: show
 # Webuntis [1]
 Wir werden zukünftig webuntis für die Darstellung des Vertretungsplan nutzen. Hierfür benötigt jede:r einen personalisierten Zugang, da eure Vertretungen in eurem persönlichen Stundenplan angezeigt werden.
 
-Das System soll und wird weiter ausgebaut werden und wird aller voraussicht nach auch das klasische Klassen- und Kursbuch ablösen und uns bei der Kurswahl und Kommunikation unterstützen.
+Das System soll und wird weiter ausgebaut mit dem Ziel verbunden das klassische Klassen- und Kursbuch abzulösen und uns ggf. bei der Kurswahl und Kommunikation zu unterstützen.
 
 
 ## Zugangsdaten
