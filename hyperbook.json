@@ -10,8 +10,7 @@
   "license": "CC-BY-SA",
   "language": "de",
   "colors": {
-    "brand": "#4a93cb",
-    "brandText": "#a1a4ac"
+    "brand": "#235cab"
   },
   "logo": "logo/LogoFRGEuropaschule.jpg",
   "elements": {
@@ -35,12 +34,17 @@
           "label": "Ko-Fie",
           "icon": "☕", 
           "href": "https://ko-fi.com/hornse7000"
+        },
+        {
+          "label" : "FRG Wolke",
+          "icon" : "☁",
+          "href" : "https://frgwolke.hornse.de"
         }
       ]
     },
     {
-      "label": "OpenPatch",
-      "href": "https://openpatch.org"
+      "label": "FRG",
+      "href": "https://www.rueckert-gymnasium.de"
     }
   ]
 }
