@@ -10,10 +10,37 @@
   "license": "CC-BY-SA",
   "language": "de",
   "colors": {
-    "brand": "#235cab"
+    "brand": "#4a93cb",
+    "brandText": "#a1a4ac"
   },
   "logo": "logo/LogoFRGEuropaschule.jpg",
   "elements": {
     "bookmarks": true
-  }
+  },
+  "links": [
+    {
+      "label": "Kontakt",
+      "links": [
+        {
+          "label": "Mail",
+          "icon": "📧",
+          "href": "mailto:sebastian.horn@schule.duesseldorf.de"
+        },
+        {
+          "label": "Twitter",
+          "icon": "🐦",
+          "href": "https://twitter.com/hornse2"
+        },
+        {
+          "label": "Ko-Fie",
+          "icon": "☕", 
+          "href": "https://ko-fi.com/hornse7000"
+        }
+      ]
+    },
+    {
+      "label": "OpenPatch",
+      "href": "https://openpatch.org"
+    }
+  ]
 }
