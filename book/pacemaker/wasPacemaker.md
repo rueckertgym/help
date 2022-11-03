@@ -8,7 +8,7 @@ toc: show
 
 > Die Pacemaker Initiative unterstützt Schulen und weitere Bildungsinstitutionen dabei, den jeweils eigenen Weg in einer Kultur der Digitalität sinnvoll zu erschließen und sicher zu beschreiten. Dafür nehmen wir sowohl die Strukturen als auch die Menschen in den Blick. Auf diese Weise identifizieren wir konkrete Bedarfe, an denen sich unser individueller Ansatz orientiert, um nachhaltig im jeweiligen System zu wirken.
 
-[Quelle: ](https://www.pacemaker-initiative.de "Webseite der Pacamaker-Initiative")
+Quelle: [Webseite der Pacamaker-Initiative](https://www.pacemaker-initiative.de "Webseite der Pacamaker-Initiative")
 
 
 ## Pacemaker am FRG
@@ -22,7 +22,7 @@ Leider hat Corona die Fortführung des Konzept der "Pacemaker-Kinder" ins Stocke
 ## Ausbildung Pacemaker Kinder
 Die Ausbildung der neuen Generation von Pacemaker Kindern.
 ## Aufgaben Pacemaker Kinder
-
+Hallo Hallo
 ### Kabelkunde
 ### Beamerkunde
 ### Praktisches für den Schulalltag
