@@ -63,7 +63,7 @@ Unsere Pacemaker sollen die Möglichkeit des regelmäßigen Austauschs erhalten 
     * Benennung von Dokumenten
     * Appschulung
 * iPad Probleme (Warum funktioniert mein AirDrop nicht?)
-* Erstellen eigener Hilfsmedien z.B. Plakte, Flyer, Videos usw. als Handreichung
+* Erstellen eigener Hilfsmedien z.B. Plakate, Flyer, Videos usw. als Handreichung
 
 ## Ausbildung
 Die Ausbildung der Pacemaker-Kinder soll in 3 Einheiten geschehen. 
@@ -71,6 +71,9 @@ Die Ausbildung der Pacemaker-Kinder soll in 3 Einheiten geschehen.
 | Einheit                            	| Inhalt                                                                                                                                                                                                                                                     	| Verantwortlich 	|
 |------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|:--------------:	|
 | 1. Beamer- und Kabelkunde          	| Die PMK lernen die in der Schule gängigsten Kabel kennen und lernen diese einzusetzen. Hierbei werden auch mögliche Fehlerquellen besprochen. Die Funktionsweise und Möglichkeiten des Beamers werden praktisch erarbeitet.                                	|                	|
-| 2. Praktisches für den Schulalltag 	| In dieser Einheit werden  * die Möglichkeiten des LMS erarbeitet und dessen sinnvoller Einsatz im Unterricht bzw. im Kontext Schule besprochen. * der Umgang mit in der Schule genutzten Apps geschult * Hilfestellungen bezüglich von iPadproblem gegeben 	|                	|
+| 2. Praktisches für den Schulalltag 	| In dieser Einheit werden  
+* die Möglichkeiten des LMS erarbeitet und dessen sinnvoller Einsatz im Unterricht bzw. im Kontext Schule besprochen. 
+* der Umgang mit in der Schule genutzten Apps geschult 
+* Hilfestellungen bei iPadproblem geben 	|                	|
 | 3. Erstellen von Hilfsmaterialien  	| Hilfsmedien zur Unterstützung **aller** Personen in der Schule werden produziert und an geeigneter Stelle publiziert.                                                                                                                                      	|                	|
 
