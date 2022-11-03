@@ -71,18 +71,8 @@ Die Ausbildung der Pacemaker-Kinder soll in 3 Einheiten geschehen.
 | Einheit                            	| Inhalt                                                                                                                                                                                                                                                     	| Verantwortlich 	|
 |------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|:--------------:	|
 | 1. Beamer- und Kabelkunde          	| Die PMK lernen die in der Schule gängigsten Kabel kennen und lernen diese einzusetzen. Hierbei werden auch mögliche Fehlerquellen besprochen. Die Funktionsweise und Möglichkeiten des Beamers werden praktisch erarbeitet.                                	|                	|
-| 2. Praktisches für den Schulalltag 	| In dieser Einheit werden\ 
+| 2. Praktisches für den Schulalltag 	| In dieser Einheit werden 
 * die Möglichkeiten des LMS erarbeitet und dessen sinnvoller Einsatz im Unterricht bzw. im Kontext Schule besprochen.\
 * der Umgang mit in der Schule genutzten Apps geschult\
 * Hilfestellungen bei iPadproblem geben 	|                	|
 | 3. Erstellen von Hilfsmaterialien  	| Hilfsmedien zur Unterstützung **aller** Personen in der Schule werden produziert und an geeigneter Stelle publiziert.                                                                                                                                      	|                	|
-
-+---------------------+---------------------------------+------------------------+----------------------------+
-|Formel               |Mehrzeiliger Quellcode           |Liste                   |Tabelle                     | 
-+=====================+=================================+========================+============================+
-|$\Sigma a \cdot b$   |```                              |- Listenpunkt 1         |-       -         -         | 
-|                     |Dies hier soll                   |- Listenpunkt 2         |Zeile 1 Zeile 1   Zeile 1   | 
-|                     |als Quelltext angezeigt werden   |    - Ebene drunter     |Zeile 2 Zeile 2   Zeile 2   | 
-|                     |```                              |    - Beispieleintrag   |Zeile 3 Zeile 3   Zeile 3   | 
-|                     |                                 |- Listenpunkt 3         |-       -         -         | 
-+---------------------+---------------------------------+------------------------+----------------------------+

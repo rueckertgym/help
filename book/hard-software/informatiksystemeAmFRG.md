@@ -8,7 +8,7 @@ index: 2
 ## iPad
 Unsere iPads werden zentral mit Hilfe eines MDM (mobile device management) verwaltet. Eine iCloudanbindung ist bei schuleigenen Geräten nicht gestatten und wird seitens des Schulträgers unterbunden.
 
-Apps können somit nur über die MDM auf den Geräten isntalliert werden.
+Apps können somit nur über die MDM auf den Geräten installiert werden.
 
 ## Laptops
 Jede:r Schüler:in hat eigene Zugangsdaten für die Schullaptops. Diese Zugangsdaten sind alle nach dem gleichen Muster aufgebaut:
