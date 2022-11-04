@@ -12,15 +12,17 @@ Die jeweilige Klassen- bzw. Kursleitung fungiert als Moderator seines Raumes und
 So werden z.B. in der Dateiablage  Materialien, Arbeitsmaterialien usw. zur Verfügung gestellt und im Aufgabentool die zu erledigenden Aufgaben festgehalten, so dass alle Beteiligten jederzeit informiert sind.
 
 ## Kommunikation
+Für die Kommunikation stehen neben der Emailkommunikation auch ein Messenger und ein Mitteilungssystem zur Verfügung. 
+Während mit Hilfe von Emails weltweit kommuniziert werden kann, ist der Messenger und das Mitteilungssystem nur intern also innerhalb der nutzer der Institution nutzbar.
 
 ### Email
-Jede:r Schüler:in hat eine eigene Email-Adresse aufgebaut nach dem Muster 
+Jede:r Schüler:in hat eine eigene Email-Adresse, die alle nach demselben Muster aufgebaut sind.
 ```md
 vorname.nachname@frg.wwschool.de
 
 max.mustermann@frg.wwschool.de
 ```
-### Messages
+### Messagenger
 
 ## Bereiche
 ### Privat
