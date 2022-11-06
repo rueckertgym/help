@@ -41,21 +41,22 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
    Gebt [hier](https://webuntis.com) eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
 ![Loginseite](/Bilder/webuntis/loginSeite.png "Loginseite")
 
-**4. Fragen**
+**4. Video**
+
+Ein entsprechendes Kurzvideo findest du hier 
+::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
+
+**5. Fragen**
 
    Sollten Fragen bestehen, könnt ihr euch gerne an sebastian.horn(a)schule.duesseldorf.de oder das Vertretungsplanteam wenden.
    Die Einrichtung und Nutzung der App ist identisch.
 
-**5. QR Code zu den App Stores**
+**6. QR Code zu den App Stores**
 
-   :qr{value="https://itunes.apple.com/at/app/untis-mobile/id926186904" size="S" label="Apple App Store"}
-
-   :qr{value="https://play.google.com/store/apps/details?id=com.grupet.web.app" size="S" label="Google Play Store"}
-
+   |:qr{value="https://itunes.apple.com/at/app/untis-mobile/id926186904" size="S" label="Apple App Store"}| :qr{value="https://play.google.com/store/apps/details?id=com.grupet.web.app" size="S" label="Google Play Store"}
+   |-|-| 
 
 
-Ein entsprechendes Kurzvideo findest du hier 
-::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
 
 
 [1] https://webuntis.com
