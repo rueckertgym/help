@@ -1,7 +1,7 @@
 ---
 name: Willkommen auf den Hilfeseiten des FRGs
 toc: show
-index: 1
+index: 0
 ---
 
 # Informatiksysteme am FRG
