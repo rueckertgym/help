@@ -1,5 +1,5 @@
 ---
-name: iPads und Laptops
+name: iPads und Laptop
 toc: show
 index: 2
 ---
