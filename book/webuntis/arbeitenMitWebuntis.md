@@ -44,7 +44,7 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
 **4. Video**
 
 Ein entsprechendes Kurzvideo findest du hier 
-::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
+::youtube[01 webuntis: Erstanmeldung]{#LqUPMWBZYNU}
 
 **5. Fragen**
 
