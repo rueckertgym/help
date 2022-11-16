@@ -22,7 +22,7 @@ vorname.nachname@frg.wwschool.de
 
 max.mustermann@frg.wwschool.de
 ```
-### Messagenger
+### Messenger
 
 ## Bereiche
 ### Privat

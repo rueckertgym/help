@@ -12,7 +12,7 @@
   "colors": {
     "brand": "#235cab"
   },
-  "logo": "logo/LogoFRGEuropaschule.jpg",
+  "logo": "/logo/LogoFRGEuropaschule.jpg",
   "elements": {
     "bookmarks": true
   },
