@@ -20,11 +20,11 @@ Generell besteht die Möglichkeit sich seine Vertretungen/Stundenplanänderungen
 
 Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wird z.B. auf der login-Seite verwiesen.
 
-### 1. Webuntis Seite
+**1. Webuntis Seite**
 ![webuntis Seite](/Bilder/webuntis/webuntis.png "webuntis Seite")
 
 
-### 2. Schulauswahl
+**2. Schulauswahl**
 
    Unsere Schule ist mit dem Namen "F.-Rueckert-Gymnasium" hinterlegt.
 
@@ -36,22 +36,23 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
 
 ![Schulauswahl](/Bilder/webuntis/auswahlSchule.png "Schulauswahl")
 
-### 3. Loginseite
+**3. Loginseite**
 
    Gebt [hier](https://webuntis.com) eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
 ![Loginseite](/Bilder/webuntis/loginSeite.png "Loginseite")
 
-### 4. Video
+**4. Video**
 
 Ein entsprechendes Kurzvideo findest du hier 
-::youtube[01 webuntis: Erstanmeldung]{#LqUPMWBZYNU}
+::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
 
-### 5. Fragen
+
+**5. Fragen**
 
    Sollten Fragen bestehen, könnt ihr euch gerne an sebastian.horn(a)schule.duesseldorf.de oder das Vertretungsplanteam wenden.
    Die Einrichtung und Nutzung der App ist identisch.
 
-### 6. QR Code zu den App Stores
+**6. QR Code zu den App Stores**
 
    |:qr{value="https://itunes.apple.com/at/app/untis-mobile/id926186904" size="S" label="Apple App Store"}| :qr{value="https://play.google.com/store/apps/details?id=com.grupet.web.app" size="S" label="Google Play Store"}
    |-|-| 
