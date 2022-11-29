@@ -278,3 +278,24 @@ index: 4
 
 
 
+
+## Krankmeldungen/ Anträge auf Sonderurlaub
+:::collapsible{title="Wie melde ich mich als Lehrkraft am besten krank?"}
+
+ Eine Krankmeldung erfolgt am besten per Email vor 07:15 Uhr, damit das Vertretungsplanteam noch ausreichend Zeit hat, neue Vertretungen zu planen. Die Adresse für die Kranlmeldung lautet: vertretung(a)frg.wwschool.de 
+ Eine weitere Benachrichtung ist nicht notwendig, da alle involvierten Personen informiert werden. Bitte verzichtet auf eine Benachrichtigung per Messengerdienst (WhattsApp o.ä.).
+
+ Natürlich besteht weiterhin die Möglichkeit sich telefonisch im Sekretariat bei Frau Garthe abzumelden. Um den Arbeitsaufwand für alle gering zu halten, bitten wir darum, dass eine Abmeldung nur im Notfall telefonisch erfolgt.
+
+ Es müssen bei der Krankmeldung keine weiteren Gründe o.ä. oder Informationen zur Krankheit angegeben werden!
+
+:::
+
+:::collapsible{title="Mein Kind ist krank und ich muss die Betreuung übernehmen."}
+
+ Sollte ihr Kind oder ein zu betreuender Angehöriger krank werden und muß zu Hause betretu werden, dann melden Sie sich bitte per Email schnellstmöglich ab und reichen den "Antrag auf Sonderurlab" bei Frau Garthe ein. Bei Krankheit eines Kindes (bis einschließlich 12 Jahre) wird zusätzlich ein ärztliches Attest benötigt. Dieses erhalten Sie bei Ihrem Kinderarzt.
+
+ Antrag auf Sonderurlaub:
+ :download[Herunterladen]{src="/download/faq/Antrag Sonderurlaub Krankheit Kind.pdf"} 
+
+:::
