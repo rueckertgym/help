@@ -299,3 +299,14 @@ index: 4
  :download[Herunterladen]{src="/download/faq/Antrag Sonderurlaub Krankheit Kind.pdf"} 
 
 :::
+
+:::collapsible{title="Wie melde ich einen Unterrichtsgang, Fortbildung oder eine Beurlaubung an?"}
+
+ Hierfür steht das folgende Formular zur Verfügung: https://form.jotformeu.com/71972281286363.
+
+ Bitte sprechen Sie **vorher** mit dem Team der Vertretungsplanung.
+
+
+ :qr{value="https://form.jotformeu.com/71972281286363" size="L" label="Unterrichtsgang, Fortbildung oder Beurlaubung"}
+ 
+:::
