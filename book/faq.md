@@ -307,7 +307,7 @@ index: 4
 
 :::collapsible{title="Ich habe mein Passwort vergessen. An wen darf ich mich wenden?"}
 
- Generell könnt ihr euch bei Fragen an Sebastian Horn (sebastian.horn(a)schule.duesseldorf.de wenden). In diesem Fall ist dies allerdings nicht notwendig, da die Emailadressen aller Kollegen:innen im System hinterlegt sind und ein neues PAsswort über die __Passwort vergessen?__ Funktion angefordert werden kann. In der Regel habe ich die wwschool Adresse hinterlegt.
+ Generell könnt ihr euch bei Fragen an Sebastian Horn (sebastian.horn(a)schule.duesseldorf.de wenden). In diesem Fall ist dies allerdings nicht notwendig, da die Emailadressen aller Kollegen:innen im System hinterlegt sind und ein neues Passwort über die __Passwort vergessen?__ Funktion angefordert werden kann. In der Regel habe ich die wwschool Adresse hinterlegt.
  
 :::
 
