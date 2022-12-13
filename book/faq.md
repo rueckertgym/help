@@ -333,3 +333,9 @@ Da sich die Zugangsdaten alle 24 Std. ändern, darf nicht die Funktion __Netzwer
  Auf dem Dienstipad ist dies momentan noch nicht möglich, da ein cloud Zugriff nicht möglich ist und ich noch keinen kostenfreien Passwortmanager gefunden habe.
  
 :::
+
+:::collapsible{title="Mein:e Schüler:inn hat ihr Passwort vergessen. Wer kann helfen?"}
+
+   Die Zugangsdaten der Schüler:innen sind noch im Kollegiumsordner unter „Medien & Technik & Internet“ —>  „2022.23 webuntis Zugangsdaten Schüler.innen“ abgelegt. Wenn die Emailadressen der Schüler:innen in webuntis hinterlegt sind, können auch Schüler:innen ein neues Passwort die "Passwort vergessen? Funktion anfordern.
+ 
+:::
