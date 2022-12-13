@@ -7,9 +7,13 @@ index: 4
 
 ## iPad Allgemein
 
-:::collapsible{title="Können wir im neuen Gebäude noch mit den eigenen Rechnern ins Netz bzw. Airplay und den Beamer nutzen?"}
+:::collapsible{title="Können wir im neuen Gebäude noch mit den eigenen iPad (Rechner) ins Netz bzw. Airplay und den Beamer nutzen?"}
 
  Jein, das Internet der Schule kann nicht mehr genutzt werden. AirPlay über die Beamer kann mit privaten Geräten genutzt werden, wobei das Streamen von Videoinhalten prinzipiell im AirPlay Modus (Vollbildmodus) ruckelfrei funktionieren sollte.
+ Grundvoraussetzung für das Streamen mit einem privaten Endgerät ist, dass ihr im WLAN der AirServer Setopbox seid. Die Zugangsdaten werden über den Beamer als Startbildschirm angezeigt.
+ Im Gegensatz zu AppleTVs ist es nicht möglich zu streamen ohne imselben WLAN der Settopbbox zu sein.
+
+ Bitte habt Verständnis, dass ich nur bedingt Hilfe bei eigenen Geräten geben kann!
 
 :::
 
@@ -264,12 +268,23 @@ index: 4
 
 :::collapsible{title="Gibt es einen online Vertretungsplan?"}
 
-  Ja, weitere Informationen im Abschnitt webuntis zusammengefasst.
+  Ja, weitere Informationen im Abschnitt webuntis und FAW webuntis zusammengefasst.
 
  Zukünftig wird die Nutzung von webuntis noch erweiteret werden (digitales Klassenbuch usw.) Hierzu werden noch weitere  Informationen folgen!
 
 :::
 
+
+:::collapsible{title="Ich benötige aber WLAN auf meinem privaten Endgerät. Gibt es wirklich keine Lösung?"}
+
+  Es gibt eine Raumbezogene Lösung. Jede Settopboxx (AirServer Conncet 2) straht ein eigenes WLAN aus, das mit dem Internet verbunden ist und auf privaten Endgeräten genutzt werden kann.
+
+  Der Zugriff ist auf 8 Verbindungen gleichzeitig beschränkt. Die Zugangsdaten werden über den Startbildschirm des Beamers ausgestrahlt. 
+
+  **Vorsicht!!**
+
+Da sich die Zugangsdaten alle 24 Std. ändern, darf nicht die Funktion __Netzwerk merken__ genutzt werden, da eine wiederholte Nutzung des selben Netzes am nächsten Tag nicht mehr möglich ist und das Netzwerk in den tiefen der Netzwerkeinstellungen eures GErätes gelöscht werden muss.
+:::
 
 ## Krankmeldungen/ Anträge auf Sonderurlaub
 :::collapsible{title="Wie melde ich mich als Lehrkraft am besten krank?"}
