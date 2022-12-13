@@ -14,7 +14,7 @@
   },
   "logo": "/logo/LogoFRGEuropaschule.jpg",
   "elements": {
-    "bookmarks": true
+    "bookmarks": false
   },
   "links": [
     {

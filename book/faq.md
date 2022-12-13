@@ -148,7 +148,7 @@ index: 4
 
  :::
 
- Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und   ich installiere alles (siehe Formular).
+ Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und ich installiere alles (siehe Formular).
 
  :::protect{password="4711" description="Passwort für das Formular bitte bei Sebastian Horn erfragen."}
 
@@ -271,14 +271,6 @@ index: 4
 :::
 
 
-
-
-
-
-
-
-
-
 ## Krankmeldungen/ Anträge auf Sonderurlaub
 :::collapsible{title="Wie melde ich mich als Lehrkraft am besten krank?"}
 
@@ -308,5 +300,21 @@ index: 4
 
 
  :qr{value="https://form.jotformeu.com/71972281286363" size="L" label="Unterrichtsgang, Fortbildung oder Beurlaubung"}
+ 
+:::
+
+## webuntis
+
+:::collapsible{title="Ich habe mein Passwort vergessen. An wen darf ich mich wenden?"}
+
+ Generell könnt ihr euch bei Fragen an Sebastian Horn (sebastian.horn(a)schule.duesseldorf.de wenden). In diesem Fall ist dies allerdings nicht notwendig, da die Emailadressen aller Kollegen:innen im System hinterlegt sind und ein neues PAsswort über die __Passwort vergessen?__ Funktion angefordert werden kann. In der Regel habe ich die wwschool Adresse hinterlegt.
+ 
+:::
+
+:::collapsible{title="Ich muss mein Passwort in der App von Zeit zu Zeit neu angeben. Gibt es eine Möglichkeit dies zu unterbinden?"}
+
+ Zum Glück nein, da dies ein sinnvolles Sicherheitsfeature ist.  
+ **Tipp:** Meldet euch mit euren Zugangsdaten über einen Browser an und speichert euer Passwort dann in einem Passwortmanager z.B. Schlüsselbund am MacOS/IOS/iPadOS. Somit habt ihr über den Passwortmanager Zugriff auf eure Passwörter.
+ Auf dem Dienstipad ist dies momentan noch nicht möglich, da ein cloud Zugriff nicht möglich ist und ich noch keinen kostenfreien Passwortmanager gefunden habe.
  
 :::
