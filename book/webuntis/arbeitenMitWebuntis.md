@@ -9,6 +9,10 @@ Wir werden zukünftig webuntis für die Darstellung des Vertretungsplan nutzen. 
 
 Das System soll und wird weiter ausgebaut mit dem Ziel verbunden das klassische Klassen- und Kursbuch abzulösen und uns ggf. bei der Kurswahl und Kommunikation zu unterstützen.
 
+Der Zugang zu webuntis kann einmal über die App erfolgen oder über den Browser.
+Die folgende Beschreibung behandelt den Weg mit hilfe des Browsers, da hier auch erweiterte Möglichkeiten zur Verfügung stehen. Die App ist sehr gut für den Einsatz im Unterricht zur Überprüfung der Anwesenheit o.ä. geeignet.
+
+Es ist sinnvoll sich sein Passwort in einem Passwortmanager zu speichern. In den meistens Fällen bzw. die meisten Betriebssystem bieten hierfür vorgefertigte Möglichkeiten z.B. icloud Schlüsselbund. Da die Passwörter über den Browser gespeichert werden, empfehle ich allen sich zumindestens einmal über den Browser anzumelden, um sich sein Passwort in seinem Passwortmanager zu speichern.
 
 ## Zugangsdaten
 Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in. In euerem eigenen Interesse solltet ihr eure Zugangsdaten nicht untereinander austauschen, da es sich wie oben beschrieben um personalisierte Zugänge handelt.
