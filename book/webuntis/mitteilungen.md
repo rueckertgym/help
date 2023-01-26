@@ -12,3 +12,9 @@ Das Bild zeigt, wo sich die Mitteilungen befinden.
 ## Mitteilung(en) verfassen
 Möchte jmd. eine Nachricht an eine weitere Person verfassen, kann die über das Pluszeichen realisiert werden.
 ![Mitteilung schreiben](/Bilder/webuntis/webuntisMitteilungschreiben.png)
+
+## Mitteilungsseite
+Auf der Mitteilungsseite erhält meine eine Übersicht aller geschriebenen und erhaltenen Mitteilungen.
+![NMitteilungsseite](/Bilder/webuntis/webuntisMitteilungen.png)
+
+
