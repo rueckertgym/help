@@ -38,6 +38,12 @@ Die Veranstalter des Wettbewerbs stellen eine eigene Plattform für die ersten b
 
 Außerdem besteht die Möglichkeit sich unter https://jwinf.de Trainingsaufgaben anzuschauen und zu lösen.
 
+Unter "Aktuelle Wettbewerbe" findet ihr den Zugang zum Probewettbewerb, für den ihr einen Zugang benötigt (siehe **Teilnahme**)
+![](/Bilder/wettbewerbe/Wettbewerseite.png)
+
+Trainingsaufgaben findet ihr unter **Trainingsaufgabe** und **Herausforderungen**.
+
+### Teilnahme
 Wer teilnehmen möchte, wendet sich bitte an:
 sebastian.horn(a)schule.duesseldorf.de (das (a)steht für @).
 
