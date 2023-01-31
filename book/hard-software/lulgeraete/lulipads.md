@@ -12,7 +12,7 @@ Auf diesen Geräten ist eine Anmeldung mit Apple-ID aus Datenschutzgründen nich
 
 Wir am FRG haben uns entschieden die Arbeitsgeräte soweit wie möglich zu personalisieren. Hierfür haben alle Lehrkräfte die Möglichkeit, anzugeben, welche Apps auf ihren Geräten installiert werden sollen.
 
-Hierfür steht folgendes Formular [Formular](https://www.openpatch.org)https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform) zur Verfügung.
+Hierfür steht folgendes Formular [Formular](https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform) zur Verfügung.
 
 
 ## Laptops
