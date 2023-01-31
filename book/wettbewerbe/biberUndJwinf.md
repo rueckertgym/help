@@ -26,5 +26,36 @@ gantt
   
 ## Informatikbiber
 ## Jugendwettbewerb Informatik
+Der Jugendwettbewerb Informatik richtet sich an alle Schüler:innen ab der Jahrgangsstufe 5 und somit können bis auf die Schüler:innen der Q2 alle Schüler des FRGs an diesem Wettbewerb teilnehmen.
+
+Die Aufgaben des laufenden Jugendwettbewerb und Bundeswettbewerbs Informatik findet ihr hier.
+:download[Herunterladen]{src="/download/wettbewerbe/Bundeswettbewerb_41_Aufgabenblatt_WEB.pdf"}
+
+Der Wettberb ist so gestaltet, dass er **nicht** im Rahmen des Unterrichts ausgeführt wird und von euch in eurer Freizeit absolviert werden muß.
+
+Die Veranstalter des Wettbewerbs stellen eine eigene Plattform für die ersten beiden Runde zur Verfügung und haben ein eigenes Arbeitsheft zur Unterstützung und zum Selbststudium zur Verfügung gestellt, welches hier heruntergeladen werden kann.
+:download[Herunterladen]{src="/download/wettbewerbe/Algorithmen-Arbeitsheft.pdf"}
+
+Außerdem besteht die Möglichkeit sich unter https://jwinf.de Trainingsaufgaben anzuschauen und zu lösen.
+
+Wer teilnehmen möchte, wendet sich bitte an:
+sebastian.horn(a)schule.duesseldorf.de (das (a)steht für @).
+
+Vertiefende Informationen findet ihr auf der Seite des Wettbewerbs: https://bwinf.de/jugendwettbewerb/2023/
+
+:::alert{info}
+**Jugendwettbewerb 2023**
+10. Januar: Beginn der Anmeldung
+16. Januar bis 23. Februar Probewettbewerb
+27. Februar bis 10. März: 1. Runde
+24. April bis 8. Mai: 2. Runde
+1. September bis 20. November: 3. Runde
+:::
+
+10. Januar: Beginn der Anmeldung
+16. Januar bis 23. Februar  Probewettbewerb
+27. Februar bis 10. März: 1. Runde
+24. April bis 8. Mai: 2. Runde
+1. September bis 20. November: 3. Runde
 ## Bundeswettbewerb Informatik
 ## Informatik Olympiade
