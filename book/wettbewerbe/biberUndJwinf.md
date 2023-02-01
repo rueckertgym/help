@@ -25,13 +25,21 @@ gantt
 ```
   
 ## Informatikbiber
+![](/Bilder/wettbewerbe/Biber_Plakat_2022_WEB.jpg)
+<Der Informatik-Biber ist Deutschlands größter Online-Schülerwettbewerb im Bereich Informatik. Er fördert das digitale Denken. Die Aufgaben erfordern keinerlei Informatik-Vorkenntnisse. Jugendliche ab Klasse 7 bearbeiten 15 Aufgaben in 40 Minuten. In den Klassen 5 und 6 werden 12 Aufgaben in 35 Minuten bearbeitet. Grundschüler lösen 9 Aufgaben in 30 Minuten. Der Informatik-Biber findet jährlich im November statt.
+
+Der Informatikbiber 2023 wird wieder im Rahmen des Unterrichts am FRG stattfinden. Traditionell findet der Informatikbiber im Herbst statt und sobald die Daten bekannt sind, werden wir sie hier veröffentlichen.
+
+Ein kurzes Bibercheckup findet ihr hier.
+:download[Herunterladen]{src="/download/wettbewerbe/Algorithmen-Arbeitsheft.pdf"}
+
 ## Jugendwettbewerb Informatik
 
 ![](/Bilder/wettbewerbe/csm_Quadrat_Jugendwettbewerb_2023_cd5ae312e6.jpg)
 Der Jugendwettbewerb Informatik richtet sich an alle Schüler:innen ab der Jahrgangsstufe 5 und somit können bis auf die Schüler:innen der Q2 alle Schüler:innen des FRG an diesem Wettbewerb teilnehmen.
 
 Die Aufgaben des aktuellen Jugendwettbewerbs und des Bundeswettbewerbs Informatik finden sich hier.
-:download[Download]{src="/download/wettbewerbe/Bundeswettbewerb_41_Aufgabenblatt_WEB.pdf"}
+:download[Download]{src="/download/wettbewerbe/Biber-Check_2020.pdf.download/Biber-Check_2020.pdf"}
 
 Der Wettbewerb ist so konzipiert, dass er **nicht** im Rahmen des Unterrichts stattfindet, sondern von euch in eurer Freizeit bearbeitet werden muss.
 
