@@ -26,6 +26,8 @@ gantt
   
 ## Informatikbiber
 ## Jugendwettbewerb Informatik
+
+![](/Bilder/wettbewerbe/csm_Quadrat_Jugendwettbewerb_2023_cd5ae312e6.jpg)
 Der Jugendwettbewerb Informatik richtet sich an alle Schüler:innen ab der Jahrgangsstufe 5 und somit können bis auf die Schüler:innen der Q2 alle Schüler des FRGs an diesem Wettbewerb teilnehmen.
 
 Die Aufgaben des laufenden Jugendwettbewerb und Bundeswettbewerbs Informatik findet ihr hier.
