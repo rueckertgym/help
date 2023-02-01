@@ -28,14 +28,14 @@ gantt
 ## Jugendwettbewerb Informatik
 
 ![](/Bilder/wettbewerbe/csm_Quadrat_Jugendwettbewerb_2023_cd5ae312e6.jpg)
-Der Jugendwettbewerb Informatik richtet sich an alle Schüler:innen ab der Jahrgangsstufe 5 und somit können bis auf die Schüler:innen der Q2 alle Schüler des FRGs an diesem Wettbewerb teilnehmen.
+Der Jugendwettbewerb Informatik richtet sich an alle Schüler:innen ab der Jahrgangsstufe 5 und somit können bis auf die Schüler:innen der Q2 alle Schüler:innen des FRG an diesem Wettbewerb teilnehmen.
 
-Die Aufgaben des laufenden Jugendwettbewerb und Bundeswettbewerbs Informatik findet ihr hier.
-:download[Herunterladen]{src="/download/wettbewerbe/Bundeswettbewerb_41_Aufgabenblatt_WEB.pdf"}
+Die Aufgaben des aktuellen Jugendwettbewerbs und des Bundeswettbewerbs Informatik finden sich hier.
+:download[Download]{src="/download/wettbewerbe/Bundeswettbewerb_41_Aufgabenblatt_WEB.pdf"}
 
-Der Wettberb ist so gestaltet, dass er **nicht** im Rahmen des Unterrichts ausgeführt wird und von euch in eurer Freizeit absolviert werden muß.
+Der Wettbewerb ist so konzipiert, dass er **nicht** im Rahmen des Unterrichts stattfindet, sondern von euch in eurer Freizeit bearbeitet werden muss.
 
-Die Veranstalter des Wettbewerbs stellen eine eigene Plattform für die ersten beiden Runde zur Verfügung und haben ein eigenes Arbeitsheft zur Unterstützung und zum Selbststudium zur Verfügung gestellt, welches hier heruntergeladen werden kann.
+Die Organisatoren des Wettbewerbs stellen für die ersten beiden Runden eine eigene Plattform zur Verfügung und haben zur Unterstützung und zum Selbststudium ein eigenes Aufgabenheft erstellt, das hier heruntergeladen werden kann.
 :download[Herunterladen]{src="/download/wettbewerbe/Algorithmen-Arbeitsheft.pdf"}
 
 Außerdem besteht die Möglichkeit sich unter https://jwinf.de Trainingsaufgaben anzuschauen und zu lösen.
