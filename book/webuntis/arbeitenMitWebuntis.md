@@ -22,12 +22,14 @@ Generell werden drei unterschiedlieche Personengruppen mit dem System arbeiten:
 Die Anmeldung am System ist bei allen drei Personengruppen identisch,die übrigen Bereiche unterscheiden sich und werden seperat voneinander vorgestellt.
 
 ## Zugangsdaten
-Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in. In euerem eigenen Interesse solltet ihr eure Zugangsdaten nicht untereinander austauschen, da es sich wie oben beschrieben um personalisierte Zugänge handelt.
+Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in. In eurem eigenen Interesse solltet ihr eure Zugangsdaten nicht untereinander austauschen, da es sich wie oben beschrieben um personalisierte Zugänge handelt.
 
 Solltet ihr eure Zugangsdaten "vergessen" haben, wendet euch bitte an sebastian.horn(a)schule.duesseldorf.de 
 
-## Vertretungsplan Online
+## Der Weg zum "Vertretungsplan Online": Schule finden
 Generell besteht die Möglichkeit sich seine Vertretungen/Stundenplanänderungen im Browser oder über die App anzuschauen, wobei die Appvariante für Schüler:innen komfortabler ist.
+
+Die URL der Seite lautet <https://webuntis.com/>.
 
 Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wird z.B. auf der login-Seite verwiesen.
 
