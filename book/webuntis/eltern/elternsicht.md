@@ -19,7 +19,7 @@ Für die Registrierung und Nutzung von Webuntis, ist es unbedingt notwendig, das
 2. Sie haben keine Mail von der Schule erhalten? Dann haben Sie in der Schule keine aktuelle Mailadresse hinterlegt. Bitte schreiben Sie von der Mailadresse, die Sie verwenden wollen eine Mail an <gy.rueckertstraße@schule.duesseldorf.de> und geben Sie Ihren eigenen Namen, Vornamen und den Vornamen und Nachnamen Ihres Kindes sowie dessen Klasse an in der Mailadresse an.
 3. Klicken Sie nun auf „Noch keinen Zugang? Registrieren“
 ![](/Bilder/webuntis/webuntis_zugang_Eltern.png)
-4. Sie werden nun gebeten Ihre E-Mail Adresse einzugeben – verwenden Sie bitte ausschließlich die Mailadresse, über die Sie informiert worden sind. Drücken Sie auf „Senden“
+4. Sie werden nun gebeten Ihre E-Mail Adresse einzugeben – verwenden Sie bitte ausschließlich die Mailadresse, über die Sie informiert worden sind. Drücken Sie auf „Senden"
 ![](/Bilder/webuntis/webuntis_zugang_Eltern2.png)
 5. Nachdem Sie „Senden“ gedrückt haben, werden Sie aufgefordert einen Bestätigungscode einzugeben
 ![](/Bilder/webuntis/webuntis_zugang_Eltern3.png)
@@ -33,9 +33,9 @@ b. Klicken Sie auf den angegeben Link
 ![](/Bilder/webuntis/webuntis_zugang_Eltern6.png)
 :::alert{info}
 Das Passwort benötigt insgesamt eine Länge von 8 Zeichen. Es muss
-+ ein Großbuchstabe vorhanden sein
-+ ein Kleinbuchstabe vorhanden sein
-+ eine Ziffer enthalten sein
++ ein Großbuchstabe vorhanden sein,
++ ein Kleinbuchstabe vorhanden sein,
++ eine Ziffer enthalten sein,
 + ein Sonderzeichen enthalten sein z.B. ! oder ; oder % usw.
 Ein Beispiel für ein solches Passwort wäre z.B.: P_77-fGr
 Erfüllt das Passwort alle notwendige Kriterien, so sehen Sie einen grünen Kasten unter dem Passwort
