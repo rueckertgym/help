@@ -55,25 +55,21 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
 
 ![Schulauswahl](/Bilder/webuntis/auswahlSchule.png "Schulauswahl")
 
-Wenn ihr Schüler seit folgt bitte diesem Link oder als Eltern diesem Link, da sich das Vorgehen ab hier unterscheidet.
+Wenn ihr Schüler seit folgt bitte diesem Link zur ["Schülersicht"](https://hornse.edugit.io/Anleitungen/webuntis/sus/schuelersicht) oder als Eltern diesem Link zur ["Elternsicht"](https://hornse.edugit.io/Anleitungen/webuntis/eltern/elternsicht), da sich das Vorgehen ab hier unterscheidet.
 
-**3. Loginseite**
 
-   Gebt [hier](https://webuntis.com) eure Nutzerdaten an und ihr seht sofort euren Stundenplan mit eingetragenen Vertretungen.
-![Loginseite](/Bilder/webuntis/loginSeite.png "Loginseite")
-
-**4. Video**
+**3. Video**
 
 Ein entsprechendes Kurzvideo findest du hier 
 ::youtube[01 webuntis: Erstanmeldung]{#kzCw_1qEBpg}
 
 
-**5. Fragen**
+**4. Fragen**
 
    Sollten Fragen bestehen, könnt ihr euch gerne an sebastian.horn(a)schule.duesseldorf.de oder das Vertretungsplanteam wenden.
    Die Einrichtung und Nutzung der App ist identisch.
 
-**6. QR Code zu den App Stores**
+**5. QR Code zu den App Stores**
 
    |:qr{value="https://itunes.apple.com/at/app/untis-mobile/id926186904" size="S" label="Apple App Store"}| :qr{value="https://play.google.com/store/apps/details?id=com.grupet.web.app" size="S" label="Google Play Store"}
    |-|-| 
