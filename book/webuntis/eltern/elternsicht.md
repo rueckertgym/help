@@ -15,7 +15,7 @@ Die folgende Anmeldung gilt momentan nur für unsere Testklassen und hat somit n
 Für die Registrierung und Nutzung von Webuntis, ist es unbedingt notwendig, dass Sie eine Mailadresse in der Schule hinterlegt haben. Die erste Registrierung ist nur über diese Mailadresse möglich.
 
 Wie können Sie Webuntis nutzen und wie funktioniert die Registrierung?
-1. Sie haben von der Schule eine Mail erhalten, dass Sie sich registrieren können? Dann suchen sie unser Schule wie unter ["Einrichten - Vertretungsplan Online"](/book/webuntis/arbeitenMitWebuntis.md) beschrieben.
+1. Sie haben von der Schule eine Mail erhalten, dass Sie sich registrieren können? Dann suchen sie unser Schule wie unter ["Einrichten - Vertretungsplan Online"](https://hornse.edugit.io/Anleitungen/webuntis/arbeitenMitWebuntis) beschrieben. 
 2. Sie haben keine Mail von der Schule erhalten? Dann haben Sie in der Schule keine aktuelle Mailadresse hinterlegt. Bitte schreiben Sie von der Mailadresse, die Sie verwenden wollen eine Mail an gy.rueckertstraße@schule.duesseldorf.de und geben Sie Ihren eigenen Namen, Vornamen und den Vornamen und Nachnamen Ihres Kindes sowie dessen Klasse an in der Mailadresse an.
 3. Klicken Sie nun auf „Noch keinen Zugang? Registrieren“
 ![](/Bilder/webuntis/webuntis_zugang_Eltern.png)

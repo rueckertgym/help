@@ -22,9 +22,15 @@ Generell werden drei unterschiedlieche Personengruppen mit dem System arbeiten:
 Die Anmeldung am System ist bei allen drei Personengruppen identisch,die übrigen Bereiche unterscheiden sich und werden seperat voneinander vorgestellt.
 
 ## Zugangsdaten
+### Schüler:innen 
 Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in. In eurem eigenen Interesse solltet ihr eure Zugangsdaten nicht untereinander austauschen, da es sich wie oben beschrieben um personalisierte Zugänge handelt.
 
-Solltet ihr eure Zugangsdaten "vergessen" haben, wendet euch bitte an sebastian.horn(a)schule.duesseldorf.de 
+Solltet ihr eure Zugangsdaten "vergessen" haben, wendet euch bitte an sebastian.horn(a)schule.duesseldorf.de oder noch besser: hinterlegt eure Emailadresse, so dass ihr die "Passwort vergessen?" Funktion nutzen könnt!
+
+### Eltern
+Momentan testen wir webuntis nur mit weinigen Testklassen. Hierfür haben wir bei den betroffenen Personen eine Emailadresse hinterlegt, mit der im weiteren Verlauf gearbeitet wird.
+
+Näheres hierzu ist unter ["Elternsicht"](https://hornse.edugit.io/Anleitungen/webuntis/eltern/elternsicht) beschrieben.
 
 ## Der Weg zum "Vertretungsplan Online": Schule finden
 Generell besteht die Möglichkeit sich seine Vertretungen/Stundenplanänderungen im Browser oder über die App anzuschauen, wobei die Appvariante für Schüler:innen komfortabler ist.
@@ -48,6 +54,8 @@ Ich zeige hier nur kurz den browserbasiertten Weg. Auf die entsprechende Apps wi
    40470 Düsseldorf
 
 ![Schulauswahl](/Bilder/webuntis/auswahlSchule.png "Schulauswahl")
+
+Wenn ihr Schüler seit folgt bitte diesem Link oder als Eltern diesem Link, da sich das Vorgehen ab hier unterscheidet.
 
 **3. Loginseite**
 
