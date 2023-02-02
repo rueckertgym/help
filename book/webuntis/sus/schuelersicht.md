@@ -1,5 +1,5 @@
 ---
-name: Vertretungaplan Online
+name: Vertretungplan Online
 index: 1
 ---
 # Vertretungsplan Online
@@ -16,6 +16,7 @@ Gebt [hier](https://webuntis.com) eure Nutzerdaten an und ihr seht sofort euren 
 ![](/Bilder/webuntis/SuS/webuntis_sus_uebersicht.png)
 
 ## Abwesenheiten
+Unter Abwesenheiten, werden **eure** Abwesenheit aufgelistet, so dass ihr immer seht, welche Stunden/Tage von Euch bzw. euren Eltern noch zu entschuldigen sind
 ![](/Bilder/webuntis/SuS/webuntis_sus_abwesenheiten.png)
 
 ## Hausaufgaben
