@@ -10,7 +10,7 @@ Unsere Lernplattform ist unter https://www.wwschool.de erreichbar. Die Zugangsda
 
 Sollten Schüler:innen/Lehrer:innen ihre Zugangsdaten "vergessen", können sie sich an folgende Personen wenden:
 + Unterstufe - kirsten.elfers(a)frg.wwschool.de
-+ Mittelstufe - tim.berswordt-wallrabe@frg.wwschool.de
++ Mittelstufe - tim.berswordt-wallrabe(a)frg.wwschool.de
 + Oberstufe - michael.billowie(a)frg.wwschool.de
 
 Des Weiteren bilden wir mit wwschool unsere Klassen auch in virtuellen Klassenräumen ab d.h. jede Klasse oder Kurs hat einen eigenen virtuellen Klassenraum mit eigener Dateiablage, Forum, Schülerboard, Aufgabenmanagement usw.
