@@ -47,12 +47,5 @@ Mit Hilfe der Funktion buchen können Lehrkräfte an der Schule vorhandene Resso
 + iPads
 + Laptops
 
-:::alert{success}
-Mit Hilfe eines csv Upload im Bereich "Stammdatem" --> "Ressourcen" können alle Ressourcen verfügbar gemacht werden, wobei der Eintrag **"Kurzname"** der eindeutige Schlüssel sein muss.
-
-
-Eine Beispieldatei kann hier heruntergeladen werden.
-:download[Herunterladen]{src="/download/webuntis/2022_23_Ressource.csv"}
-:::
 
 
