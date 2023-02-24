@@ -1,4 +1,7 @@
 ---
 name: Fotoimport
-index: 1
+index: 3
 ---
+
+# Foto
+Fotos
