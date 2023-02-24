@@ -1,4 +1,4 @@
 ---
 name: Schüler:innen
-index: 1
+index: 0
 ---
