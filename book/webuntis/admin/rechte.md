@@ -1,4 +1,4 @@
 ---
-name: Rechnte und Rollen
+name: Rechte und Rollen
 index: 4
 ---

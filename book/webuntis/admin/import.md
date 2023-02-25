@@ -27,12 +27,15 @@ Wir haben unsere Fotos von einem Schulfotografen anfertigen lassen, der uns dies
 
 3. Folgende Bilderstrecke zeigt die Schritte in webuntis
 
-Fotos sind im Bereich der Stammdaten mit hinterlegt.
+**1. Fotos sind im Bereich der Stammdaten mit hinterlegt.**
 ![](/Bilder/webuntis/import/webuntis_Foto_import.png)
-Punkt Schüler*innen
+
+**2. Punkt Schüler*innen**
 ![](/Bilder/webuntis/import/webuntis_Foto_import_1.png)
-Am Ende der Seite befindet sich der Punkt **Bildimport**.
+
+**3. Am Ende der Seite befindet sich der Punkt __Bildimport__.**
 ![](/Bilder/webuntis/import/webuntis_Foto_import_2.png)
 
+**4. Interne SchildID**
 Da bei uns die interne SchildID als externer Schlüssel allen SuS zur eindeutigen Identifikation beigefügt ist, lässt sich jeder SuS anhand dieser nummer identifizieren und somit werden die Fotos anhand dieses Schlüssel automatisch den SuS zugeordnet.
 ![](/Bilder/webuntis/import/webuntis_Foto_import_3.png)
