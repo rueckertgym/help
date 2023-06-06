@@ -171,13 +171,7 @@ index: 4
 
 ::::collapsible{title="Wie installiere ich Apps auf dem Dienstgerät?" }
 
- **Antwort:** Füllt das Formular aus oder sprecht mich an, damit wir gemeinsam die Apps installieren können.
-
- :::protect{password="4711" description="Passwort für das Formular bitte bei Sebastian Horn erfragen."}
-
- https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
-
- :::
+ **Antwort:** Auf den Lehreripads ist die jamf Teacher-App installiert, in der alle Apps der Schule hinterlegt sind und einfach installiert werden können. Hierfür entstehen natürlich keine Kosten!
 
 ::::
 
@@ -245,7 +239,7 @@ index: 4
 
 :::collapsible{title="Wo melde ich Probleme mit den Beamer und dem Wlan?"}
 
- Bitte meldet alle Fehler über die Fehlertabelle: https://docs.google.com/spreadsheets/d/10c1h-1tL5ilD9vHyzH3iRk4ghmwGuKr_nSXukGtoDo8/edit?usp=sharing Diese Tabelle kann von eschool eingesehen werden und wird sofort bearbeitet.
+Bitte nutzt die Ticketfunktion in webuntis.
 
 :::
 
@@ -336,6 +330,6 @@ Da sich die Zugangsdaten alle 24 Std. ändern, darf nicht die Funktion __Netzwer
 
 :::collapsible{title="Mein:e Schüler:inn hat ihr Passwort vergessen. Wer kann helfen?"}
 
-   Die Zugangsdaten der Schüler:innen sind noch im Kollegiumsordner unter „Medien & Technik & Internet“ —>  „2022.23 webuntis Zugangsdaten Schüler.innen“ abgelegt. Wenn die Emailadressen der Schüler:innen in webuntis hinterlegt sind, können auch Schüler:innen ein neues Passwort die "Passwort vergessen? Funktion anfordern.
+   ~~Die Zugangsdaten der Schüler:innen sind noch im Kollegiumsordner unter „Medien & Technik & Internet“ —>  „2022.23 webuntis Zugangsdaten Schüler.innen“ abgelegt.~~ Die Emailadressen der Schüler:innen sind in webuntis hinterlegt sind. In Verbindung mit ihrem Benutzernamen können sich Schüler:innen ein neues Passwort mit Hilfe der "Passwort vergessen? Funktion zuschicken lassen.
  
 :::
