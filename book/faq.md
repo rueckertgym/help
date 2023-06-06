@@ -43,7 +43,7 @@ index: 4
 
 :::
 
-::::collapsible{title="Gibt es eine Liste der installierten Programme? " }
+::::collapsible{title="Gibt es eine Liste der installierten Programme?"}
 
  Eine Liste der installierbaren Apps findet ihr im Formular unten und hier:
  
@@ -152,13 +152,7 @@ index: 4
 
  :::
 
- Ich versuche die iPads vollständig zu individualisieren d.h. ihr reicht eure Programmwünsche ein und ich installiere alles (siehe Formular).
-
- :::protect{password="4711" description="Passwort für das Formular bitte bei Sebastian Horn erfragen."}
-
- https://docs.google.com/forms/d/e/1FAIpQLSdpvvgpCArjqNbsjhFK9sYv4wie-N17lxKqJZ8LoSFrjzVMKA/viewform
-
- :::
+ Den Lehrern steht die jamf Teacher App (Appstore Alternative) zur Verfügung.
 ::::
 
 

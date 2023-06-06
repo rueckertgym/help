@@ -10,6 +10,7 @@ Gebt [hier](https://webuntis.com) eure Nutzerdaten an und ihr seht sofort euren 
 ![Loginseite](/Bilder/webuntis/loginSeite.png "Loginseite")
 
 ## Nutzerdaten
+
 Zukünftig werden alle Loginnamen für webuntis nach folgendem Muster aufgebaut sein:
 
 erstervorname.nachname
