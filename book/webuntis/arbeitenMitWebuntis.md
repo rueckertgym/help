@@ -27,6 +27,30 @@ Eure Zugangsdaten erhaltet ihr von euren Klassen- bzw. Jahrgangsstufenlehrer:in.
 
 Solltet ihr eure Zugangsdaten "vergessen" haben, wendet euch bitte an sebastian.horn(a)schule.duesseldorf.de oder noch besser: hinterlegt eure Emailadresse, so dass ihr die "Passwort vergessen?" Funktion nutzen könnt!
 
+#### Anmeldenamen
+
+Zukünftig werden alle Loginnamen zu webuntis nach folgendem Muster aufgebaut sein:
+ 
+**erstervorname.nachname**
+
+Habt ihr mehrere Vornamen und sind diese nicht durch einen Bindestrich voneinander getrennt, sind sie nicht Bestandteil des Benutzernamens/Loginnamens.
+
+Euer neues Passwort wird euer Geburtsdatum sein. Dieses wird im japanischen Format vorliegen **JJJJMMTT**
+
+__Bsp. 1:__ Du heißt Klaus Schmitz und bist am 01.01.2006 geboren. Dein Benutzername lautet dann klaus.schmitz mit dem Passwort 20060101
+
+__Bsp. 2:__ Du heißt Klaus Dieter Schmitz und bist am 01.01.2006 geboren. Dein Benutzername lautet dann klaus.schmitz mit dem Passwort 20060101
+
+__Bsp. 3:__ Du heißt Klaus-Dieter Schmitz und bist am 01.01.2006 geboren. Dein Benutzername lautet dann klaus-dieter.schmitz mit dem Passwort 20060101
+
+__Bsp. 4:__ Du heißt Klaus Dieter Schmitz Müller und bist am 01.01.2006 geboren. Dein Benutzername lautet dann klaus.schmitz-mueller mit dem Passwort 20060101
+
+__Bsp. 5:__ Du heißt Klaus Dieter Schmitz-Müller und bist am 01.01.2006 geboren. Dein Benutzername lautet dann klaus.schmitz-mueller mit dem Passwort 20060101
+
+**Bitte ändert euer Passwort umgehend, nach der Anmeldung!**
+
+Solltet ihr einmal euer Passwort verlieren, könnt ihr euch ein neues Passwort mit Hilfe der „Passwort vergessen?“ Funktion an eure hinterlegte Emailadresse zusenden lassen. Standardmässig ist eure wwschool Adresse hinterlegt.
+
 ### Eltern
 Momentan testen wir webuntis nur mit weinigen Testklassen. Hierfür haben wir bei den betroffenen Personen eine Emailadresse hinterlegt, mit der im weiteren Verlauf gearbeitet wird.
 
