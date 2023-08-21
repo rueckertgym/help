@@ -12,7 +12,7 @@ Hier ist es aus meiner Sicht sinnvoll auf eine gute Visualisierungmöglichkeit z
 2. Den Bereich auswählen bis wohin die Tabelle dargestellt werden soll
 ![Bereich auswählen](/Bilder/tabellenkalkulation/bereichAuswaehlen.png "Bereich auswählen")
 3. Fenster fixieren
-In diesem Bsp. bleibt die erste Zeile immer stehen auch wenn man weit nach unten scrollt. Somit läuft die Spaltenbezeichnung imm mit
+In diesem Bsp. bleibt die erste Zeile immer stehen auch wenn man weit nach unten scrollt. Somit läuft die Spaltenbezeichnung immer mit
 ![Fenster fixieren](/Bilder/tabellenkalkulation/fensterFixieren.png "Fenster fixieren")
 
 
