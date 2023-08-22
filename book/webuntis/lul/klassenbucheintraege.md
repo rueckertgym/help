@@ -1,5 +1,5 @@
 ---
-name: Fehlzeiten
+name: Klassenbucheinträge
 index: 4
 ---
 
