@@ -22,8 +22,8 @@ Mit Lehrstoff ist das Thema/der behandelte Lehrstoff der Stunde gemeint.
 Auf der Klassenbuchseite finden Sie den Abschnitt "Lehrstoff". Dort können Sie direkt den Lehrstoff der Stunde eintragen und auch noch eine Lehrform, sofern die angelegt wurde, auswählen.
 ![](/Bilder/webuntis/LuL/wu_lehrstoffeintraege1.gif)
 Klicken Sie auf <Bearbeiten>, dann haben Sie weitere Möglichkeiten zur Verfügung:
-•	Lehrstoff der vorigen Stunden: Sie sehen, was in den vorigen Stunden unterrichtet wurde. Das ist besonders bei Vertretungen sehr nützlich.
-•	Anmerkung: Eine individuelle Anmerkung kann gespeichert werden.
+* Lehrstoff der vorigen Stunden: Sie sehen, was in den vorigen Stunden unterrichtet wurde. Das ist besonders bei Vertretungen sehr nützlich.
+* Anmerkung: Eine individuelle Anmerkung kann gespeichert werden.
 ![](/Bilder/webuntis/LuL/wu_lehrstoffeintraege2.png)
 ![](/Bilder/webuntis/LuL/wu_lehrstoffeintraege3.gif)
 ### App
@@ -54,7 +54,7 @@ Auch in der App können Sie die Abwesenheiten erfassen. Mit einem Klick auf die 
 
 Wenn Sie eine Schülerin nach rechts wischen, ist sie absent gesetzt und wenn Sie einen Schüler nach links wischen, können Sie entscheiden, ob Sie eine Abwesenheit oder eine Verspätung eingeben wollen.
 
-[](/Bilder/webuntis/LuL/wu_Abwesenheiten3.png)
+![](/Bilder/webuntis/LuL/wu_Abwesenheiten3.png)
 
 Wenn alle Schüler*innen anwesend sind, klicken Sie auf den Button **<Abwesenheiten kontrolliert>**. Mit einem Klick auf den Bleistift können die Abwesenheiten noch bearbeitet werden.
 

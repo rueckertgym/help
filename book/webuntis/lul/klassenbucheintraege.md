@@ -9,23 +9,23 @@ Bei Klassenbucheinträgen handelt es sich meist um den Vermerk von disziplinäre
 ## Browser
 Das Fenster für Klassenbucheinträge öffnet sich nach einem Klick auf die Schaltfläche <Neu> im Feld <Klassenbucheinträge> auf der Klassenbuchhauptseite.
 
-[](/Bilder/webuntis/LuL/wu_Klassenbucheinträge1.gif)
+![](/Bilder/webuntis/LuL/wu_Klassenbucheinträge1.gif)
 
 Sie können in diesem Fenster einzelne Schüler*innen (mittels <STRG>-Klick) oder die ganze Klasse auswählen. Bestimmen Sie eine für den Eintrag geeignete Eintragskategorie und tragen Sie in dem dafür vorgesehenen Feld einen Kommentar ein.
 
-[](/Bilder/webuntis/LuL/wu_Klassenbucheinträge2.png)
+![](/Bilder/webuntis/LuL/wu_Klassenbucheinträge2.png)
 
 ## App
 In der App klicken Sie auf die gewünschte Stunde und dann links unten auf <Abwesenheiten>. Rechts neben den Namen der Schüler*innen finden Sie einen kleinen Button, über den Sie die Klassenbucheinträge vornehmen können. Wenn es schon einen Eintrag gibt, wird das farblich gekennzeichnet.
-[](/Bilder/webuntis/LuL/wu_Klassenbucheinträge3.png)
+![](/Bilder/webuntis/LuL/wu_Klassenbucheinträge3.png)
 
 ### Eintragungskategorien
 Die Eintragskategorien wurden wie folgt festgelegt und können von der individuellen Lehrkraft nicht geändert werden. 
-	* stört
-	* ohne Hausaufgaben
-	* ohne Material 
-	* nicht aufmerksam
-	* ohne Sportzeug
+* stört
+* ohne Hausaufgaben
+* ohne Material 
+* nicht aufmerksam
+* ohne Sportzeug
 
 ### Übersicht
 Für Klassenlehrer*innen finden Sie in "Klassenbuch | Klassenbucheinträge" auch eine Übersicht über alle Einträge der eigenen Klassen. Hier finden Sie auch unterschiedliche Filtermöglichkeiten.
