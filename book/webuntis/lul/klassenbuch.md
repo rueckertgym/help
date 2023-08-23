@@ -38,7 +38,7 @@ Die Dauer der Abwesenheit ist je nach Einstellungen auf das Ende des Fachunterri
 
 Wenn Sie den Abwesenheitsgrund kennen, können Sie in auswählen. Die Abwesenheiten erscheinen extra aufgelistet.
 
-Sollten keine Schüler:innen abwesend sein, klicken Sie auf die Schaltfläche **<Abwesenheiten kontrolliert>**. Dadurch bestätigen Sie die **Anwesenheit** aller Schüler:innen.
+Sollten keine Schüler:innen abwesend sein, klicken Sie auf die Schaltfläche **Abwesenheiten kontrolliert**. Dadurch bestätigen Sie die **Anwesenheit** aller Schüler:innen.
 
 #### Bearbeiten
 Klicken Sie in der Abwesenheit auf die Schaltfläche mit dem "Stift" um die Abwesenheit zu bearbeiten.
@@ -56,7 +56,7 @@ Wenn Sie eine Schülerin nach rechts wischen, ist sie absent gesetzt und wenn Si
 
 ![](/Bilder/webuntis/LuL/wu_Abwesenheiten3.png)
 
-Wenn alle Schüler*innen anwesend sind, klicken Sie auf den Button **<Abwesenheiten kontrolliert>**. Mit einem Klick auf den Bleistift können die Abwesenheiten noch bearbeitet werden.
+Wenn alle Schüler*innen anwesend sind, klicken Sie auf den Button **Abwesenheiten kontrolliert**. Mit einem Klick auf den Bleistift können die Abwesenheiten noch bearbeitet werden.
 
 ## Tickets
 Über das Ticketystem können Fehlermeldungen an das Medienteam gemacht werden, wenn z.B. der Beamer in einem Raum defekt ist o.ä.
