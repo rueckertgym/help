@@ -1,10 +1,10 @@
 ---
-name: Klassenlehrer:inn Klasse
+name: Klassenlehrer Abwesenheiten
 index: 5
 ---
 # Klassenlehrerentschuldigung
 Klassenlehrer:innen verwalten die Abwesenheiten ihrer Klasse über das Klassenbuch verwalten. Hierbei ist es egal, ob eine zukünftige oader zurückliegende Abwesenheit eingetragen und ggf. entschuldigt wird.
-[](/Bilder/webuntis/LuL/EntschuldigenSonderfall1/wu_Klassenlehrer_Entschuldigen_Fehler1.PNG)
+[](/Bilder/webuntis/LuL/EntschuldigenSonderfall1/wu_Klassenlehrer_Entschuldigen_Fehler1.png)
 
 Unter **Abwesenheiten** werden die Abwesenheiten der eigenen Klasse angezeigt.
 [](/Bilder/webuntis/LuL/EntschuldigenSonderfall1/wu_Klassenlehrer_Entschuldigen_Fehler2.PNG)

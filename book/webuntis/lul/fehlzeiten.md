@@ -11,7 +11,7 @@ In einer zukünftigen Version soll die Funktionalität auch mit der app möglich
 :::
 
 Mit Fachlehrerentschuldigung wird der Vorgang des Entschuldigens der Abwesenheiten eines Schülers im eigenen Unterricht beschrieben. Bei uns betrifft dies die Jahrgangsstufen EF, Q1, Q2 und Klassenlehrer*innen 
-Fehlzeiten werden am besten über den Eintrag „Klassenbuch“  „Fehlzeiten“ entschuldigt.
+Fehlzeiten werden am besten über den Eintrag „Klassenbuch“ --> „Fehlzeiten“ entschuldigt.
 
 In der Seite ”Fehlzeiten” wird die Spalte für den Status mit Aktionsitems zum Ändern des Entschuldigungsstatus befüllt.
 Dadurch können Lehrpersonen einzelne Fehlstunden aus (längeren) Abwesenheiten entschuldigen.
