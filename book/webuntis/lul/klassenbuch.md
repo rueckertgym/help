@@ -34,7 +34,7 @@ Klicken Sie auf die gewünschte Stunde, dann finden Sie um unteren Bereich die M
 Navigieren Sie auf die Klassenbuchhauptseite und klicken Sie dort bei den Schüler*innen, die nicht anwesend sind auf den grünen Haken.
 
 Die Dauer der Abwesenheit ist je nach Einstellungen auf das Ende des Fachunterrichts begrenzt.
-![](/Bilder/webuntis/LuL/wu_Abwesenheiten1.gif)
+![](/Bilder/webuntis/LuL/wu_Abwesenheiten1.png)
 
 Wenn Sie den Abwesenheitsgrund kennen, können Sie in auswählen. Die Abwesenheiten erscheinen extra aufgelistet.
 
