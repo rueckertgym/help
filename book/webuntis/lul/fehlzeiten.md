@@ -57,3 +57,10 @@ Wenn eine Abwesenheit als Ganze bspw. durch den Klassenlehrer entschuldigt wird,
 ![](/Bilder/webuntis/LuL/wu_Fachlehrerentschuldigung3.png)
 Es ist möglich auch mehrere Fehlstunden gleichzeitig zu entschuldigen. Benutzen Sie dafür bitte die Checkboxen auf der linken Seite.
 ![](/Bilder/webuntis/LuL/wu_Fachlehrerentschuldigung4.png)
+
+# Video
+Folgendes Video stellt den Prozess der Fehlzeitenentschukdigung in der Oberstufe nach.
+
+::youtube[Fehlzeiten entschuldigen in der Oberstufe]{#5ocY-hXnnaQ}
+
+https://youtu.be/5ocY-hXnnaQ
