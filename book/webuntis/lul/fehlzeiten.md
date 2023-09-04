@@ -59,10 +59,9 @@ Es ist möglich auch mehrere Fehlstunden gleichzeitig zu entschuldigen. Benutzen
 ![](/Bilder/webuntis/LuL/wu_Fachlehrerentschuldigung4.png)
 
 # Video
-Folgendes Video stellt den Prozess der Fehlzeitenentschukdigung in der Oberstufe nach.
+Folgendes Video stellt den Prozess der Fehlzeitenentschuldigung in der Oberstufe nach. Das Entschuldigen ist nur über einen Browser und nicht mit der App möglich!!
 
 ::youtube[Fehlzeiten entschuldigen in der Oberstufe]{#5ocY-hXnnaQ}
 
-::youtube[Fehlzeiten entschuldigen in der Oberstufe]{5ocY-hXnnaQ}
 
 https://youtu.be/5ocY-hXnnaQ
